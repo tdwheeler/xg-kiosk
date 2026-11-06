@@ -1,0 +1,3 @@
+{
+  "description": "Split 8 places the boundary between radio unit and baseband at the antenna, sending raw sampled waveforms over fronthaul. It keeps the radio simple and centralises processing, at the cost of very high, constant bandwidth on the fronthaul link."
+}

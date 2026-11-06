@@ -1,0 +1,234 @@
+{
+  "description": "Ultra-Massive MIMO uses very large, often distributed arrays of antennas and access points. Spatial multiplexing, precise beamforming, and coordinated resource control aim to increase capacity, coverage, and energy efficiency in 6G.",
+  "featured": {
+    "title": "Two-timescale joint power control and beamforming design with applications to cell-free massive MIMO",
+    "authors": "L. Miretti, R. L. G. Cavalcante, und S. Stańczak",
+    "venue": "IEEE Transactions on Wireless Communications",
+    "year": "2025",
+    "summary": "Optimizes “Two-timescale joint power control and beamforming design with applications to cell-free massive MIMO”. Focus: resource decisions, constraints and performance trade-offs in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems.",
+    "citations": {
+      "count": "11",
+      "source": "ResearchGate",
+      "checkedOn": "2026-08-27",
+      "url": "https://www.researchgate.net/search/publication?q=Two-timescale+joint+power+control+and+beamforming+design+with+applications+to+cell-free+massive+MIMO"
+    }
+  },
+  "publications": [
+    {
+      "title": "A Highly-Integrated 64-QAM Ku-Band Transceiver in SiGe BiCMOS for 6G Cell-Free MIMO",
+      "authors": "A. Engelhardt, F. Stapelfeldt, M. Kadam, P. Oliveira, H.-D. Wohlmuth, und V. Issakov",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Investigates “A Highly-Integrated 64-QAM Ku-Band Transceiver in SiGe BiCMOS for 6G Cell-Free MIMO”. Focus: the core mechanism, system behavior and engineering implications in FR3 Spectrum (7-24 GHz), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "On the Optimal Performance of Distributed Cell-Free Massive MIMO With LoS Propagation",
+      "authors": "N. Ul Ain, L. Miretti, und S. Stanczak",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Analyzes “On the Optimal Performance of Distributed Cell-Free Massive MIMO With LoS Propagation”. Focus: system behavior, performance limits and design trade-offs in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Fronthaul Resource Optimization for Cell-Free Massive MIMO Networks",
+      "authors": "A. Joshi, T. K. Nguyen, und T. Bauschert",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Optimizes “Fronthaul Resource Optimization for Cell-Free Massive MIMO Networks”. Focus: resource decisions, constraints and performance trade-offs in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Two-timescale weighted sum-rate maximization for large cellular and cell-free massive MIMO",
+      "authors": "L. Miretti, E. Björnson, und S. Stańczak",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Optimizes “Two-timescale weighted sum-rate maximization for large cellular and cell-free massive MIMO”. Focus: resource decisions, constraints and performance trade-offs in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Joint Message Detection, Channel, and User Position Estimation for Unsourced Random Access in Cell-Free Networks",
+      "authors": "E. Gkiouzepi, B. Çakmak, M. Opper, und G. Caire",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Joint Message Detection, Channel, and User Position Estimation for Unsourced Random Access in Cell-Free Networks”. Focus: the core mechanism, system behavior and engineering implications in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Joint Message Detection and Channel Estimation for Unsourced Random Access in Cell-Free User-Centric Wireless Networks",
+      "authors": "B. Çakmak, E. Gkiouzepi, M. Opper, G. Caire, und K. K. Tiwari",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Joint Message Detection and Channel Estimation for Unsourced Random Access in Cell-Free User-Centric Wireless Networks”. Focus: the core mechanism, system behavior and engineering implications in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Robust Estimation of Angular Power Spectrum in Massive MIMO Under Covariance Estimation Errors: Learning Centers and Scales of Gaussians",
+      "authors": "N. Kaneko, M. Yukawa, R. L. G. Cavalcante, und L. Miretti",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Robust Estimation of Angular Power Spectrum in Massive MIMO Under Covariance Estimation Errors: Learning Centers and Scales of…”. Focus: the core mechanism, system behavior and engineering implications in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Rate-Splitting Downlink Transmission in Cell-Free Networks under Fronthaul Constraints",
+      "authors": "E. Jorswieck, L. Kunz, R. Raghunath, und B. Peng",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Rate-Splitting Downlink Transmission in Cell-Free Networks under Fronthaul Constraints”. Focus: the core mechanism, system behavior and engineering implications in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Distributed Combinatorial Optimization of Downlink User Assignment in mmWave Cell-free Massive MIMO Using Graph Neural Networks",
+      "authors": "Africa, Juni 2024. doi: 10.48550/arXiv.2406.06284. B. Peng, B. Guo, K.-L. Besser, L. Kunz, R. Raghunath, A. Schmeink, E. A. Jorswieck, G. Caire, und H. V. Poor",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Explores “Distributed Combinatorial Optimization of Downlink User Assignment in mmWave Cell-free Massive MIMO Using Graph Neural Networks”. Focus: data-driven prediction, control, optimization or adaptation in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Energy-Efficient power allocation in Cell-Free massive MIMO via graph neural networks",
+      "authors": "R. Raghunath, B. Peng, und E. A. Jorswieck",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Explores “Energy-Efficient power allocation in Cell-Free massive MIMO via graph neural networks”. Focus: data-driven prediction, control, optimization or adaptation in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Unlocking the Potential of Local CSI in Cell-Free Networks with Channel Aging and Fronthaul Delays",
+      "authors": "L. Miretti und S. Stańczak",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Unlocking the Potential of Local CSI in Cell-Free Networks with Channel Aging and Fronthaul Delays”. Focus: the core mechanism, system behavior and engineering implications in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Dynamic Fronthaul Load Optimization for Uplink Scalable Cell-Free User-Centric Massive MIMO",
+      "authors": "Z. Li, F. Göttsch, S. Li, M. Chen, und G. Caire",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Optimizes “Dynamic Fronthaul Load Optimization for Uplink Scalable Cell-Free User-Centric Massive MIMO”. Focus: resource decisions, constraints and performance trade-offs in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Safety-Aware Age of Information (S-AoI) for Collision Risk Minimization in Cell-Free mMIMO Platooning Networks",
+      "authors": "M. R. Abedi, N. Mokari, M. R. Javan, H. Saeedi, E. A. Jorswieck, und H. Yanikomeroglu",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Optimizes “Safety-Aware Age of Information (S-AoI) for Collision Risk Minimization in Cell-Free mMIMO Platooning Networks”. Focus: resource decisions, constraints and performance trade-offs in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "21",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Safety-Aware+Age+of+Information+%28S-AoI%29+for+Collision+Risk+Minimization+in+Cell-Free+mMIMO+Platooning+Networks"
+      }
+    },
+    {
+      "title": "Ultradense Cell-Free Massive MIMO for 6G: Technical Overview and Open Questions",
+      "authors": "H. Q. Ngo, G. Interdonato, E. G. Larsson, G. Caire, und J. G. Andrews",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Surveys “Ultradense Cell-Free Massive MIMO for 6G: Technical Overview and Open Questions”. Focus: main approaches, design choices and open questions in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "202",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Ultradense+Cell-Free+Massive+MIMO+for+6G%3A+Technical+Overview+and+Open+Questions"
+      }
+    },
+    {
+      "title": "UL-DL Duality for Cell-Free Massive MIMO With Per-AP Power and Information Constraints",
+      "authors": "L. Miretti, R. L. G. Cavalcante, E. Björnson, und S. Stańczak",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Investigates “UL-DL Duality for Cell-Free Massive MIMO With Per-AP Power and Information Constraints”. Focus: the core mechanism, system behavior and engineering implications in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "23",
+        "source": "Connected Papers",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.connectedpapers.com/search?q=UL-DL+Duality+for+Cell-Free+Massive+MIMO+With+Per-AP+Power+and+Information+Constraints"
+      }
+    },
+    {
+      "title": "Joint Fronthaul Load Balancing and Computation Resource Allocation in Cell-Free User-Centric Massive MIMO Networks",
+      "authors": "Z. Li, F. Göttsch, S. Li, M. Chen, und G. Caire",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Optimizes “Joint Fronthaul Load Balancing and Computation Resource Allocation in Cell-Free User-Centric Massive MIMO Networks”. Focus: resource decisions, constraints and performance trade-offs in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "30",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Joint+Fronthaul+Load+Balancing+and+Computation+Resource+Allocation+in+Cell-Free+User-Centric+Massive+MIMO+Networks"
+      }
+    },
+    {
+      "title": "BiSPARCs for Unsourced Random Access in Massive MIMO",
+      "authors": "P. Agostini, Z. Utkovski, und S. Stanczak",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “BiSPARCs for Unsourced Random Access in Massive MIMO”. Focus: the core mechanism, system behavior and engineering implications in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Joint Active Precoding for RIS-Aided Cell-Free MIMO Networks",
+      "authors": "G. Dogim, E. A. Maher, A. El-Mahdy, und F. Dressler",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Joint Active Precoding for RIS-Aided Cell-Free MIMO Networks”. Focus: the core mechanism, system behavior and engineering implications in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "FDD Massive MIMO Channel Training: Optimal Rate-Distortion Bounds and the Spectral Efficiency of “One-Shot” Schemes",
+      "authors": "M. B. Khalilsarai, Y. Song, T. Yang, und G. Caire",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Investigates “FDD Massive MIMO Channel Training: Optimal Rate-Distortion Bounds and the Spectral Efficiency of “One-Shot” Schemes”. Focus: the core mechanism, system behavior and engineering implications in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "11",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=FDD+Massive+MIMO+Channel+Training%3A+Optimal+Rate-Distortion+Bounds+and+the+Spectral+Efficiency+of+%E2%80%9COne-Shot%E2%80%9D+Schemes"
+      }
+    },
+    {
+      "title": "NOMA-Based Coexistence of Near-Field and Far-Field Massive MIMO Communications",
+      "authors": "Z. Ding, R. Schober, und H. V. Poor",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Investigates “NOMA-Based Coexistence of Near-Field and Far-Field Massive MIMO Communications”. Focus: the core mechanism, system behavior and engineering implications in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "45",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=NOMA-Based+Coexistence+of+Near-Field+and+Far-Field+Massive+MIMO+Communications"
+      }
+    },
+    {
+      "title": "Two-Timescale Design for Reconfigurable Intelligent Surface-Aided Massive MIMO Systems With Imperfect CSI",
+      "authors": "K. Zhi, C. Pan, H. Ren, K. Wang, M. Elkashlan, M. D. Renzo, R. Schober, H. V. Poor, J. Wang, und L. Hanzo",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Presents “Two-Timescale Design for Reconfigurable Intelligent Surface-Aided Massive MIMO Systems With Imperfect CSI”. Focus: architecture, implementation choices and engineering trade-offs in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "97",
+        "source": "Emergent Mind / Semantic Scholar",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.emergentmind.com/search?q=Two-Timescale+Design+for+Reconfigurable+Intelligent+Surface-Aided+Massive+MIMO+Systems+With+Imperfect+CSI"
+      }
+    },
+    {
+      "title": "Joint optimal beamforming and power control in cell-free massive MIMO",
+      "authors": "L. Miretti, R. L. G. Cavalcante, und S. Stanczak",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Optimizes “Joint optimal beamforming and power control in cell-free massive MIMO”. Focus: resource decisions, constraints and performance trade-offs in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Downlink Precoding for DP-UPA FDD Massive MIMO via Multi-Dimensional Active Channel Sparsification",
+      "authors": "H. Yu, X. Yi, und G. Caire",
+      "year": "2022",
+      "isConference": false,
+      "summary": "Investigates “Downlink Precoding for DP-UPA FDD Massive MIMO via Multi-Dimensional Active Channel Sparsification”. Focus: the core mechanism, system behavior and engineering implications in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "4",
+        "source": "SciSpace",
+        "checkedOn": "2026-08-27",
+        "url": "https://scispace.com/search?q=Downlink+Precoding+for+DP-UPA+FDD+Massive+MIMO+via+Multi-Dimensional+Active+Channel+Sparsification"
+      }
+    },
+    {
+      "title": "Closed-form max-min power control for some cellular and cell-free massive MIMO networks",
+      "authors": "Italy, Juni 2022, S. 252–257. doi: 10.1109/EuroSPW55150.2022.00031. L. Miretti, R. L. G. Cavalcante, S. Stanczak, M. Schubert, R. Bohnke, und W. Xu",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Optimizes “Closed-form max-min power control for some cellular and cell-free massive MIMO networks”. Focus: resource decisions, constraints and performance trade-offs in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems."
+    }
+  ]
+}

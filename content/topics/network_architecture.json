@@ -1,0 +1,3 @@
+{
+  "description": "Network architecture describes how the functions of a mobile network are divided, where they run, and how they interconnect. Choices here set the limits on latency, scaling and where intelligence can sit, before any single component is designed."
+}

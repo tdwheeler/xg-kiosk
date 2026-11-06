@@ -1,0 +1,16 @@
+HOW TO LAUNCH THE xG KIOSK
+==========================
+
+1. Set the display to EXTEND, not mirror.
+   In mirror mode the big screen has to show the laptop's picture at a
+   resolution the laptop screen also supports, usually far below the big
+   screen's own, so the kiosk looks blurry and badly scaled. In extend mode
+   the big screen runs at its own full resolution.
+   To switch: press Windows key + P and choose "Extend".
+
+2. Double-click index.html in this folder.
+   The kiosk opens in your web browser.
+
+3. Drag the browser window onto the big screen.
+
+4. Set the browser to full screen mode.

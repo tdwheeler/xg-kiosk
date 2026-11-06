@@ -1,0 +1,39 @@
+{
+  "positioning": "Massmedia Multicast Live Video Streaming",
+  "valueProp": "We utilize multicast and QUIC to dramatically reduce the amount of computing and network capacity required. This is particularly applicable to mass media events where millions watch the same stream.",
+  "turnover": {
+    "value": "€10M",
+    "label": "Expected turnover four years from now"
+  },
+  "technologies": [
+    "QUIC",
+    "Multicast",
+    "Scalable Video",
+    "AMT",
+    "BIER"
+  ],
+  "founders": [
+    {
+      "name": "Max Franke",
+      "role": "Co-Founder & CTO",
+      "bio": "Years of experience in network protocol design and standardization. Actively worked on developing the Multicast QUIC technology since its inception. Previously a PhD student at Prof. Schmid's INET chair at TU Berlin.",
+      "photo": null
+    }
+  ],
+  "backSections": [
+    {
+      "heading": "Our Mission",
+      "body": "QUICast makes large-scale live streaming more efficient, resilient, and sustainable. We bring multicast into the QUIC era, enabling the same live content to reach many viewers without duplicating traffic for every single connection. Our goal is to reduce network load while preserving the reliability, security, and quality of experience expected from modern internet delivery."
+    },
+    {
+      "heading": "Our Core Competencies",
+      "body": "We combine deep expertise in transport protocols, multicast networking, and real-time media delivery. QUICast focuses on secure multicast delivery over QUIC, supported by unicast verification, feedback, and fallback mechanisms. This allows content providers, network operators, and platform builders to serve high-demand events such as live sports, broadcasts, conferences, and public streams with greater scalability and efficiency."
+    },
+    {
+      "heading": "What Makes Us Different",
+      "body": "QUICast does not replace today’s internet delivery model — it extends it. By coordinating multicast delivery through individual QUIC connections, we combine the efficiency of one-to-many transmission with the control and robustness of unicast. Our hybrid approach is designed to work transparently with existing applications, adapt to real network conditions, and provide a practical path toward mass-scale live streaming without compromising security, reliability, or viewer experience. Public context I found frames QUICast around “secure, reliable multicast delivery for mass-scale live streaming,” while the underlying multicast-QUIC concept is designed to send identical streams efficiently to many clients using individual QUIC connections for coordination and verification."
+    }
+  ],
+  "quote": "Born out of the research on live video streaming and transport protocols, QUICast is hoping to use the current industry need to handle peak traffic events. These are currently among the major challenges for all stakeholders, including ISPs and CDNs. QUICast trying to bridge the gap of the major advantages of multicast and its operational problems and issues.",
+  "location": "Berlin, Germany"
+}

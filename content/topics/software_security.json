@@ -1,0 +1,40 @@
+{
+  "description": "Software supply-chain security protects software across development, dependencies, updates, containers, and deployment. It aims to detect manipulation and vulnerable components early and preserve software integrity during rollout and operation of network systems.",
+  "featured": {
+    "title": "Secure Stitch: Unveiling the Fabric of Security Patterns for the Internet of Things",
+    "authors": "E. Geloczi, F. Klement, E. Gründinger, und S. Katzenbeisser",
+    "venue": "Security and Trust Management",
+    "year": "2023",
+    "summary": "Examines “Secure Stitch: Unveiling the Fabric of Security Patterns for the Internet of Things”. Focus: threats, protection mechanisms and security-performance trade-offs in Software Supply-Chain Security, giving a quick view of the problem and its role in future wireless and network systems."
+  },
+  "publications": [
+    {
+      "title": "Eagle: Vulnerability and Congestion Aware Software Update Synthesis in Softwarized Networks (With a 5G Network Case Study)",
+      "authors": "Kingdom, Mai 2025. N. Schnepf, R. Badonnel, D. Saucez, S. Schmid, und J. Srba",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Examines “Eagle: Vulnerability and Congestion Aware Software Update Synthesis in Softwarized Networks (With a 5G Network Case Study)”. Focus: threats, protection mechanisms and security-performance trade-offs in Software Supply-Chain Security, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Securing the Open RAN Infrastructure: Exploring Vulnerabilities in Kubernetes Deployments",
+      "authors": "F. Klement, A. Brighente, M. Polese, M. Conti, und S. Katzenbeisser",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Examines “Securing the Open RAN Infrastructure: Exploring Vulnerabilities in Kubernetes Deployments”. Focus: threats, protection mechanisms and security-performance trade-offs in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Ensuring Trustworthy Automated Road Vehicles: A Software Integrity Validation Approach",
+      "authors": "D. Püllen, F. Klement, A. Vinel, und S. Katzenbeisser",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Ensuring Trustworthy Automated Road Vehicles: A Software Integrity Validation Approach”. Focus: the core mechanism, system behavior and engineering implications in Autonomous Mobility, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "ASanity: On Bug Shadowing by Early ASan Exits",
+      "authors": "V. Ulitzsch, D. Scholz, und D. Maier",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “ASanity: On Bug Shadowing by Early ASan Exits”. Focus: the core mechanism, system behavior and engineering implications in Software Supply-Chain Security, giving a quick view of the problem and its role in future wireless and network systems."
+    }
+  ]
+}

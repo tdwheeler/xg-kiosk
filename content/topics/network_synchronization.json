@@ -1,0 +1,46 @@
+{
+  "description": "Network synchronization provides a common time and frequency reference for distributed radio components. Precise timing limits jitter and asynchrony and is essential for coordinated transmission, mobility, and high data rates.",
+  "featured": {
+    "title": "Robust mmWave/sub-THz multi-connectivity using minimal coordination and coarse synchronization",
+    "authors": "L. Miretti, G. Caire, und S. Stańczak",
+    "venue": "arXiv",
+    "year": "2024",
+    "summary": "Investigates “Robust mmWave/sub-THz multi-connectivity using minimal coordination and coarse synchronization”. Focus: the core mechanism, system behavior and engineering implications in Network Synchronization & Timing, giving a quick view of the problem and its role in future wireless and network systems."
+  },
+  "publications": [
+    {
+      "title": "Analyzing SNR Degradation Due to Jitter in Practical Direct RF Sampling Systems",
+      "authors": "D. Osterland, A. Benzin, und G. Caire",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Presents “Analyzing SNR Degradation Due to Jitter in Practical Direct RF Sampling Systems”. Focus: architecture, implementation choices and engineering trade-offs in Network Synchronization & Timing, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Age of Information for Frame Asynchronous Coded Slotted ALOHA",
+      "authors": "H. Asgari, A. Munari, und G. Liva",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Age of Information for Frame Asynchronous Coded Slotted ALOHA”. Focus: the core mechanism, system behavior and engineering implications in Network Synchronization & Timing, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Worst-case per-user error bound for asynchronous unsourced multiple access",
+      "authors": "J.-S. Wu, P.-H. Lin, M. A. Mross, und E. A. Jorswieck",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Worst-case per-user error bound for asynchronous unsourced multiple access”. Focus: the core mechanism, system behavior and engineering implications in Network Synchronization & Timing, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Analytical Model of ALOHA and Time- and Frequency-Asynchronous ALOHA with Forward Error Correction for IoT Systems",
+      "authors": "F. Clazzer und M. Grec",
+      "year": "2022",
+      "isConference": false,
+      "summary": "Presents “Analytical Model of ALOHA and Time- and Frequency-Asynchronous ALOHA with Forward Error Correction for IoT Systems”. Focus: architecture, implementation choices and engineering trade-offs in Network Synchronization & Timing, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "8",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Analytical+Model+of+ALOHA+and+Time-+and+Frequency-Asynchronous+ALOHA+with+Forward+Error+Correction+for+IoT+Systems"
+      }
+    }
+  ]
+}

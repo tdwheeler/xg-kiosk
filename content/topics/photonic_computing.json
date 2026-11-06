@@ -1,0 +1,60 @@
+{
+  "description": "Photonic computing uses optical components for information processing, not only transmission. Resonators and photonic reservoirs can provide highly parallel signal processing and machine-learning functions with high bandwidth and potentially low energy consumption.",
+  "featured": {
+    "title": "Cascaded Micro-Ring Resonator based Reservoir Computing for Optical Equalization of PAM-4 Short Reach Signals",
+    "authors": "S. Kühl, M. S. Laleh, A. Mataji-Kojouri, S. Oettinghaus, K. Jamshidi, und S. Pachnicke",
+    "venue": "J. Lightwave Technol",
+    "year": "2025",
+    "summary": "Investigates “Cascaded Micro-Ring Resonator based Reservoir Computing for Optical Equalization of PAM-4 Short Reach Signals”. Focus: the core mechanism, system behavior and engineering implications in Photonic Systems & Integration, giving a quick view of the problem and its role in future wireless and network systems.",
+    "citations": {
+      "count": "4",
+      "source": "ResearchGate",
+      "checkedOn": "2026-08-27",
+      "url": "https://www.researchgate.net/search/publication?q=Cascaded+Micro-Ring+Resonator+based+Reservoir+Computing+for+Optical+Equalization+of+PAM-4+Short+Reach+Signals"
+    }
+  },
+  "publications": [
+    {
+      "title": "Parallel Micro-Ring Resonator based Reservoir Computing for Optical Equalization of 112 Gbaud PAM-4 Signals",
+      "authors": "S. Kühl, M. S. Laleh, und S. Pachnicke",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Parallel Micro-Ring Resonator based Reservoir Computing for Optical Equalization of 112 Gbaud PAM-4 Signals”. Focus: the core mechanism, system behavior and engineering implications in Photonic Systems & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Ring-Cascaded Sequential Micro-Ring Resonators Array as a Photonic Reservoir for Signal Equalization in Intra-Data Center Networks",
+      "authors": "M. S. Laleh, S. Kühl, S. Oettinghaus, A. Dochhan, und S. Pachnicke",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Ring-Cascaded Sequential Micro-Ring Resonators Array as a Photonic Reservoir for Signal Equalization in Intra-Data Center Networks”. Focus: the core mechanism, system behavior and engineering implications in Photonic Systems & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Neuromorphic reservoir for nonlinear optical signal equalization",
+      "authors": "G. Von Hünefeld, B. Chacko, G. Ronniger, M. Kaveh, I. Sackey, M. Aghaeipour, P. Bienstman, C. Schubert, und R. Freund",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Investigates “Neuromorphic reservoir for nonlinear optical signal equalization”. Focus: the core mechanism, system behavior and engineering implications in Photonic Computing, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Comparison of Passive Photonic Reservoir Computing Architectures for Signal Equalization of Future Generation Intra-DCN and Mobile Fronthaul Systems",
+      "authors": "S. Kühl, L. E. Kruse, und S. Pachnicke",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Presents “Comparison of Passive Photonic Reservoir Computing Architectures for Signal Equalization of Future Generation Intra-DCN and Mobile…”. Focus: architecture, implementation choices and engineering trade-offs in Photonic Systems & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "56 Gbaud PAM-4 Transmission Equalization using Implicitly Masked Parallel Micro-Ring Resonator Reservoir Computing",
+      "authors": "S. Kühl, L. E. Kruse, und S. Pachnicke",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Investigates “56 Gbaud PAM-4 Transmission Equalization using Implicitly Masked Parallel Micro-Ring Resonator Reservoir Computing”. Focus: the core mechanism, system behavior and engineering implications in Photonic Systems & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Enabling Optical Modulation Format Identification Using an Integrated Photonic Reservoir and a Digital Multiclass Classifier",
+      "authors": "G. von Hünefeld, G. Ronniger, P. Safari, I. Sackey, R. Thomas, E. Seker, P. Cegielski, S. Suckow, M. Lemme, D. Stahl, S. Masaad, E. Gooskens, P. Bienstman, C. Schubert, J. K. Fischer, und R. Freund",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Investigates “Enabling Optical Modulation Format Identification Using an Integrated Photonic Reservoir and a Digital Multiclass Classifier”. Focus: the core mechanism, system behavior and engineering implications in Photonic Systems & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    }
+  ]
+}

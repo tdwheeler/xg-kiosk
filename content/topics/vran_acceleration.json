@@ -1,0 +1,52 @@
+{
+  "description": "vRAN acceleration uses GPUs, FPGAs, and optimized signal processing to speed up virtualized and cloud-based RAN functions. The goal is low latency, high PHY throughput, and efficient execution on flexible compute infrastructure.",
+  "featured": {
+    "title": "Distributed Machine-Learning for Early HARQ Feedback Prediction in Cloud RANs",
+    "authors": "B. Göktepe, C. Hellge, T. Schierl, und S. Stanczak",
+    "venue": "IEEE Trans. Wireless Commun",
+    "year": "2024",
+    "summary": "Investigates “Distributed Machine-Learning for Early HARQ Feedback Prediction in Cloud RANs”. Focus: the core mechanism, system behavior and engineering implications in vRAN Acceleration, giving a quick view of the problem and its role in future wireless and network systems.",
+    "citations": {
+      "count": "16",
+      "source": "ResearchGate",
+      "checkedOn": "2026-08-27",
+      "url": "https://www.researchgate.net/search/publication?q=Distributed+Machine-Learning+for+Early+HARQ+Feedback+Prediction+in+Cloud+RANs"
+    }
+  },
+  "publications": [
+    {
+      "title": "Latency Analysis of SDR-based Experimental C-RAN / O-RAN Systems",
+      "authors": "C. Laskos, A. Zubow, und F. Dressler",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Presents “Latency Analysis of SDR-based Experimental C-RAN / O-RAN Systems”. Focus: architecture, implementation choices and engineering trade-offs in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Next-Gen AI-on-RAN: AI-native, Interoperable, and GPU-Accelerated Testbed Towards 6G Open-RAN",
+      "authors": "O. T. Basaran, Z. Hammad, M. Kasparick, F. Dressler, und S. Stanczak",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Explores “Next-Gen AI-on-RAN: AI-native, Interoperable, and GPU-Accelerated Testbed Towards 6G Open-RAN”. Focus: data-driven prediction, control, optimization or adaptation in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Challenges for designing an FPGA-based data link layer processor dedicated to sub-THz communication",
+      "authors": "Y. Jian, L. Lopacinski, K. Tittelbach-Helmrich, M. Scheide, K. KrishneGowda, und E. Grass",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Presents “Challenges for designing an FPGA-based data link layer processor dedicated to sub-THz communication”. Focus: architecture, implementation choices and engineering trade-offs in vRAN Acceleration, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "GPU-Accelerated Partially Linear Multiuser Detection for 5G and Beyond URLLC Systems",
+      "authors": "M. Mehlhose, G. Marcus, D. Schaufele, D. A. Awan, N. Binder, M. Kasparick, R. L. G. Cavalcante, S. Stanczak, und A. Keller",
+      "year": "2022",
+      "isConference": false,
+      "summary": "Presents “GPU-Accelerated Partially Linear Multiuser Detection for 5G and Beyond URLLC Systems”. Focus: architecture, implementation choices and engineering trade-offs in vRAN Acceleration, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "6",
+        "source": "Rankless",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.rankless.org/"
+      }
+    }
+  ]
+}

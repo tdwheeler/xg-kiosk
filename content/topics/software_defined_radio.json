@@ -1,0 +1,54 @@
+{
+  "description": "Software-Defined Radio moves radio functions such as modulation, filtering, and protocol processing into programmable software and flexible digital hardware. This enables rapid prototyping, testing, and reconfiguration of radio technologies.",
+  "featured": {
+    "title": "Wi-Lo: Emulating LoRa using COTS WiFi",
+    "authors": "P. Gawlowicz, A. Zubow, und F. Dressler",
+    "venue": "arXiv",
+    "year": "2021",
+    "summary": "Investigates “Wi-Lo: Emulating LoRa using COTS WiFi”. Focus: the core mechanism, system behavior and engineering implications in Software-Defined Radio, giving a quick view of the problem and its role in future wireless and network systems."
+  },
+  "publications": [
+    {
+      "title": "Latency Analysis of SDR-based Experimental C-RAN / O-RAN Systems",
+      "authors": "C. Laskos, A. Zubow, und F. Dressler",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Presents “Latency Analysis of SDR-based Experimental C-RAN / O-RAN Systems”. Focus: architecture, implementation choices and engineering trade-offs in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Analyzing SNR Degradation Due to Jitter in Practical Direct RF Sampling Systems",
+      "authors": "D. Osterland, A. Benzin, und G. Caire",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Presents “Analyzing SNR Degradation Due to Jitter in Practical Direct RF Sampling Systems”. Focus: architecture, implementation choices and engineering trade-offs in Network Synchronization & Timing, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Matryoshka: Single RF Chain Multi-user Transmission through WiFi-in-WiFi Signal Emulation using COTS Hardware",
+      "authors": "P. Gawłowicz, A. Zubow, und F. Dressler",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Matryoshka: Single RF Chain Multi-user Transmission through WiFi-in-WiFi Signal Emulation using COTS Hardware”. Focus: the core mechanism, system behavior and engineering implications in Software-Defined Radio, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Undersampling and SNR Degradation in Practical Direct RF Sampling Systems",
+      "authors": "D. Osterland, A. Benzin, F. Gerfers, und G. Caire",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Presents “Undersampling and SNR Degradation in Practical Direct RF Sampling Systems”. Focus: architecture, implementation choices and engineering trade-offs in Software-Defined Radio, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Wi-Lo: Emulation of LoRa using Commodity 802.11b WiFi Devices",
+      "authors": "P. Gawlowicz, A. Zubow, und F. Dressler",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Investigates “Wi-Lo: Emulation of LoRa using Commodity 802.11b WiFi Devices”. Focus: the core mechanism, system behavior and engineering implications in Software-Defined Radio, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "A novel OFDM-based Radar and Communication System Design using Digital IQ-Modulation and 52 GS/s Direct-RF Data Converter",
+      "authors": "S. Waldmann, H. Ordouei, und F. Gerfers",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Presents “A novel OFDM-based Radar and Communication System Design using Digital IQ-Modulation and 52 GS/s Direct-RF Data Converter”. Focus: architecture, implementation choices and engineering trade-offs in Software-Defined Radio, giving a quick view of the problem and its role in future wireless and network systems."
+    }
+  ]
+}

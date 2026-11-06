@@ -1,0 +1,32 @@
+{
+  "description": "Free-Space Optical Communication transmits data wirelessly using visible or infrared light, including LiFi and VLC. It offers high bandwidth and strong spatial reuse but depends heavily on line of sight, blockage, and accurate optical alignment.",
+  "featured": {
+    "title": "Multi-Agent Reinforcement Learning Trajectory Design and Two-Stage Resource Management in CoMP UAV VLC Networks",
+    "authors": "M. R. Maleki, M. R. Mili, M. R. Javan, N. Mokari, und E. A. Jorswieck",
+    "venue": "IEEE Trans. Commun",
+    "year": "2022",
+    "summary": "Explores “Multi-Agent Reinforcement Learning Trajectory Design and Two-Stage Resource Management in CoMP UAV VLC Networks”. Focus: data-driven prediction, control, optimization or adaptation in Free-Space Optical Comm, giving a quick view of the problem and its role in future wireless and network systems.",
+    "citations": {
+      "count": "44",
+      "source": "ResearchGate",
+      "checkedOn": "2026-08-27",
+      "url": "https://www.researchgate.net/search/publication?q=Multi-Agent+Reinforcement+Learning+Trajectory+Design+and+Two-Stage+Resource+Management+in+CoMP+UAV+VLC+Networks"
+    }
+  },
+  "publications": [
+    {
+      "title": "PLiFi: Analog Amplify and Forward Relaying in Cascaded PLC-LiFi Networks",
+      "authors": "A. Zubow, A. Memedi, und F. Dressler",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “PLiFi: Analog Amplify and Forward Relaying in Cascaded PLC-LiFi Networks”. Focus: the core mechanism, system behavior and engineering implications in Free-Space Optical Comm, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Move Away From Me! User Repulsion Under Proximity-Induced Interference in OWC Systems",
+      "authors": "O. Kundacina, M. Petkovic, A. Munari, D. Vukobratovic, und L. Badia",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Presents “Move Away From Me! User Repulsion Under Proximity-Induced Interference in OWC Systems”. Focus: architecture, implementation choices and engineering trade-offs in Free-Space Optical Comm, giving a quick view of the problem and its role in future wireless and network systems."
+    }
+  ]
+}

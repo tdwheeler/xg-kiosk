@@ -1,0 +1,45 @@
+{
+  "valueProp": "QuSine gives telecom, radar, quantum and test customers ultra-pure RF signals, enabling higher performance, cleaner measurements and phase-coherent systems beyond conventional electronics.",
+  "positioning": "Photonic RF Signal Generation",
+  "turnover": {
+    "value": "€30M",
+    "label": "Expected turnover four years from now"
+  },
+  "technologies": [
+    "Opto-electronic phase-locked loops for ultra-low phase noise RF generation",
+    "Mode-locked laser references for high-stability microwave signal synthesis",
+    "Photonic microwave oscillators from GHz to mmWave frequencies",
+    "Low-jitter synchronization and clock distribution for distributed systems",
+    "RF hardware design, measurement and system integration"
+  ],
+  "founders": [
+    {
+      "name": "Dr. Peter Hertenstein",
+      "role": "Co-Founder & CEO",
+      "bio": "Drives strategy, fundraising and partnerships, drawing on his consulting and Cambridge PhD background.",
+      "photo": "founders/peter-hertenstein.jpg"
+    },
+    {
+      "name": "Saeed Fard",
+      "role": "Co-Founder & CTO",
+      "bio": "Co-inventor of the core technology, leads product and RF system development.",
+      "photo": "founders/saeed-fard.jpg"
+    }
+  ],
+  "backSections": [
+    {
+      "heading": "Our Mission",
+      "body": "QuSine builds ultra-pure RF signal sources for the next generation of wireless, sensing and quantum systems. As frequencies rise and systems become increasingly distributed, signal quality becomes mission-critical: phase noise, jitter and synchronization directly limit performance. Our mission is to push RF signal generation beyond the limits of conventional electronics by using photonics."
+    },
+    {
+      "heading": "Our Core Competencies",
+      "body": "QuSine’s team combines deep expertise in RF engineering, photonics, opto-electronic control loops and precision measurement. We understand both the optical domain, including mode-locked lasers and photodetection, and the RF domain, including PLL architectures, microwave hardware, phase-noise analysis and system integration. This interdisciplinary capability allows us to translate photonic performance into usable RF products."
+    },
+    {
+      "heading": "What Makes Us Distinct",
+      "body": "Most signal-source companies optimize conventional electronic architectures. QuSine takes a different route: we use photonics as the precision reference for RF generation. This enables exceptionally low phase noise and jitter, opening new performance levels for 6G infrastructure, distributed MIMO, radar, quantum control and high-end test equipment."
+    }
+  ],
+  "quote": "QuSine was founded as a spin-off from the Heinz Nixdorf Institute at the University of Paderborn, based on research in opto-electronic RF signal generation. The team saw that conventional electronic signal sources are reaching performance limits in phase noise, jitter and synchronization, while future telecom, radar, quantum and test systems increasingly depend on cleaner and more coherent RF signals.\n\nQuSine bridges this gap by turning advanced photonic microwave generation research into industrial signal sources for demanding applications such as 6G, radar, quantum technologies and high-end test and measurement.",
+  "location": "Potsdam, Germany"
+}

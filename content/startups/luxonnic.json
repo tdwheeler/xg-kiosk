@@ -1,0 +1,48 @@
+{
+  "positioning": "Photonic Neural Processors for optical signal equalization",
+  "valueProp": "LUXONNIC reduces transceiver power consumption by 30x while meeting 100+ GBaud PAM4 equalization requirements, enabling next-generation AI infrastructure with minimal energy overhead.",
+  "turnover": {
+    "value": "€30M",
+    "label": "Expected turnover four years from now"
+  },
+  "technologies": [
+    "Recurrent photonic neural processor (PNP) for real-time signal equalization",
+    "ML-inspired optical nonlinearities and matrix multiplication in photonics",
+    "Wavelength-division-multiplexing (WDM)-native photonic architecture",
+    "Programmable photonic neural processor",
+    "PAM4 equalization at 100+ GBaud"
+  ],
+  "founders": [
+    {
+      "name": "In-Ho Baek",
+      "role": "Co-Founder & CEO",
+      "bio": "Research Associate at Fraunhofer HHI, PhD candidate in Electrical Engineering at TU Berlin. Expert in high-speed digital signal processing and terahertz wireless. Turns photonic research into systems that work.",
+      "photo": "founders/in-ho-baek.jpg"
+    },
+    {
+      "name": "Mahdi Kaveh",
+      "role": "Co-Founder & CTO",
+      "bio": "Research Associate at Fraunhofer HHI, M.Sc. in Electrical Engineering with 9+ years in telecom (optical and wireless systems). Combines deep expertise in data-driven systems, neuromorphic signal processing, and photonic integration.",
+      "photo": "founders/mahdi-kaveh.jpg"
+    }
+  ],
+  "backSections": [
+    {
+      "heading": "Our Mission",
+      "body": "We make advanced photonic computing accessible to datacenter operators and transceiver vendors, enabling extreme-efficiency optical signal processing at scale. By applying neural-network-inspired photonic circuits to critical bottlenecks in modern infrastructure, we unlock a new era of energy-efficient, high-performance 6G systems."
+    },
+    {
+      "heading": "Core Competence: Photonic Neural Computing",
+      "body": "LUXONNIC's Photonic Neural Processor (PNP) applies recurrent neural architectures and learned nonlinearities directly in the optical domain. Unlike static FFE or DSP-based solutions, our approach combines the speed and energy efficiency of photonics with the adaptability of machine learning."
+    },
+    {
+      "heading": "Why It Matters",
+      "body": "Datacenter transceivers account for ~60% of the €15.7B global transceiver market by 2030. Equalization is a core energy bottleneck. Our 30x efficiency gain directly reduces transceiver power consumption, hyperscaler carbon footprint, and infrastructure costs, making next-generation networks economically and environmentally viable."
+    }
+  ],
+  "quote": "LUXONNIC emerged from research at Fraunhofer HHI on photonic neural networks and optical signal processing. The founders identified a critical gap: datacenter transceivers rely on power-hungry DSP-based equalization, creating a bottleneck for hyperscalers scaling 400G and beyond infrastructure. The company bridges this gap by applying recurrent neural network-inspired photonic circuits to the equalization problem, delivering 30x energy efficiency gains while maintaining performance. This application takes fundamental photonic research into the highest-volume, most cost-sensitive optical market: short-reach datacenter interconnects.",
+  "location": "Berlin, Germany",
+  "imageConfig": {
+    "logoScale": 1.2
+  }
+}

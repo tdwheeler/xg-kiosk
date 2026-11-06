@@ -1,0 +1,73 @@
+{
+  "description": "Industrial IoT connects machines, sensors, and controllers in production environments. Key goals include deterministic or ultra-low latency, high reliability, efficient data acquisition, and robust communication for automation and smart factories.",
+  "featured": {
+    "title": "Exogenous Update Scheduling in the Industrial Internet of Things for Minimal Age of Information",
+    "authors": "L. Badia und A. Munari",
+    "venue": "IEEE Transactions on Industrial Informatics",
+    "year": "2024",
+    "summary": "Optimizes “Exogenous Update Scheduling in the Industrial Internet of Things for Minimal Age of Information”. Focus: resource decisions, constraints and performance trade-offs in Industrial IoT, giving a quick view of the problem and its role in future wireless and network systems.",
+    "citations": {
+      "count": "12",
+      "source": "ResearchGate",
+      "checkedOn": "2026-08-27",
+      "url": "https://www.researchgate.net/publication/385437996_Exogenous_Update_Scheduling_in_the_Industrial_Internet_of_Things_for_Minimal_Age_of_Information"
+    }
+  },
+  "publications": [
+    {
+      "title": "Empowering Smart Factories with O-RAN",
+      "authors": "A. C. Drummond, O. T. Başaran, A. Dandekar, M. Franke, M. Balanici, I. Zacarias, Í. Brasileiro, C. V. Phung, E. Tohidi, N. K. Khani, S. Kouhini, L. Miretti, Z. Utkovski, E. Durmaz, J. Schulz-Zander, S. Maghsudi, S. Schmid, F. Dressler, B. Shariati, J. K. Fischer, R. Freund, S. Stańczak, und A. Jukan",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Investigates “Empowering Smart Factories with O-RAN”. Focus: the core mechanism, system behavior and engineering implications in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Enabling 6G Smart Factories with O-RAN",
+      "authors": "A. C. Drummond, O. T. Başaran, A. Dandekar, M. Franke, M. Balanici, I. Zacarias, Í. Brasileiro, C. V. Phung, E. Tohidi, N. K. Khani, S. Kouhini, L. Miretti, Z. Utkovski, E. Durmaz, J. Schulz-Zander, S. Maghsudi, S. Schmid, F. Dressler, B. Shariati, J. K. Fischer, R. Freund, S. Stańczak, und A. Jukan",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Investigates “Enabling 6G Smart Factories with O-RAN”. Focus: the core mechanism, system behavior and engineering implications in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "On the Adaptive THz System for Mobile VR Users in Smart Factories",
+      "authors": "Networks, Seoul Republic of Korea, Mai 2024, S. 277–287. doi: 10.1145/3643833.3656118. C. V. Phung, Z. Ennaceur, A. Drummond, und A. Jukan",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Presents “On the Adaptive THz System for Mobile VR Users in Smart Factories”. Focus: architecture, implementation choices and engineering trade-offs in Private / Campus Networks, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Resilient Disaster Relief in Industrial IoT: UAV Trajectory Design and Resource Allocation in 6G Non-Terrestrial Networks",
+      "authors": "A. Mohammadisarab, A. Nouruzi, A. Khalili, N. Mokari, B. A. Arand, und E. A. Jorswieck",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Optimizes “Resilient Disaster Relief in Industrial IoT: UAV Trajectory Design and Resource Allocation in 6G Non-Terrestrial Networks”. Focus: resource decisions, constraints and performance trade-offs in Non-Terrestrial Networks, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "22",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Resilient+Disaster+Relief+in+Industrial+IoT%3A+UAV+Trajectory+Design+and+Resource+Allocation+in+6G+Non-Terrestrial+Networks"
+      }
+    },
+    {
+      "title": "Resource Allocation for UAV-Assisted Industrial IoT User with Finite Blocklength",
+      "authors": "A. Rezaei, A. Khalili, und F. Dressler",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Optimizes “Resource Allocation for UAV-Assisted Industrial IoT User with Finite Blocklength”. Focus: resource decisions, constraints and performance trade-offs in Industrial IoT, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Timely and Efficient Information Delivery in Real-Time Industrial IoT Networks",
+      "authors": "H. Farag, D. Vukobratović, A. Munari, und Č. Stefanović",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Timely and Efficient Information Delivery in Real-Time Industrial IoT Networks”. Focus: the core mechanism, system behavior and engineering implications in Industrial IoT, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Increasing Fault Tolerance and Throughput with Adaptive Control Plane in Smart Factories",
+      "authors": "C. V. Phung und A. Jukan",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Investigates “Increasing Fault Tolerance and Throughput with Adaptive Control Plane in Smart Factories”. Focus: the core mechanism, system behavior and engineering implications in Private / Campus Networks, giving a quick view of the problem and its role in future wireless and network systems."
+    }
+  ]
+}

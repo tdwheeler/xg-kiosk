@@ -1,0 +1,134 @@
+{
+  "description": "Energy-efficient network design reduces power consumption per transmitted or processed bit. Radio parameters, RAN operation, beamforming, RIS, access schemes, and AI-based resource management are jointly optimized for energy use and network performance.",
+  "featured": {
+    "title": "Little or No Equalization is Needed in Energy-Efficient Sub-THz Mobile Access",
+    "authors": "L. Miretti, T. Kühne, A. Schultze, W. Keusgen, G. Caire, M. Peter, S. Stańczak, und T. Eichler",
+    "venue": "IEEE Commun. Mag",
+    "year": "2024",
+    "summary": "Investigates “Little or No Equalization is Needed in Energy-Efficient Sub-THz Mobile Access”. Focus: the core mechanism, system behavior and engineering implications in Energy-Efficient Network Design, giving a quick view of the problem and its role in future wireless and network systems.",
+    "citations": {
+      "count": "23",
+      "source": "ResearchGate",
+      "checkedOn": "2026-08-27",
+      "url": "https://www.researchgate.net/search/publication?q=Little+or+No+Equalization+is+Needed+in+Energy-Efficient+Sub-THz+Mobile+Access"
+    }
+  },
+  "publications": [
+    {
+      "title": "Towards Application Level Energy Monitoring for Green 6G Networks",
+      "authors": "A. Dandekar, J. Wegener, A. Rahman, und J. Schulz-Zander",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Towards Application Level Energy Monitoring for Green 6G Networks”. Focus: the core mechanism, system behavior and engineering implications in Energy-Efficient Network Design, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Energy Savings in 5G-Advanced Radio Access Networks: Downlink Signaling Adaptation",
+      "authors": "N. Vatanian, G. Costa, E. Roth-Mandutz, G. George, und N. Franchi",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Energy Savings in 5G-Advanced Radio Access Networks: Downlink Signaling Adaptation”. Focus: the core mechanism, system behavior and engineering implications in Energy-Efficient Network Design, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Energy Efficiency Comparison of RIS Architectures in MISO Broadcast Channels",
+      "authors": "M. Soleymani, I. Santamaria, E. Jorswieck, M. Di Renzo, und J. Gutiérrez",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Presents “Energy Efficiency Comparison of RIS Architectures in MISO Broadcast Channels”. Focus: architecture, implementation choices and engineering trade-offs in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Energy-Efficient Irregular Repetition Slotted ALOHA for IoT Satellite Systems",
+      "authors": "E. Recayte, T. Devaja, und D. Vukobratovic",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Presents “Energy-Efficient Irregular Repetition Slotted ALOHA for IoT Satellite Systems”. Focus: architecture, implementation choices and engineering trade-offs in Non-Terrestrial Networks, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Energy-Efficient power allocation in Cell-Free massive MIMO via graph neural networks",
+      "authors": "R. Raghunath, B. Peng, und E. A. Jorswieck",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Explores “Energy-Efficient power allocation in Cell-Free massive MIMO via graph neural networks”. Focus: data-driven prediction, control, optimization or adaptation in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Maximizing Spectral and Energy Efficiency in Multi-user MIMO OFDM Systems with RIS and Hardware Impairment",
+      "authors": "M. Soleymani, I. Santamaria, A. Sezgin, und E. Jorswieck",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Presents “Maximizing Spectral and Energy Efficiency in Multi-user MIMO OFDM Systems with RIS and Hardware Impairment”. Focus: architecture, implementation choices and engineering trade-offs in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Non-Convex Optimization of Energy Efficient Power Control in Interference Networks via Machine Learning",
+      "authors": "B. Peng, K.-L. Besser, R. Raghunath, und E. A. Jorswieck",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Explores “Non-Convex Optimization of Energy Efficient Power Control in Interference Networks via Machine Learning”. Focus: data-driven prediction, control, optimization or adaptation in Energy-Efficient Network Design, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Approaching Globally Optimal Energy Efficiency in Interference Networks via Machine Learning",
+      "authors": "B. Peng, K.-L. Besser, R. Raghunath, und E. A. Jorswieck",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Explores “Approaching Globally Optimal Energy Efficiency in Interference Networks via Machine Learning”. Focus: data-driven prediction, control, optimization or adaptation in Energy-Efficient Network Design, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "1",
+        "source": "SciSpace",
+        "checkedOn": "2026-08-27",
+        "url": "https://scispace.com/search?q=Approaching+Globally+Optimal+Energy+Efficiency+in+Interference+Networks+via+Machine+Learning"
+      }
+    },
+    {
+      "title": "LADEA: A Near Real-Time Transmission Power Adaptation Algorithm for Increased Energy Efficiency in Dense Indoor Campus Networks",
+      "authors": "A. Gopikrishnan, M. Corici, V. Gowtham, und T. Magedanz",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “LADEA: A Near Real-Time Transmission Power Adaptation Algorithm for Increased Energy Efficiency in Dense Indoor Campus Networks”. Focus: the core mechanism, system behavior and engineering implications in Private / Campus Networks, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Adaptive Energy-Efficient Waveform Design For Joint Communication and Sensing using Multiobjective Multiarmed Bandits",
+      "authors": "A. R. Balef, S. Maghsudi, und S. Stanczak",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Presents “Adaptive Energy-Efficient Waveform Design For Joint Communication and Sensing using Multiobjective Multiarmed Bandits”. Focus: architecture, implementation choices and engineering trade-offs in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Spectral and Energy Efficiency Maximization of MISO STAR-RIS-Assisted URLLC Systems",
+      "authors": "M. Soleymani, I. Santamaria, und E. A. Jorswieck",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Optimizes “Spectral and Energy Efficiency Maximization of MISO STAR-RIS-Assisted URLLC Systems”. Focus: resource decisions, constraints and performance trade-offs in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "27",
+        "source": "Mendeley",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.mendeley.com/search/?query=Spectral+and+Energy+Efficiency+Maximization+of+MISO+STAR-RIS-Assisted+URLLC+Systems"
+      }
+    },
+    {
+      "title": "An Energy-Efficient And Robust Transmission Scheme For Iot-Based Physiological Activity Monitoring",
+      "authors": "J. Dommel, F. Hassan, und Z. Utkovski",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Investigates “An Energy-Efficient And Robust Transmission Scheme For Iot-Based Physiological Activity Monitoring”. Focus: the core mechanism, system behavior and engineering implications in Energy-Efficient Network Design, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Joint Analog Beamforming and Trajectory Planning for Energy-Efficient UAV-Enabled Nonlinear Wireless Power Transfer",
+      "authors": "X. Yuan, H. Jiang, Y. Hu, und A. Schmeink",
+      "year": "2022",
+      "isConference": false,
+      "summary": "Investigates “Joint Analog Beamforming and Trajectory Planning for Energy-Efficient UAV-Enabled Nonlinear Wireless Power Transfer”. Focus: the core mechanism, system behavior and engineering implications in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "44",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Joint+Analog+Beamforming+and+Trajectory+Planning+for+Energy-Efficient+UAV-Enabled+Nonlinear+Wireless+Power+Transfer"
+      }
+    },
+    {
+      "title": "Reinforcement Learning-Based Global Programming for Energy Efficiency in Multi-Cell Interference Networks",
+      "authors": "R. Raghunath, B. Peng, K.-L. Besser, und E. A. Jorswieck",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Explores “Reinforcement Learning-Based Global Programming for Energy Efficiency in Multi-Cell Interference Networks”. Focus: data-driven prediction, control, optimization or adaptation in Energy-Efficient Network Design, giving a quick view of the problem and its role in future wireless and network systems."
+    }
+  ]
+}

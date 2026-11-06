@@ -1,0 +1,50 @@
+{
+  "positioning": "AI Infrastructure with Photonics",
+  "technologies": [
+    "All-optical switching",
+    "Photonic scale-up and scale-out networks",
+    "Programmable silicon photonics"
+  ],
+  "valueProp": "Linque is building AI and cloud physical infrastructure layer using silicon programmable photonics for 20x energy-efficiency and nanosecond latency for AI training and inference.",
+  "turnover": {
+    "value": "€160M",
+    "label": "Expected turnover four years from now"
+  },
+  "founders": [
+    {
+      "name": "Samarth Vadia",
+      "role": "Co-Founder, CEO",
+      "bio": "Samarth did his PhD in Physics at LMU Munich with the focus in the area of quantum optics. He has previously worked at deep-tech companies like attocube systems AG and Menlo Systems, and his education at MIT and IIT Delhi."
+    },
+    {
+      "name": "Jonathan Förste",
+      "role": "Co-Founder, CTO",
+      "bio": "Jonathan is a recipient of ThePhotonics100 and an expert in semiconductor and photonic systems. He got his PhD in Physics in the area of atomic force microscopy and single photon sources, and previously got his education at University of Heidelberg."
+    },
+    {
+      "name": "Victor Funk",
+      "role": "Co-Founder, VP R&D",
+      "bio": "Victor leads the research and development activities along with foundry relationships and IP in the team. He is expert in CMOS nanofabrication, established advanced process flows for two-dimensional semiconductors and performed low-temperature spectroscopy of quantum materials during his PhD in Munich."
+    }
+  ],
+  "backSections": [
+    {
+      "heading": "Our Mission",
+      "body": "We build future data center networking and computing technology for AI workloads using programmable photonic chips to enable agentic workloads. We incorporate the CMOS compatible chip design innovations into full-stack solutions for data center and 6G network hardware."
+    },
+    {
+      "heading": "Silicon Photonics",
+      "body": "We develop foundry compatible chip designs that can perform complex information processing tasks in optical domain. Our fabless approach ensures scalable low-cost technology for reliable and low-power performance."
+    },
+    {
+      "heading": "System Design",
+      "body": "We design the entire rack-unit hardware solutions in-house with native integration of mixed-signal and digital electronics to provide solutions for customers from requirements analysis to hardware and software solutions for complete networks."
+    },
+    {
+      "heading": "Support and Training",
+      "body": "We offer network software suite and continuous support to provide our data center and telco customers to optimize their infrastructure for the most optimum performance."
+    }
+  ],
+  "quote": "Born out of the research on nano photonic systems and advanced semiconductor materials, Linque was founded to alleviate the data processing requirements for AI compute workloads in more energy-efficient and low-latency systems using silicon photonic chips.",
+  "location": "Munich, Germany"
+}

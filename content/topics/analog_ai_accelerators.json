@@ -1,0 +1,47 @@
+{
+  "description": "Analog AI accelerators perform computations directly in or near analog memory and circuit elements, such as RRAM crossbars or compute-in-memory arrays. Their aim is massive parallelism with low energy consumption and reduced data movement.",
+  "featured": {
+    "title": "Prototyping Reconfigurable RRAM-Based AI Accelerators Using the RISC-V Ecosystem and Digital Twins",
+    "authors": "M. Fritscher, A. Veronesi, A. Baroni, J. Wen, T. Spätling, M. K. Mahadevaiah, N. Herfurth, E. Perez, M. Ulbricht, M. Reichenbach, A. Hagelauer, und M. Krstic",
+    "venue": "High Performance Computing",
+    "year": "2023",
+    "summary": "Explores “Prototyping Reconfigurable RRAM-Based AI Accelerators Using the RISC-V Ecosystem and Digital Twins”. Focus: data-driven prediction, control, optimization or adaptation in Analog AI Accelerators, giving a quick view of the problem and its role in future wireless and network systems."
+  },
+  "publications": [
+    {
+      "title": "Soft-Error Analysis of RRAM 1T1R Compute-In-Memory Core for Artificial Neural Networks",
+      "authors": "R. Jia, S. Pechmann, F. Markus, C. Wenger, L. Zhang, und A. Hagelauer",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Explores “Soft-Error Analysis of RRAM 1T1R Compute-In-Memory Core for Artificial Neural Networks”. Focus: data-driven prediction, control, optimization or adaptation in Analog AI Accelerators, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "From Device to Application – Integrating RRAM Accelerator Blocks into Large AI Systems",
+      "authors": "M. Fritscher, C. Wenger, und M. Krstic",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Explores “From Device to Application – Integrating RRAM Accelerator Blocks into Large AI Systems”. Focus: data-driven prediction, control, optimization or adaptation in Analog AI Accelerators, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Cycle-Accurate FPGA Emulation of RRAM Crossbar Array: Efficient Device and Variability Modeling with Energy Consumption Assessment",
+      "authors": "J. Wen, F. L. Vargas, F. Zhu, D. Reiser, A. Baroni, M. Fritscher, E. Perez, M. Reichenbach, C. Wenger, und M. Krstic",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Cycle-Accurate FPGA Emulation of RRAM Crossbar Array: Efficient Device and Variability Modeling with Energy Consumption Assessment”. Focus: the core mechanism, system behavior and engineering implications in Analog AI Accelerators, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Towards Reliable and Energy-Efficient RRAM Based Discrete Fourier Transform Accelerator",
+      "authors": "J. Wen, A. Baroni, E. Perez, M. Uhlmann, M. Fritscher, K. KrishneGowda, M. Ulbricht, C. Wenger, und M. Krstic",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Towards Reliable and Energy-Efficient RRAM Based Discrete Fourier Transform Accelerator”. Focus: the core mechanism, system behavior and engineering implications in Analog AI Accelerators, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Evaluating Read Disturb Effect on RRAM based AI Accelerator with Multilevel States and Input Voltages",
+      "authors": "J. Wen, A. Baroni, E. Perez, M. Ulbricht, C. Wenger, und M. Krstic",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Explores “Evaluating Read Disturb Effect on RRAM based AI Accelerator with Multilevel States and Input Voltages”. Focus: data-driven prediction, control, optimization or adaptation in Analog AI Accelerators, giving a quick view of the problem and its role in future wireless and network systems."
+    }
+  ]
+}

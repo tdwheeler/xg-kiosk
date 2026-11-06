@@ -1,0 +1,68 @@
+{
+  "valueProp": "We develop optical wireless communication links for private and public MNOs to deliver fiber-like performance over the air, dramatically reducing deployment time and cost of networks.",
+  "positioning": "fiber-like Optical Wireless Communication Links",
+  "turnover": {
+    "value": "€10M",
+    "label": "Expected turnover four years from now"
+  },
+  "technologies": [
+    "Scalable OWC Solutions",
+    "High-Speed Realtime DSP",
+    "High Power Linear Laser Drivers",
+    "Optical Array-Receivers"
+  ],
+  "backSections": [
+    {
+      "heading": "Mission",
+      "body": "We want to make fiber-like connectivity accessible without the deployment cost and effort of laying fiber. Be it a large-scale MNO who struggles to get trenching permits for their fiber backhaul connections for newly deployed cells, a private campus network operator who wants to connect multiple buildings across a public street or an individual connecting their garden shed to their house without breaking the bank: We are connecting the future by light! Approach – Yes, there are links out there doing 100 Gbps over 100 km or more – but at what cost? At the core of every engineering and market development decision, we are looking at manufacturing complexity and real-world usability first. The aim is to develop a practical, robust, scalable solution that competes not with the performance of other FSO products but with their price, reliability in adverse weather and ease of deployment. We are building a product suitable for a mass-market – e.g., 6G rollout - and volume production, which can be handled and installed intuitively. We are leveraging the advantages of communication with light while engineering around the adversities of it. Core Competencies – There is nothing out there – so we developed everything from scratch!"
+    },
+    {
+      "heading": "Complete system development of our optical wireless solutions",
+      "body": "Except for the lasers, we are doing everything in-house. We bring over 50 years of combined pioneering research and development into our product: from the laser-drivers and proprietary receiver chips, real-time rate-adaptive DSP to optics design – we are the best in the world and we own it."
+    },
+    {
+      "heading": "Close relationships with markets and research",
+      "body": "Our strong network into MNOs and industry alike means we incorporate feedback right into our engineering loop and informed decision making. We are trying to solve a problem, not looking for one. On the other hand, our excellent research network and closeness to Fraunhofer HHI allows us to see the cutting edge of what is possible and being done in labs all over the world. We are sitting on standardization committees, actively steering the future role of OWC in the market."
+    }
+  ],
+  "quote": "At fiber-like we bring over 50 years of combined optical wireless communication research into market. Mobile data demand is growing exponentially, but the infrastructure to support it isn’t keeping up. Fiber rollout is slow and expensive, while radio spectrum is increasingly scarce. We deliver fiber-like performance over the air: Where-ever laying fiber is not a viable option.",
+  "founders": [
+    {
+      "name": "Max Julius Bode",
+      "role": "CEO",
+      "bio": "With a background in communications engineering, Max has developed a strong profile at the intersection of technology, project leadership and customer engagement. At fiber-like, he focuses on strategy, partnerships and team coordination. He is driven by the ambition to build telecommunications technology “Made in Berlin” and contribute to greater technological sovereignty.",
+      "photo": "founders/max-julius-bode.jpg"
+    },
+    {
+      "name": "Lennert Bober",
+      "role": "CTO",
+      "bio": "Lennert’s expertise spans technical computer science, communication systems, software, DSP and electronics, giving him a broad systems-level perspective on fiber-like’s technology. As CTO, he shapes the technical architecture and development direction. For him, fiber-like is the opportunity to turn years of optical wireless research into technology that can succeed outside the lab.",
+      "photo": "founders/lennert-bober.jpg"
+    },
+    {
+      "name": "Yazan Saleh",
+      "role": "CPO",
+      "bio": "Yazan is particularly focused on the path from technical prototype to manufacturable product. His background in electrical engineering and embedded systems covers electronics, mechanics and design for manufacturing. At fiber-like, he takes ownership of product development and industrialization, motivated by the chance to bring technology he helped develop all the way into a scalable commercial product.",
+      "photo": null
+    },
+    {
+      "name": "Leo Lübbing",
+      "role": "Principal Engineer Optics",
+      "bio": "Leo brings a strong interest in optics and photonics to the development of fiber-like’s optical link. Their work covers optical design, simulation, link budgets and field validation. They are especially interested in making long-range optical communication robust under real-world conditions and see fiber-like as a way to connect scientific work directly with practical connectivity challenges.",
+      "photo": "founders/leo-luebbing.jpg"
+    },
+    {
+      "name": "Anselm Ebmeyer",
+      "role": "Principal Engineer DSP",
+      "bio": "High-speed real-time signal processing is at the core of Anselm’s work. With deep expertise in FPGA development, communication systems and DSP, he develops the algorithms, IP cores and processing platform behind fiber-like’s high-data-rate links. What motivates him most is solving technically demanding problems that cannot simply be addressed with existing off-the-shelf solutions.",
+      "photo": "founders/anselm-ebmeyer.jpg"
+    },
+    {
+      "name": "Volker Jungnickel",
+      "role": "Scientific Advisor",
+      "bio": "Volker contributes decades of experience in photonics, mobile communications, optical wireless systems and international standardization. As Scientific Advisor, he provides technological guidance, research perspective and support for the transfer from science into industry. Having worked on optical wireless communication for many years, he sees fiber-like as a chance to bring this technology to broad practical use.",
+      "photo": "founders/volker-jungnickel.jpg"
+    }
+  ],
+  "location": "Berlin, Germany"
+}

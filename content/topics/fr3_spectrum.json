@@ -1,0 +1,32 @@
+{
+  "description": "FR3 refers to the roughly 7–24 GHz spectrum between today's sub-6 GHz bands and mmWave. It offers additional bandwidth with more favorable propagation than higher mmWave bands and is considered an important spectrum expansion for 6G.",
+  "featured": {
+    "title": "Varactor Controlled X-Band Passive RIS Optimization",
+    "authors": "H. Zadorozhnyi, F.-N. Stapelfeldt, D. Vasylenko, und V. Issakov",
+    "venue": "Radioelectron.Commun.Syst",
+    "year": "2023",
+    "summary": "Optimizes “Varactor Controlled X-Band Passive RIS Optimization”. Focus: resource decisions, constraints and performance trade-offs in FR3 Spectrum (7-24 GHz), giving a quick view of the problem and its role in future wireless and network systems.",
+    "citations": {
+      "count": "0",
+      "source": "ResearchGate",
+      "checkedOn": "2026-08-27",
+      "url": "https://www.researchgate.net/search/publication?q=Varactor+Controlled+X-Band+Passive+RIS+Optimization"
+    }
+  },
+  "publications": [
+    {
+      "title": "A Highly-Integrated 64-QAM Ku-Band Transceiver in SiGe BiCMOS for 6G Cell-Free MIMO",
+      "authors": "A. Engelhardt, F. Stapelfeldt, M. Kadam, P. Oliveira, H.-D. Wohlmuth, und V. Issakov",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Investigates “A Highly-Integrated 64-QAM Ku-Band Transceiver in SiGe BiCMOS for 6G Cell-Free MIMO”. Focus: the core mechanism, system behavior and engineering implications in FR3 Spectrum (7-24 GHz), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "A 7 mW 22 GHz Frequency Divider Chain by 2048 using CML, TSPC and CMOS Logic in 22FDX",
+      "authors": "T. Baluta, A. Meyer, A. Dossanov, Y. Kudabay, L. Bakhchova, und V. Issakov",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “A 7 mW 22 GHz Frequency Divider Chain by 2048 using CML, TSPC and CMOS Logic in 22FDX”. Focus: the core mechanism, system behavior and engineering implications in FR3 Spectrum (7-24 GHz), giving a quick view of the problem and its role in future wireless and network systems."
+    }
+  ]
+}

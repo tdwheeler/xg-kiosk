@@ -1,0 +1,528 @@
+{
+  "nodes": [
+    {
+      "id": "moxz",
+      "label": "MOXZ",
+      "type": "startup",
+      "domain": "xg_incubator"
+    },
+    {
+      "id": "airpuls",
+      "label": "airpuls",
+      "type": "startup",
+      "domain": "xg_incubator"
+    },
+    {
+      "id": "massive_beams",
+      "label": "Massive Beams",
+      "type": "startup",
+      "domain": "xg_incubator"
+    },
+    {
+      "id": "luxonnic",
+      "label": "LUXONNIC",
+      "type": "startup",
+      "domain": "xg_incubator"
+    },
+    {
+      "id": "linque",
+      "label": "Linque",
+      "type": "startup",
+      "domain": "xg_incubator"
+    },
+    {
+      "id": "qusine",
+      "label": "QuSine",
+      "type": "startup",
+      "domain": "xg_incubator"
+    },
+    {
+      "id": "fiber_like",
+      "label": "Fiber-like",
+      "type": "startup",
+      "domain": "xg_incubator"
+    },
+    {
+      "id": "open_radio",
+      "label": "Open Radio Systems",
+      "type": "startup",
+      "domain": "xg_incubator"
+    },
+    {
+      "id": "augusta_space",
+      "label": "Augusta Space",
+      "type": "startup",
+      "domain": "xg_incubator"
+    },
+    {
+      "id": "ciphercell",
+      "label": "CipherCell",
+      "type": "startup",
+      "domain": "xg_incubator"
+    },
+    {
+      "id": "quicast",
+      "label": "QUICast",
+      "type": "startup",
+      "domain": "xg_incubator"
+    },
+    {
+      "id": "open_ran",
+      "label": "Open RAN",
+      "type": "research",
+      "domain": "architecture"
+    },
+    {
+      "id": "vran_acceleration",
+      "label": "vRAN Acceleration",
+      "type": "research",
+      "domain": "architecture"
+    },
+    {
+      "id": "ran_services_integration",
+      "label": "O-RAN Services & Integration",
+      "type": "research",
+      "domain": "architecture"
+    },
+    {
+      "id": "private_campus_networks",
+      "label": "Private / Campus Networks",
+      "type": "research",
+      "domain": "architecture"
+    },
+    {
+      "id": "network_slicing",
+      "label": "Network Slicing",
+      "type": "research",
+      "domain": "architecture"
+    },
+    {
+      "id": "non_terrestrial_networks",
+      "label": "Non-Terrestrial Networks",
+      "type": "research",
+      "domain": "architecture"
+    },
+    {
+      "id": "network_synchronization",
+      "label": "Network Synchronization & Timing",
+      "type": "research",
+      "domain": "architecture"
+    },
+    {
+      "id": "novel_waveforms",
+      "label": "Novel Waveforms & Modulation",
+      "type": "research",
+      "domain": "spectrum_waveform"
+    },
+    {
+      "id": "ultra_massive_mimo",
+      "label": "Ultra-Massive MIMO",
+      "type": "research",
+      "domain": "spectrum_waveform"
+    },
+    {
+      "id": "fr3_spectrum",
+      "label": "FR3 Spectrum (7-24 GHz)",
+      "type": "research",
+      "domain": "spectrum_waveform"
+    },
+    {
+      "id": "software_defined_radio",
+      "label": "Software-Defined Radio",
+      "type": "research",
+      "domain": "spectrum_waveform"
+    },
+    {
+      "id": "reconfigurable_surfaces",
+      "label": "Reconfigurable Intelligent Surfaces (RIS)",
+      "type": "research",
+      "domain": "spectrum_waveform"
+    },
+    {
+      "id": "advanced_beamforming",
+      "label": "Advanced Beamforming",
+      "type": "research",
+      "domain": "spectrum_waveform"
+    },
+    {
+      "id": "photonic_systems",
+      "label": "Photonic Systems & Integration",
+      "type": "research",
+      "domain": "photonics"
+    },
+    {
+      "id": "free_space_optical",
+      "label": "Free-Space Optical Comm",
+      "type": "research",
+      "domain": "photonics"
+    },
+    {
+      "id": "opto_electronic_rf",
+      "label": "Opto-Electronic RF Synthesis",
+      "type": "research",
+      "domain": "photonics"
+    },
+    {
+      "id": "photonic_computing",
+      "label": "Photonic Computing",
+      "type": "research",
+      "domain": "photonics"
+    },
+    {
+      "id": "analog_ai_accelerators",
+      "label": "Analog AI Accelerators",
+      "type": "research",
+      "domain": "ai_compute"
+    },
+    {
+      "id": "edge_ai",
+      "label": "Edge AI Processing",
+      "type": "research",
+      "domain": "ai_compute"
+    },
+    {
+      "id": "ai_ran_orchestration",
+      "label": "AI-RAN Orchestration",
+      "type": "research",
+      "domain": "ai_compute"
+    },
+    {
+      "id": "ai_native_network",
+      "label": "AI-Native Network Design",
+      "type": "research",
+      "domain": "ai_compute"
+    },
+    {
+      "id": "network_digital_twin",
+      "label": "Network Digital Twin",
+      "type": "research",
+      "domain": "ai_compute"
+    },
+    {
+      "id": "integrated_sensing_comm",
+      "label": "Integrated Sensing & Comm (ISAC)",
+      "type": "research",
+      "domain": "sensing"
+    },
+    {
+      "id": "high_precision_positioning",
+      "label": "High-Precision Positioning",
+      "type": "research",
+      "domain": "sensing"
+    },
+    {
+      "id": "quantum_key_distribution",
+      "label": "Quantum Key Distribution",
+      "type": "research",
+      "domain": "security"
+    },
+    {
+      "id": "antenna_package",
+      "label": "Antenna-in-Package / Phased Arrays",
+      "type": "research",
+      "domain": "devices"
+    },
+    {
+      "id": "energy_efficient_design",
+      "label": "Energy-Efficient Network Design",
+      "type": "research",
+      "domain": "cross_cutting"
+    },
+    {
+      "id": "content_delivery",
+      "label": "Content Delivery & Media Transport",
+      "type": "research",
+      "domain": "applications"
+    },
+    {
+      "id": "software_security",
+      "label": "Software Supply-Chain Security",
+      "type": "research",
+      "domain": "applications"
+    },
+    {
+      "id": "autonomous_mobility",
+      "label": "Autonomous Mobility",
+      "type": "research",
+      "domain": "applications"
+    },
+    {
+      "id": "industrial_iot",
+      "label": "Industrial IoT",
+      "type": "research",
+      "domain": "applications"
+    },
+    {
+      "id": "environmental_sensing",
+      "label": "Environmental Sensing",
+      "type": "research",
+      "domain": "sensing"
+    },
+    {
+      "id": "physical_layer_security",
+      "label": "Physical Layer Security",
+      "type": "research",
+      "domain": "security"
+    },
+    {
+      "id": "network_architecture",
+      "label": "Network Architecture",
+      "type": "research",
+      "domain": "architecture"
+    },
+    {
+      "id": "federated_learning",
+      "label": "Federated Learning",
+      "type": "research",
+      "domain": "ai_compute"
+    },
+    {
+      "id": "split_8",
+      "label": "Split 8",
+      "type": "research",
+      "domain": "architecture"
+    }
+  ],
+  "links": [
+    {
+      "source": "airpuls",
+      "target": "private_campus_networks"
+    },
+    {
+      "source": "airpuls",
+      "target": "open_ran"
+    },
+    {
+      "source": "airpuls",
+      "target": "network_digital_twin"
+    },
+    {
+      "source": "airpuls",
+      "target": "network_slicing"
+    },
+    {
+      "source": "airpuls",
+      "target": "industrial_iot"
+    },
+    {
+      "source": "airpuls",
+      "target": "ai_ran_orchestration"
+    },
+    {
+      "source": "massive_beams",
+      "target": "open_ran"
+    },
+    {
+      "source": "massive_beams",
+      "target": "advanced_beamforming"
+    },
+    {
+      "source": "massive_beams",
+      "target": "ran_services_integration"
+    },
+    {
+      "source": "massive_beams",
+      "target": "software_defined_radio"
+    },
+    {
+      "source": "massive_beams",
+      "target": "ultra_massive_mimo"
+    },
+    {
+      "source": "massive_beams",
+      "target": "reconfigurable_surfaces"
+    },
+    {
+      "source": "massive_beams",
+      "target": "antenna_package"
+    },
+    {
+      "source": "massive_beams",
+      "target": "fr3_spectrum"
+    },
+    {
+      "source": "luxonnic",
+      "target": "photonic_computing"
+    },
+    {
+      "source": "luxonnic",
+      "target": "photonic_systems"
+    },
+    {
+      "source": "luxonnic",
+      "target": "energy_efficient_design"
+    },
+    {
+      "source": "luxonnic",
+      "target": "analog_ai_accelerators"
+    },
+    {
+      "source": "luxonnic",
+      "target": "edge_ai"
+    },
+    {
+      "source": "qusine",
+      "target": "opto_electronic_rf"
+    },
+    {
+      "source": "qusine",
+      "target": "photonic_systems"
+    },
+    {
+      "source": "qusine",
+      "target": "network_synchronization"
+    },
+    {
+      "source": "qusine",
+      "target": "quantum_key_distribution"
+    },
+    {
+      "source": "qusine",
+      "target": "fr3_spectrum"
+    },
+    {
+      "source": "qusine",
+      "target": "integrated_sensing_comm"
+    },
+    {
+      "source": "qusine",
+      "target": "ultra_massive_mimo"
+    },
+    {
+      "source": "qusine",
+      "target": "free_space_optical"
+    },
+    {
+      "source": "fiber_like",
+      "target": "free_space_optical"
+    },
+    {
+      "source": "fiber_like",
+      "target": "photonic_systems"
+    },
+    {
+      "source": "fiber_like",
+      "target": "open_ran"
+    },
+    {
+      "source": "fiber_like",
+      "target": "energy_efficient_design"
+    },
+    {
+      "source": "fiber_like",
+      "target": "industrial_iot"
+    },
+    {
+      "source": "augusta_space",
+      "target": "non_terrestrial_networks"
+    },
+    {
+      "source": "augusta_space",
+      "target": "antenna_package"
+    },
+    {
+      "source": "augusta_space",
+      "target": "integrated_sensing_comm"
+    },
+    {
+      "source": "augusta_space",
+      "target": "autonomous_mobility"
+    },
+    {
+      "source": "augusta_space",
+      "target": "high_precision_positioning"
+    },
+    {
+      "source": "augusta_space",
+      "target": "network_synchronization"
+    },
+    {
+      "source": "ciphercell",
+      "target": "software_security"
+    },
+    {
+      "source": "ciphercell",
+      "target": "open_ran"
+    },
+    {
+      "source": "quicast",
+      "target": "content_delivery"
+    },
+    {
+      "source": "quicast",
+      "target": "energy_efficient_design"
+    },
+    {
+      "source": "quicast",
+      "target": "private_campus_networks"
+    },
+    {
+      "source": "moxz",
+      "target": "integrated_sensing_comm"
+    },
+    {
+      "source": "moxz",
+      "target": "high_precision_positioning"
+    },
+    {
+      "source": "moxz",
+      "target": "software_defined_radio"
+    },
+    {
+      "source": "moxz",
+      "target": "environmental_sensing"
+    },
+    {
+      "source": "moxz",
+      "target": "physical_layer_security"
+    },
+    {
+      "source": "linque",
+      "target": "photonic_systems"
+    },
+    {
+      "source": "linque",
+      "target": "ai_native_network"
+    },
+    {
+      "source": "linque",
+      "target": "network_architecture"
+    },
+    {
+      "source": "linque",
+      "target": "federated_learning"
+    },
+    {
+      "source": "open_radio",
+      "target": "software_defined_radio"
+    },
+    {
+      "source": "open_radio",
+      "target": "open_ran"
+    },
+    {
+      "source": "open_radio",
+      "target": "vran_acceleration"
+    },
+    {
+      "source": "open_radio",
+      "target": "fr3_spectrum"
+    },
+    {
+      "source": "open_radio",
+      "target": "ultra_massive_mimo"
+    },
+    {
+      "source": "open_radio",
+      "target": "ai_ran_orchestration"
+    },
+    {
+      "source": "open_radio",
+      "target": "reconfigurable_surfaces"
+    },
+    {
+      "source": "open_radio",
+      "target": "split_8"
+    }
+  ]
+}

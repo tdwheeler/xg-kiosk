@@ -1,0 +1,169 @@
+{
+  "description": "Open RAN disaggregates radio access networks through standardized interfaces, virtualized functions, and multi-vendor components. Its goal is a programmable, flexible RAN architecture that encourages interoperability and faster innovation.",
+  "featured": {
+    "title": "Towards efficient conflict mitigation in the converged 6G Open RAN control plane",
+    "authors": "M. Corici, R. Modroiu, F. Eichhorn, E. Troudt, und T. Magedanz",
+    "venue": "Ann. Telecommun",
+    "year": "2024",
+    "summary": "Investigates “Towards efficient conflict mitigation in the converged 6G Open RAN control plane”. Focus: the core mechanism, system behavior and engineering implications in Open RAN, giving a quick view of the problem and its role in future wireless and network systems.",
+    "citations": {
+      "count": "5",
+      "source": "ResearchGate",
+      "checkedOn": "2026-08-27",
+      "url": "https://www.researchgate.net/search/publication?q=Towards+efficient+conflict+mitigation+in+the+converged+6G+Open+RAN+control+plane"
+    }
+  },
+  "publications": [
+    {
+      "title": "O-RAN SMO Extension for enhanced RIC Use-Cases",
+      "authors": "S. Sultana, F. Schreiner, O. T. Basaran, A. Dandekar, V. Gowtham, M. Corici, J. Schulz-Zander, F. Dressler, S. Stanczak, T. Magedanz, und T. Bauschert",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Investigates “O-RAN SMO Extension for enhanced RIC Use-Cases”. Focus: the core mechanism, system behavior and engineering implications in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Latency Analysis of SDR-based Experimental C-RAN / O-RAN Systems",
+      "authors": "C. Laskos, A. Zubow, und F. Dressler",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Presents “Latency Analysis of SDR-based Experimental C-RAN / O-RAN Systems”. Focus: architecture, implementation choices and engineering trade-offs in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "An Open Source Digital Twin Framework for O-RAN",
+      "authors": "Z. Hammad, E. Tohidi, M. Kasparick, und S. Stanczak",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Presents “An Open Source Digital Twin Framework for O-RAN”. Focus: architecture, implementation choices and engineering trade-offs in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Next-Gen AI-on-RAN: AI-native, Interoperable, and GPU-Accelerated Testbed Towards 6G Open-RAN",
+      "authors": "O. T. Basaran, Z. Hammad, M. Kasparick, F. Dressler, und S. Stanczak",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Explores “Next-Gen AI-on-RAN: AI-native, Interoperable, and GPU-Accelerated Testbed Towards 6G Open-RAN”. Focus: data-driven prediction, control, optimization or adaptation in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "O-RIS-ing: Evaluating RIS-Assisted NextG Open RAN",
+      "authors": "M. Tsampazi, M. Polese, F. Dressler, und T. Melodia",
+      "year": "2025",
+      "isConference": false,
+      "summary": "Investigates “O-RIS-ing: Evaluating RIS-Assisted NextG Open RAN”. Focus: the core mechanism, system behavior and engineering implications in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Conflict Mitigation Approach for O-RAN xApps",
+      "authors": "H. Zafar, E. Tohidi, M. Kasparick, und S. Stanczak",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Investigates “Conflict Mitigation Approach for O-RAN xApps”. Focus: the core mechanism, system behavior and engineering implications in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "O-RAN RIC-based Handover Optimization for enhanced QoS Assurance",
+      "authors": "B. Karimkhani, F. Schreiner, V. Gowtham, M. Corici, und T. Magedanz",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Optimizes “O-RAN RIC-based Handover Optimization for enhanced QoS Assurance”. Focus: resource decisions, constraints and performance trade-offs in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "XAInomaly: Explainable, Interpretable and Trustworthy AI for xURLLC in 6G Open-RAN",
+      "authors": "O. T. Basaran und F. Dressler",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Explores “XAInomaly: Explainable, Interpretable and Trustworthy AI for xURLLC in 6G Open-RAN”. Focus: data-driven prediction, control, optimization or adaptation in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Empowering Smart Factories with O-RAN",
+      "authors": "A. C. Drummond, O. T. Başaran, A. Dandekar, M. Franke, M. Balanici, I. Zacarias, Í. Brasileiro, C. V. Phung, E. Tohidi, N. K. Khani, S. Kouhini, L. Miretti, Z. Utkovski, E. Durmaz, J. Schulz-Zander, S. Maghsudi, S. Schmid, F. Dressler, B. Shariati, J. K. Fischer, R. Freund, S. Stańczak, und A. Jukan",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Investigates “Empowering Smart Factories with O-RAN”. Focus: the core mechanism, system behavior and engineering implications in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Enabling 6G Smart Factories with O-RAN",
+      "authors": "A. C. Drummond, O. T. Başaran, A. Dandekar, M. Franke, M. Balanici, I. Zacarias, Í. Brasileiro, C. V. Phung, E. Tohidi, N. K. Khani, S. Kouhini, L. Miretti, Z. Utkovski, E. Durmaz, J. Schulz-Zander, S. Maghsudi, S. Schmid, F. Dressler, B. Shariati, J. K. Fischer, R. Freund, S. Stańczak, und A. Jukan",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Investigates “Enabling 6G Smart Factories with O-RAN”. Focus: the core mechanism, system behavior and engineering implications in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Securing the Open RAN Infrastructure: Exploring Vulnerabilities in Kubernetes Deployments",
+      "authors": "F. Klement, A. Brighente, M. Polese, M. Conti, und S. Katzenbeisser",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Examines “Securing the Open RAN Infrastructure: Exploring Vulnerabilities in Kubernetes Deployments”. Focus: threats, protection mechanisms and security-performance trade-offs in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Security Testing The O-RAN Near-Real Time RIC & A1 Interface",
+      "authors": "K. Thimmaraju, A. Shaik, S. Flück, P. J. F. Mora, C. Werling, und J.-P. Seifert",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Examines “Security Testing The O-RAN Near-Real Time RIC & A1 Interface”. Focus: threats, protection mechanisms and security-performance trade-offs in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Guest Editorial Open RAN: A New Paradigm for Open, Virtualized, Programmable, and Intelligent Cellular Networks",
+      "authors": "M. Polese, M. Dohler, F. Dressler, M. Erol-Kantarci, R. Jana, R. Knopp, und T. Melodia",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Investigates “Guest Editorial Open RAN: A New Paradigm for Open, Virtualized, Programmable, and Intelligent Cellular Networks”. Focus: the core mechanism, system behavior and engineering implications in Open RAN, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "5",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Guest+Editorial+Open+RAN%3A+A+New+Paradigm+for+Open%2C+Virtualized%2C+Programmable%2C+and+Intelligent+Cellular+Networks"
+      }
+    },
+    {
+      "title": "Empowering the 6G Cellular Architecture With Open RAN",
+      "authors": "M. Polese, M. Dohler, F. Dressler, M. Erol-Kantarci, R. Jana, R. Knopp, und T. Melodia",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Presents “Empowering the 6G Cellular Architecture With Open RAN”. Focus: architecture, implementation choices and engineering trade-offs in Open RAN, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "139",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Empowering+the+6G+Cellular+Architecture+With+Open+RAN"
+      }
+    },
+    {
+      "title": "Toward Securing the 6G Transition: A Comprehensive Empirical Method to Analyze Threats in O-RAN Environments",
+      "authors": "F. Klement, W. Liu, und S. Katzenbeisser",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Investigates “Toward Securing the 6G Transition: A Comprehensive Empirical Method to Analyze Threats in O-RAN Environments”. Focus: the core mechanism, system behavior and engineering implications in Open RAN, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "16",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Toward+Securing+the+6G+Transition%3A+A+Comprehensive+Empirical+Method+to+Analyze+Threats+in+O-RAN+Environments"
+      }
+    },
+    {
+      "title": "Optimizing Network Utility Through Dynamic User Management at Near-Real-Time RIC: Load Balancing for Enhanced Performance",
+      "authors": "M. Corici, N. Zunker, W. Scheit, V. Gowtham, F. Schreiner, M. Cronin, und T. Magedanz",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Analyzes “Optimizing Network Utility Through Dynamic User Management at Near-Real-Time RIC: Load Balancing for Enhanced Performance”. Focus: system behavior, performance limits and design trade-offs in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "6G RAN-Core Control Plane Convergence Essential Functionality Study",
+      "authors": "M. Corici, R. Modroiu, F. Eichhorn, E. Troudt, und T. Magedanz",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “6G RAN-Core Control Plane Convergence Essential Functionality Study”. Focus: the core mechanism, system behavior and engineering implications in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "A 6G RAN-Core Control Plane Convergence Framework",
+      "authors": "USA, März 2023, S. 1–6. doi: 10.1109/CISS56502.2023.10089769. M. Corici, F. Eichhorn, E. Troudt, F. Schreiner, und T. Magedanz",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Presents “A 6G RAN-Core Control Plane Convergence Framework”. Focus: architecture, implementation choices and engineering trade-offs in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Open or not open: Are conventional radio access networks more secure and trustworthy than Open-RAN?",
+      "authors": "F. Klement, S. Katzenbeisser, V. Ulitzsch, J. Krämer, S. Stanczak, Z. Utkovski, I. Bjelakovic, und G. Wunder",
+      "year": "2022",
+      "isConference": false,
+      "summary": "Examines “Open or not open: Are conventional radio access networks more secure and trustworthy than Open-RAN?”. Focus: threats, protection mechanisms and security-performance trade-offs in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    }
+  ]
+}

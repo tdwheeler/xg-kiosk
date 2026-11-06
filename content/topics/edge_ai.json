@@ -1,0 +1,238 @@
+{
+  "description": "Edge AI moves learning and inference closer to devices and the radio access network. Local processing, federated learning, and offloading reduce response time and backhaul load while enabling adaptive, data-proximate services in mobile networks.",
+  "featured": {
+    "title": "Decentralized Task Offloading and Load-Balancing for Mobile Edge Computing in Dense Networks",
+    "authors": "M. Yahya, A. Conzelmann, und S. Maghsudi",
+    "venue": "IEEE Communications Letters",
+    "year": "2024",
+    "summary": "Investigates “Decentralized Task Offloading and Load-Balancing for Mobile Edge Computing in Dense Networks”. Focus: the core mechanism, system behavior and engineering implications in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems.",
+    "citations": {
+      "count": "3",
+      "source": "ResearchGate",
+      "checkedOn": "2026-08-27",
+      "url": "https://www.researchgate.net/search/publication?q=Decentralized+Task+Offloading+and+Load-Balancing+for+Mobile+Edge+Computing+in+Dense+Networks"
+    }
+  },
+  "publications": [
+    {
+      "title": "A Repeated Auction Model for Load-Aware Dynamic Resource Allocation in Multi-Access Edge Computing",
+      "authors": "U. Habiba, S. Maghsudi, und E. Hossain",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Optimizes “A Repeated Auction Model for Load-Aware Dynamic Resource Allocation in Multi-Access Edge Computing”. Focus: resource decisions, constraints and performance trade-offs in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "26",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=A+Repeated+Auction+Model+for+Load-Aware+Dynamic+Resource+Allocation+in+Multi-Access+Edge+Computing"
+      }
+    },
+    {
+      "title": "Over-the-Air Federated Learning Client Selection in Integrated Sensing, Computing and Communication",
+      "authors": "P. Zheng, Y. Zhu, H. Yulin, und A. Schmeink",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Explores “Over-the-Air Federated Learning Client Selection in Integrated Sensing, Computing and Communication”. Focus: data-driven prediction, control, optimization or adaptation in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Flexible Training and Uploading Strategy for Asynchronous Federated Learning in Dynamic Environments",
+      "authors": "M. Wu, M. Boban, und F. Dressler",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Explores “Flexible Training and Uploading Strategy for Asynchronous Federated Learning in Dynamic Environments”. Focus: data-driven prediction, control, optimization or adaptation in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Private Over-the-Air Federated Learning at Band-Limited Edge",
+      "authors": "Y. Tao, S. Chen, C. Zhang, D. Wang, D. Yu, X. Cheng, und F. Dressler",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Explores “Private Over-the-Air Federated Learning at Band-Limited Edge”. Focus: data-driven prediction, control, optimization or adaptation in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "12",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Private+Over-the-Air+Federated+Learning+at+Band-Limited+Edge"
+      }
+    },
+    {
+      "title": "Channel-Aware Joint AoI and Diversity Optimization for Client Scheduling in Federated Learning With Non-IID Datasets",
+      "authors": "M. Ma, V. W. S. Wong, und R. Schober",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Explores “Channel-Aware Joint AoI and Diversity Optimization for Client Scheduling in Federated Learning With Non-IID Datasets”. Focus: data-driven prediction, control, optimization or adaptation in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "8",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Channel-Aware+Joint+AoI+and+Diversity+Optimization+for+Client+Scheduling+in+Federated+Learning+With+Non-IID+Datasets"
+      }
+    },
+    {
+      "title": "Age-Based Federated Learning Approach to In-Network Caching: An Online Scheduling Policy",
+      "authors": "Y. Cao, S. Maghsudi, und T. Ohtsuki",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Explores “Age-Based Federated Learning Approach to In-Network Caching: An Online Scheduling Policy”. Focus: data-driven prediction, control, optimization or adaptation in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Neuromorphic Wireless Device-Edge Co-Inference via the Directed Information Bottleneck",
+      "authors": "Y. Ke, Z. Utkovski, M. Heshmati, O. Simeone, J. Dommel, und S. Stanczak",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Neuromorphic Wireless Device-Edge Co-Inference via the Directed Information Bottleneck”. Focus: the core mechanism, system behavior and engineering implications in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Mobility-Aware Routing and Caching in Small Cell Networks Using Federated Learning",
+      "authors": "Y. Cao, S. Maghsudi, T. Ohtsuki, und T. Q. S. Quek",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Explores “Mobility-Aware Routing and Caching in Small Cell Networks Using Federated Learning”. Focus: data-driven prediction, control, optimization or adaptation in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "15",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Mobility-Aware+Routing+and+Caching+in+Small+Cell+Networks+Using+Federated+Learning"
+      }
+    },
+    {
+      "title": "Inverse Feasibility in Over-the-Air Federated Learning",
+      "authors": "T. Piotrowski, R. Ismayilov, M. Frey, und R. L. G. Cavalcante",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Explores “Inverse Feasibility in Over-the-Air Federated Learning”. Focus: data-driven prediction, control, optimization or adaptation in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "1",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Inverse+Feasibility+in+Over-the-Air+Federated+Learning"
+      }
+    },
+    {
+      "title": "Local or Edge/Cloud Processing for Data Freshness",
+      "authors": "A. Munari, T. De Cola, und L. Badia",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Local or Edge/Cloud Processing for Data Freshness”. Focus: the core mechanism, system behavior and engineering implications in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Semantic Communication for Edge Intelligence: Theoretical Foundations and Implications on Protocols",
+      "authors": "Z. Utkovski, A. Munari, G. Caire, J. Dommel, P.-H. Lin, M. Franke, A. C. Drummond, und S. Stańczak",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Investigates “Semantic Communication for Edge Intelligence: Theoretical Foundations and Implications on Protocols”. Focus: the core mechanism, system behavior and engineering implications in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "15",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Semantic+Communication+for+Edge+Intelligence%3A+Theoretical+Foundations+and+Implications+on+Protocols"
+      }
+    },
+    {
+      "title": "HoloFed: Environment-Adaptive Positioning via Multi-Band Reconfigurable Holographic Surfaces and Federated Learning",
+      "authors": "J. Hu, Z. Chen, T. Zheng, R. Schober, und J. Luo",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Explores “HoloFed: Environment-Adaptive Positioning via Multi-Band Reconfigurable Holographic Surfaces and Federated Learning”. Focus: data-driven prediction, control, optimization or adaptation in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "26",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=HoloFed%3A+Environment-Adaptive+Positioning+via+Multi-Band+Reconfigurable+Holographic+Surfaces+and+Federated+Learning"
+      }
+    },
+    {
+      "title": "BenchFaaS: Benchmarking Serverless Functions in an Edge Computing Network Testbed",
+      "authors": "F. Carpio, M. Michalke, und A. Jukan",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Demonstrates “BenchFaaS: Benchmarking Serverless Functions in an Edge Computing Network Testbed”. Focus: implementation choices, experimental behavior and practical feasibility in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "24",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=BenchFaaS%3A+Benchmarking+Serverless+Functions+in+an+Edge+Computing+Network+Testbed"
+      }
+    },
+    {
+      "title": "TSOA: Two-State Offloading Algorithm from Users to Co-Located Vehicular Microclouds",
+      "authors": "B.-J. Qiu, J.-C. Chen, und F. Dressler",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “TSOA: Two-State Offloading Algorithm from Users to Co-Located Vehicular Microclouds”. Focus: the core mechanism, system behavior and engineering implications in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Federated Learning with Integrated Over-the-Air Computation and Sensing in IRS-assisted Networks",
+      "authors": "P. Zheng, Y. Zhu, M. Bouchaala, Y. Hu, S. Stanczak, und A. Schmeink",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Explores “Federated Learning with Integrated Over-the-Air Computation and Sensing in IRS-assisted Networks”. Focus: data-driven prediction, control, optimization or adaptation in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Overhead reduction in UAV-assisted federated learning with fast-varying environment",
+      "authors": "S. Dai, S. Maghsudi, L. Thiele, und S. Stanczak",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Explores “Overhead reduction in UAV-assisted federated learning with fast-varying environment”. Focus: data-driven prediction, control, optimization or adaptation in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Blocklength Allocation for Security-Enhanced MEC with Dependency-Aware Tasks",
+      "authors": "X. Yu, Y. Zhu, Y. Hu, T. Wang, und A. Schmeink",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Examines “Blocklength Allocation for Security-Enhanced MEC with Dependency-Aware Tasks”. Focus: threats, protection mechanisms and security-performance trade-offs in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "TCOA: Triple-Check Offloading Algorithm for Roadside Units and Vehicular Microclouds in 5G Networks and Beyond",
+      "authors": "B.-J. Qiu, C.-Y. Hsieh, J.-C. Chen, und F. Dressler",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Investigates “TCOA: Triple-Check Offloading Algorithm for Roadside Units and Vehicular Microclouds in 5G Networks and Beyond”. Focus: the core mechanism, system behavior and engineering implications in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "6",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=TCOA%3A+Triple-Check+Offloading+Algorithm+for+Roadside+Units+and+Vehicular+Microclouds+in+5G+Networks+and+Beyond"
+      }
+    },
+    {
+      "title": "Energy Minimization of Mobile Edge Computing Networks With HARQ in the Finite Blocklength Regime",
+      "authors": "Y. Zhu, Y. Hu, A. Schmeink, und J. Gross",
+      "year": "2022",
+      "isConference": false,
+      "summary": "Optimizes “Energy Minimization of Mobile Edge Computing Networks With HARQ in the Finite Blocklength Regime”. Focus: resource decisions, constraints and performance trade-offs in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "19",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Energy+Minimization+of+Mobile+Edge+Computing+Networks+With+HARQ+in+the+Finite+Blocklength+Regime"
+      }
+    },
+    {
+      "title": "Federated Learning in UAV-Enhanced Networks: Joint Coverage and Convergence Time Optimization",
+      "authors": "M. Yahya, S. Maghsudi, und S. Stanczak",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Explores “Federated Learning in UAV-Enhanced Networks: Joint Coverage and Convergence Time Optimization”. Focus: data-driven prediction, control, optimization or adaptation in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Federated Learning for Multipoint Channel Charting",
+      "authors": "P. Agostini, Z. Utkovski, und S. Stanczak",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Explores “Federated Learning for Multipoint Channel Charting”. Focus: data-driven prediction, control, optimization or adaptation in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Hybrid NOMA Offloading in Multi-User MEC Networks",
+      "authors": "Z. Ding, D. Xu, R. Schober, und H. V. Poor",
+      "year": "2022",
+      "isConference": false,
+      "summary": "Investigates “Hybrid NOMA Offloading in Multi-User MEC Networks”. Focus: the core mechanism, system behavior and engineering implications in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "189",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Hybrid+NOMA+Offloading+in+Multi-User+MEC+Networks"
+      }
+    }
+  ]
+}

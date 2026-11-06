@@ -1,0 +1,141 @@
+{
+  "description": "Physical layer security exploits properties of the wireless channel and signal transmission to support confidentiality and authentication. Techniques include wiretap coding, secret-key generation, covert communication, and physical countermeasures against eavesdroppers and jammers.",
+  "featured": {
+    "title": "Physical Layer Deception with Non-Orthogonal Multiplexing",
+    "authors": "W. Chen, B. Han, Y. Zhu, A. Schmeink, G. Caire, und H. D. Schotten",
+    "venue": "arXiv",
+    "year": "2024",
+    "summary": "Investigates “Physical Layer Deception with Non-Orthogonal Multiplexing”. Focus: the core mechanism, system behavior and engineering implications in Physical Layer Security, giving a quick view of the problem and its role in future wireless and network systems."
+  },
+  "publications": [
+    {
+      "title": "Reconfigurable Intelligent Surface-Assisted Physical Layer Security",
+      "authors": "X. Li, M. Frey, E. Tohidi, I. Bjelakovic, und S. Stanczak",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Examines “Reconfigurable Intelligent Surface-Assisted Physical Layer Security”. Focus: threats, protection mechanisms and security-performance trade-offs in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Benign and Malicious Reconfigurable Intelligent Surfaces in MISO Wiretap Channels",
+      "authors": "Y. Gao, S. Rezvani, P.-H. Lin, und E. A. Jorswieck",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Examines “Benign and Malicious Reconfigurable Intelligent Surfaces in MISO Wiretap Channels”. Focus: threats, protection mechanisms and security-performance trade-offs in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Secret Key Generation in Multi-Mode Fiber Channels: Channel Measurements and Achievable Rates",
+      "authors": "P.-H. Lin, P. Nowitzki, E. A. Jorswieck, D. Pohle, und J. Czarske",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Characterizes “Secret Key Generation in Multi-Mode Fiber Channels: Channel Measurements and Achievable Rates”. Focus: measured behavior, propagation effects and practical implications in Photonic Systems & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Perfectly Secure Key Agreement Over a Full Duplex Wireless Channel",
+      "authors": "G. Wunder, A. Flinth, D. Becker, und B. Groß",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Examines “Perfectly Secure Key Agreement Over a Full Duplex Wireless Channel”. Focus: threats, protection mechanisms and security-performance trade-offs in Physical Layer Security, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Joint Power Allocation and Trajectory Design for UAV-Enabled Covert Communication",
+      "authors": "P. Wu, X. Yuan, Y. Hu, und A. Schmeink",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Presents “Joint Power Allocation and Trajectory Design for UAV-Enabled Covert Communication”. Focus: architecture, implementation choices and engineering trade-offs in Physical Layer Security, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "56",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Joint+Power+Allocation+and+Trajectory+Design+for+UAV-Enabled+Covert+Communication"
+      }
+    },
+    {
+      "title": "Joint User Assignment and Trajectory Design for UAV-Enabled Covert Communication with Directional Antenna",
+      "authors": "P. Wu, X. Yuan, Y. Hu, J. Zhang, und A. Schmeink",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Presents “Joint User Assignment and Trajectory Design for UAV-Enabled Covert Communication with Directional Antenna”. Focus: architecture, implementation choices and engineering trade-offs in Physical Layer Security, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Practical Wiretap Code Design by Concatenated Autoencoder and LDPC Codes",
+      "authors": "S. Lyu, R. Raghunath, L. Kunz, K.-L. Besser, P.-H. Lin, und E. A. Jorswieck",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Examines “Practical Wiretap Code Design by Concatenated Autoencoder and LDPC Codes”. Focus: threats, protection mechanisms and security-performance trade-offs in Physical Layer Security, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Arbitrarily Varying Wiretap Channels With Non-Causal Side Information at the Jammer",
+      "authors": "C. R. Janda, M. Wiese, E. A. Jorswieck, und H. Boche",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Examines “Arbitrarily Varying Wiretap Channels With Non-Causal Side Information at the Jammer”. Focus: threats, protection mechanisms and security-performance trade-offs in Physical Layer Security, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "7",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Arbitrarily+Varying+Wiretap+Channels+With+Non-Causal+Side+Information+at+the+Jammer"
+      }
+    },
+    {
+      "title": "Maximum Zero-Outage Secrecy Capacity of Fading Wiretap Channels with Finite Alphabets",
+      "authors": "X. Xu, K.-L. Besser, P.-H. Lin, und E. A. Jorswieck",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Examines “Maximum Zero-Outage Secrecy Capacity of Fading Wiretap Channels with Finite Alphabets”. Focus: threats, protection mechanisms and security-performance trade-offs in Physical Layer Security, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Joint Transmit Power and Trajectory Design for UAV-Enabled Covert Communication",
+      "authors": "P. Wu, X. Yuan, Y. Hu, H. Chen, und A. Schmeink",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Presents “Joint Transmit Power and Trajectory Design for UAV-Enabled Covert Communication”. Focus: architecture, implementation choices and engineering trade-offs in Physical Layer Security, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Learning-Based Secret Key Generation in Relay Channels Under Adversarial Attacks",
+      "authors": "M. Letafati, H. Behroozi, B. H. Khalaj, und E. A. Jorswieck",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Examines “Learning-Based Secret Key Generation in Relay Channels Under Adversarial Attacks”. Focus: threats, protection mechanisms and security-performance trade-offs in Physical Layer Security, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "8",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/publication/373916627_Learning-Based_Secret_Key_Generation_in_Relay_Channels_Under_Adversarial_Attacks"
+      }
+    },
+    {
+      "title": "Physical Layer Security Based Enabling Technologies for 6G Communications Values",
+      "authors": "E. Jorswieck, P.-H. Lin, und C. Janda",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Examines “Physical Layer Security Based Enabling Technologies for 6G Communications Values”. Focus: threats, protection mechanisms and security-performance trade-offs in Physical Layer Security, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Legitimate against Illegitimate IRSs on MISO Wiretap Channels",
+      "authors": "S. Rezvani, P.-H. Lin, M. Le, und E. Jorswieck",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Examines “Legitimate against Illegitimate IRSs on MISO Wiretap Channels”. Focus: threats, protection mechanisms and security-performance trade-offs in Physical Layer Security, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Hardware-Impaired PHY Secret Key Generation With Man-in-the-Middle Adversaries",
+      "authors": "M. Letafati, H. Behroozi, B. H. Khalaj, und E. A. Jorswieck",
+      "year": "2022",
+      "isConference": false,
+      "summary": "Examines “Hardware-Impaired PHY Secret Key Generation With Man-in-the-Middle Adversaries”. Focus: threats, protection mechanisms and security-performance trade-offs in Physical Layer Security, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "34",
+        "source": "SciSpace",
+        "checkedOn": "2026-08-27",
+        "url": "https://scispace.com/search?q=Hardware-Impaired+PHY+Secret+Key+Generation+With+Man-in-the-Middle+Adversaries"
+      }
+    },
+    {
+      "title": "Semantic Security Based Secrecy Maps for Vehicular Communications",
+      "authors": "Z. Utkovski, M. Frey, P. Agostini, I. Bjelakovic, und S. Stanczak",
+      "year": "2021",
+      "isConference": true,
+      "summary": "Examines “Semantic Security Based Secrecy Maps for Vehicular Communications”. Focus: threats, protection mechanisms and security-performance trade-offs in Autonomous Mobility, giving a quick view of the problem and its role in future wireless and network systems."
+    }
+  ]
+}

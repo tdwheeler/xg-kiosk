@@ -1,0 +1,93 @@
+{
+  "description": "Environmental sensing uses radio and sensor data to detect states or changes in the surrounding environment. Examples include device-free presence and motion detection, remote sensing, and timely monitoring of distributed information sources.",
+  "featured": {
+    "title": "Status Update Scheduling in Remote Sensing Under Variable Activation and Propagation Delays",
+    "authors": "L. Badia, A. Zancanaro, G. Cisotto, und A. Munari",
+    "venue": "Elsevier Ad Hoc Networks",
+    "year": "2024",
+    "summary": "Optimizes “Status Update Scheduling in Remote Sensing Under Variable Activation and Propagation Delays”. Focus: resource decisions, constraints and performance trade-offs in Environmental Sensing, giving a quick view of the problem and its role in future wireless and network systems.",
+    "citations": {
+      "count": "10",
+      "source": "ResearchGate",
+      "checkedOn": "2026-08-27",
+      "url": "https://www.researchgate.net/search/publication?q=Status+Update+Scheduling+in+Remote+Sensing+Under+Variable+Activation+and+Propagation+Delays"
+    }
+  },
+  "publications": [
+    {
+      "title": "Remote Monitoring of Two-State Markov Sources in Random Access Channels: Joint Model and State Estimation",
+      "authors": "H. Asgari, A. Munari, G. Liva, und G. Cocco",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Investigates “Remote Monitoring of Two-State Markov Sources in Random Access Channels: Joint Model and State Estimation”. Focus: the core mechanism, system behavior and engineering implications in Environmental Sensing, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Passive Device-free Indoor Movement Detection using WiFi Time-of-Flight Information",
+      "authors": "S. Rösler, A. Zubow, und F. Dressler",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Passive Device-free Indoor Movement Detection using WiFi Time-of-Flight Information”. Focus: the core mechanism, system behavior and engineering implications in Environmental Sensing, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Monitoring IoT Sources Over Random Access Channels: Age of Incorrect Information and Missed Detection Probability",
+      "authors": "A. Munari",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Monitoring IoT Sources Over Random Access Channels: Age of Incorrect Information and Missed Detection Probability”. Focus: the core mechanism, system behavior and engineering implications in Environmental Sensing, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "SensingWall: Ultra-low cost WiFi wireless sensing",
+      "authors": "A. Zubow, M. Elhwawshy, S. Rösler, L. Pusch, und A. W. Dressler",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “SensingWall: Ultra-low cost WiFi wireless sensing”. Focus: the core mechanism, system behavior and engineering implications in Environmental Sensing, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Age of information for remote sensing with uncoordinated finite-horizon access",
+      "authors": "P. Hegde, L. Badia, und A. Munari",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Investigates “Age of information for remote sensing with uncoordinated finite-horizon access”. Focus: the core mechanism, system behavior and engineering implications in Environmental Sensing, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "9",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Age+of+information+for+remote+sensing+with+uncoordinated+finite-horizon+access"
+      }
+    },
+    {
+      "title": "Remote Monitoring of Markov Sources over Random Access Channels: False Alarm and Detection Probability",
+      "authors": "A. Munari, G. Cocco, und G. Liva",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Remote Monitoring of Markov Sources over Random Access Channels: False Alarm and Detection Probability”. Focus: the core mechanism, system behavior and engineering implications in Environmental Sensing, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "One-Class Support Vector Machine for WiFi-based Device-free Indoor Presence Detection",
+      "authors": "A. Zubow, K. Petto, und F. Dressler",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “One-Class Support Vector Machine for WiFi-based Device-free Indoor Presence Detection”. Focus: the core mechanism, system behavior and engineering implications in Environmental Sensing, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Status Update Scheduling in Remote Sensing Under Variable Activation Delay",
+      "authors": "L. Badia und A. Munari",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Optimizes “Status Update Scheduling in Remote Sensing Under Variable Activation Delay”. Focus: resource decisions, constraints and performance trade-offs in Environmental Sensing, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Remote Monitoring of Two-State Markov Sources via Random Access Channels: An Information Freshness vs. State Estimation Entropy Perspective",
+      "authors": "G. Cocco, A. Munari, und G. Liva",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Investigates “Remote Monitoring of Two-State Markov Sources via Random Access Channels: An Information Freshness vs. State Estimation Entropy…”. Focus: the core mechanism, system behavior and engineering implications in Environmental Sensing, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "38",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/publication/375533832_Remote_Monitoring_of_Two-State_Markov_Sources_via_Random_Access_Channels_an_Information_Freshness_vs_State_Estimation_Entropy_Perspective"
+      }
+    }
+  ]
+}

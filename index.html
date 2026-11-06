@@ -1,0 +1,249 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" href="./favicon.png" />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>xg-kiosk-app</title>
+
+  <script defer src="./assets/index-Cvj2Z_es.js"></script>
+</head>
+<body>
+
+  <canvas id="canvas"></canvas>
+
+  <!-- Info Panel: outer wrapper never blocks canvas clicks -->
+  <div id="panel-outer">
+    <div id="panel-inner"></div>
+  </div>
+  <div id="panel-fade-top" class="panel-fade"><div class="chev"></div></div>
+  <div id="panel-fade" class="panel-fade"><div class="chev"></div></div>
+
+  <!-- The underlay: the brand, painted BEHIND the canvas so graph nodes drift
+       over it. It stays visible whether or not a node is selected. Laid out by
+       applyUnderlay() in src/ui/layout.js from the resolved configuration.
+       The logo falls back to text-only if the file is missing, so the wordmark
+       still reads correctly before the asset lands. -->
+  <div id="underlay-bar">
+    <div id="underlay-brand" class="underlay hidden">
+      STARTUPS AT
+      <img class="underlay-logo" src="./images/general/xG-solid.svg" alt=""
+           onerror="this.style.display='none'" />
+      -INCUBATOR
+    </div>
+  </div>
+
+  <!-- The overlay: back button, hint and tap hint, in FRONT of the canvas.
+       They step aside while a visitor has a node selected, but stay up
+       through the attract loop's selections. Laid out by applyOverlay(). -->
+  <button id="overlay-back" class="overlay hidden" type="button">
+    <svg class="overlay-icon" viewBox="0 0 24 24" aria-hidden="true">
+      <path d="M9 5 4 10l5 5" />
+      <path d="M4 10h9a5 5 0 0 1 0 10h-3" />
+    </svg>back to xG-RIC
+  </button>
+
+  <!-- Visitor hint. Hidden once a visitor selects a node — by then it has
+       done its job. -->
+  <div id="hint" class="overlay hidden"><span class="hint-dot"></span>TAP NODES FOR MORE INFO</div>
+
+  <!-- Tap hint: a hand pressing, with rings spreading from its fingertip.
+       Bottom left, past the back button when that is shown; hidden with
+       the hint. Drawn in a 100-unit box: rings first so the hand paints
+       over them. The cuff sits outside .tap-hand so it stays put while the
+       hand presses. -->
+  <svg id="overlay-tap" class="overlay hidden" viewBox="0 0 100 100" aria-hidden="true">
+    <circle class="tap-ring" cx="42" cy="24" />
+    <circle class="tap-ring" cx="42" cy="24" />
+    <circle class="tap-ring" cx="42" cy="24" />
+    <g class="tap-hand">
+      <rect x="38" y="18" width="8" height="50" rx="4" />       <!-- index -->
+      <rect x="48" y="44" width="8" height="24" rx="4" />       <!-- middle -->
+      <rect x="58" y="48" width="8" height="20" rx="4" />       <!-- ring -->
+      <rect x="68" y="53" width="7" height="15" rx="3.5" />     <!-- little -->
+      <!-- thumb and palm as one outline, so the thumb curves into the wrist -->
+      <path d="M38 67.3 L26.8 56.2 A4 4 0 0 0 21.2 61.8 L33 73.7 Q40 80.5 40 87 H68.5 Q75 87 75 80 V62 H38 Z" />
+    </g>
+    <rect class="tap-cuff" x="40" y="90" width="35" height="6" rx="1.5" />
+  </svg>
+
+  <!-- Live force controls -->
+  <div id="controls">
+    <button id="controls-toggle" hidden>⚙ forces</button>
+    <div id="controls-panel">
+      <div class="ctrl-header">
+        <span class="ctrl-label-small">// forces</span>
+        <label class="ctrl-edge-label">
+          Edges
+          <input type="checkbox" id="ctrl-edges" />
+        </label>
+        <label class="ctrl-edge-label">
+          Glimmer
+          <input type="checkbox" id="ctrl-glimmer" />
+        </label>
+        <label class="ctrl-edge-label">
+          Background
+          <input type="checkbox" id="ctrl-background" />
+        </label>
+        <label class="ctrl-edge-label">
+          Guides
+          <input type="checkbox" id="ctrl-guides" />
+        </label>
+      </div>
+      <div class="ctrl-row">
+        <div class="ctrl-row-header">
+          <span class="name">repulsion</span>
+          <span class="val" id="val-repulsion"></span>
+        </div>
+        <input type="range" id="range-repulsion" min="500" max="30000" step="500" />
+      </div>
+      <div class="ctrl-row">
+        <div class="ctrl-row-header">
+          <span class="name">float speed</span>
+          <span class="val" id="val-floatSpeed"></span>
+        </div>
+        <input type="range" id="range-floatSpeed" min="0" max="1" step="0.01" />
+      </div>
+      <!-- The gentle current that keeps nodes evenly spread (styles.motion.spread).
+           0 turns it off: the motion as it was before the current existed. -->
+      <div class="ctrl-row">
+        <div class="ctrl-row-header">
+          <span class="name">spread</span>
+          <span class="val" id="val-spread"></span>
+        </div>
+        <input type="range" id="range-spread" min="0" max="0.15" step="0.005" />
+      </div>
+      <!-- Screen tuning. These ten values are what adapts the app to a new
+           display; everything here writes straight into STYLES, which is read
+           live, so changes show immediately. Profiles are local scratch — the
+           committed FORMAT_OVERRIDES stays the source of truth, and "copy
+           overrides" is how a profile gets promoted into it. -->
+      <div class="ctrl-header" style="margin-top:16px;">
+        <span class="ctrl-label-small">// screen</span>
+      </div>
+      <div class="ctrl-readout" id="screen-readout"></div>
+      <div class="ctrl-row">
+        <div class="ctrl-row-header">
+          <span class="name">element scale</span>
+          <span class="val" id="val-scale"></span>
+        </div>
+        <div class="ctrl-note">size of nodes, labels, sidebar and overlay (not spacing)</div>
+        <input type="range" id="range-scale" min="0.3" max="2" step="0.005" />
+      </div>
+      <div class="ctrl-row">
+        <div class="ctrl-row-header">
+          <span class="name">graph zoom</span>
+          <span class="val" id="val-zoom"></span>
+        </div>
+        <div class="ctrl-note">magnifies the graph only, not the page</div>
+        <input type="range" id="range-zoom" min="0.5" max="3" step="0.01" />
+      </div>
+      <div class="ctrl-row">
+        <div class="ctrl-row-header">
+          <span class="name">page zoom</span>
+          <span class="val" id="val-pageZoom"></span>
+        </div>
+        <div class="ctrl-note">shrinks or grows everything at once, like the browser's zoom</div>
+        <input type="range" id="range-pageZoom" min="0.3" max="2" step="0.01" />
+      </div>
+      <div class="ctrl-row">
+        <div class="ctrl-row-header">
+          <span class="name">panel scale</span>
+          <span class="val" id="val-panelScale"></span>
+        </div>
+        <div class="ctrl-note">the sidebar panel only, on top of element scale</div>
+        <input type="range" id="range-panelScale" min="0.3" max="2" step="0.01" />
+      </div>
+      <div class="ctrl-row">
+        <div class="ctrl-row-header">
+          <span class="name">edge-pieces scale</span>
+          <span class="val" id="val-chromeScale"></span>
+        </div>
+        <div class="ctrl-note">brand, back button, hint and tap hand, on top of element scale</div>
+        <input type="range" id="range-chromeScale" min="0.3" max="2" step="0.01" />
+      </div>
+      <div class="ctrl-row">
+        <div class="ctrl-row-header">
+          <span class="name">edge margin</span>
+          <span class="val" id="val-edgePadding"></span>
+        </div>
+        <div class="ctrl-note">px nodes keep clear of the screen edge (at the top: startup names)</div>
+        <input type="range" id="range-edgePadding" min="10" max="250" step="5" />
+      </div>
+      <div class="ctrl-row">
+        <div class="ctrl-row-header">
+          <span class="name">hit radius</span>
+          <span class="val" id="val-hitRadius"></span>
+        </div>
+        <input type="range" id="range-hitRadius" min="8" max="60" step="1" />
+      </div>
+      <div class="ctrl-row">
+        <div class="ctrl-row-header">
+          <span class="name">sidebar width</span>
+          <span class="val" id="val-sidebarWidth"></span>
+        </div>
+        <input type="range" id="range-sidebarWidth" min="0.2" max="0.7" step="0.01" />
+      </div>
+      <div class="ctrl-row">
+        <div class="ctrl-row-header">
+          <span class="name">inner orbit</span>
+          <span class="val" id="val-innerOrbit"></span>
+        </div>
+        <input type="range" id="range-innerOrbit" min="50" max="400" step="5" />
+      </div>
+      <div class="ctrl-row">
+        <div class="ctrl-row-header">
+          <span class="name">outer orbit</span>
+          <span class="val" id="val-outerOrbit"></span>
+        </div>
+        <input type="range" id="range-outerOrbit" min="150" max="800" step="5" />
+      </div>
+      <div class="ctrl-row">
+        <div class="ctrl-row-header">
+          <span class="name">target x</span>
+          <span class="val" id="val-targetX"></span>
+        </div>
+        <div class="ctrl-note">px a tapped node settles right of centre (− = left)</div>
+        <input type="range" id="range-targetX" min="-400" max="400" step="5" />
+      </div>
+      <div class="ctrl-row">
+        <div class="ctrl-row-header">
+          <span class="name">target y</span>
+          <span class="val" id="val-targetY"></span>
+        </div>
+        <div class="ctrl-note">px a tapped node settles below centre (− = above)</div>
+        <input type="range" id="range-targetY" min="-300" max="300" step="5" />
+      </div>
+      <div class="ctrl-row">
+        <select id="profile-list" class="ctrl-input"></select>
+      </div>
+      <div class="ctrl-row ctrl-btn-row">
+        <button id="profile-load" class="ctrl-btn">load</button>
+        <button id="profile-delete" class="ctrl-btn">delete</button>
+      </div>
+      <div class="ctrl-row ctrl-btn-row">
+        <input type="text" id="profile-name" class="ctrl-input" placeholder="profile name" />
+        <button id="profile-save" class="ctrl-btn">save</button>
+      </div>
+      <div class="ctrl-row ctrl-btn-row">
+        <button id="profile-copy" class="ctrl-btn">copy overrides</button>
+        <button id="profile-reset" class="ctrl-btn">reset</button>
+      </div>
+      <div class="ctrl-row" id="profile-status"></div>
+
+      <div class="ctrl-row">
+        <button id="ctrl-log" style="width:100%;padding:4px;font-family:'JetBrains Mono',monospace;font-size:11px;cursor:pointer;border:1px solid #ddd;border-radius:4px;background:rgba(255,255,255,0.9);color:#666;">Start logging</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Content first, as a plain global. Generated by scripts/content.js
+       from public/graph.json and public/content/ on every dev and build.
+       A classic <script> rather than a fetch, and a classic script rather than a
+       module, because both fetch() and ES modules are blocked for a page opened
+       from disk — and the booth kiosk is launched by double-clicking. See
+       decision-log.md §39. -->
+  <script src="./content-bundle.js"></script>
+</body>
+</html>

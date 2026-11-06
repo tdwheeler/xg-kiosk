@@ -1,0 +1,182 @@
+{
+  "description": "High-precision positioning combines radio measurements, multi-antenna techniques, and learning-based methods for accurate location and motion estimation. Ranging, channel charting, fingerprinting, and tracking aim to remain robust in NLoS and dynamic environments.",
+  "featured": {
+    "title": "Sensing-Assisted Beam Tracking for mmWave V2I Communications With Analog, Hybrid, and Digital Antenna Architectures",
+    "authors": "F. Pedraza und G. Caire",
+    "venue": "IEEE Trans. Wireless Commun",
+    "year": "2025",
+    "summary": "Presents “Sensing-Assisted Beam Tracking for mmWave V2I Communications With Analog, Hybrid, and Digital Antenna Architectures”. Focus: architecture, implementation choices and engineering trade-offs in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems.",
+    "citations": {
+      "count": "7",
+      "source": "ResearchGate",
+      "checkedOn": "2026-08-27",
+      "url": "https://www.researchgate.net/search/publication?q=Sensing-Assisted+Beam+Tracking+for+mmWave+V2I+Communications+With+Analog%2C+Hybrid%2C+and+Digital+Antenna+Architectures"
+    }
+  },
+  "publications": [
+    {
+      "title": "Wi-Fi Ranging under Interference",
+      "authors": "A. Zubow, C. Laskos, S. Rösler, G. Wunder, und F. Dressler",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Investigates “Wi-Fi Ranging under Interference”. Focus: the core mechanism, system behavior and engineering implications in High-Precision Positioning, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Towards Virtual to Real-world Transfer Learning for Mobile mmWave Beam Tracking",
+      "authors": "C. Laskos, S. Dimce, A. Zubow, und F. Dressler",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Towards Virtual to Real-world Transfer Learning for Mobile mmWave Beam Tracking”. Focus: the core mechanism, system behavior and engineering implications in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Radio Foundation Models: Pre-training Transformers for 5G-based Indoor Localization",
+      "authors": "J. Ott, J. Pirkl, M. Stahlke, T. Feigl, und C. Mutschler",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Explores “Radio Foundation Models: Pre-training Transformers for 5G-based Indoor Localization”. Focus: data-driven prediction, control, optimization or adaptation in High-Precision Positioning, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Non-Line-of-Sight Detection for Radio Localization using Deep State Space Models",
+      "authors": "L. Brasseler, M. Stahlke, T. Altstidl, T. Feigl, und C. Mutschler",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Non-Line-of-Sight Detection for Radio Localization using Deep State Space Models”. Focus: the core mechanism, system behavior and engineering implications in High-Precision Positioning, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Joint Message Detection, Channel, and User Position Estimation for Unsourced Random Access in Cell-Free Networks",
+      "authors": "E. Gkiouzepi, B. Çakmak, M. Opper, und G. Caire",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Joint Message Detection, Channel, and User Position Estimation for Unsourced Random Access in Cell-Free Networks”. Focus: the core mechanism, system behavior and engineering implications in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Assessing the Interplay between Localization Accuracy and Interference in IRS-assisted Links",
+      "authors": "J. T. Gomez und F. Dressler",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Investigates “Assessing the Interplay between Localization Accuracy and Interference in IRS-assisted Links”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Localization in Dynamic Indoor MIMO-OFDM Wireless Systems using Domain Adaptation",
+      "authors": "R. Ismayilov, R. L. G. Cavalcante, und S. Stanczak",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Presents “Localization in Dynamic Indoor MIMO-OFDM Wireless Systems using Domain Adaptation”. Focus: architecture, implementation choices and engineering trade-offs in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "User Tracking and Direction Estimation Codebook Design for IRS-Assisted mmWave Communication",
+      "authors": "M. Garkisch, S. Lotter, G. Zhou, V. Jamali, und R. Schober",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Presents “User Tracking and Direction Estimation Codebook Design for IRS-Assisted mmWave Communication”. Focus: architecture, implementation choices and engineering trade-offs in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Exploit High-Dimensional RIS Information to Localization: What Is the Impact of Faulty Element?",
+      "authors": "T. Wu, C. Pan, K. Zhi, H. Ren, M. Elkashlan, C.-X. Wang, R. Schober, und X. You",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Analyzes “Exploit High-Dimensional RIS Information to Localization: What Is the Impact of Faulty Element?”. Focus: system behavior, performance limits and design trade-offs in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "9",
+        "source": "SciSpace",
+        "checkedOn": "2026-08-27",
+        "url": "https://scispace.com/search?q=Exploit+High-Dimensional+RIS+Information+to+Localization%3A+What+Is+the+Impact+of+Faulty+Element%3F"
+      }
+    },
+    {
+      "title": "Velocity-Based Channel Charting with Spatial Distribution Map Matching",
+      "authors": "M. Stahlke, G. Yammine, T. Feigl, B. M. Eskofier, und C. Mutschler",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Investigates “Velocity-Based Channel Charting with Spatial Distribution Map Matching”. Focus: the core mechanism, system behavior and engineering implications in High-Precision Positioning, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "4",
+        "source": "SciSpace",
+        "checkedOn": "2026-08-27",
+        "url": "https://scispace.com/search?q=Velocity-Based+Channel+Charting+with+Spatial+Distribution+Map+Matching"
+      }
+    },
+    {
+      "title": "Extended Target Parameter Estimation and Tracking with an HDA Setup for ISAC Applications",
+      "authors": "F. Pedraza, S. K. Dehkordi, J. C. Hauffen, S. Li, P. Jung, und G. Caire",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Extended Target Parameter Estimation and Tracking with an HDA Setup for ISAC Applications”. Focus: the core mechanism, system behavior and engineering implications in Integrated Sensing & Comm (ISAC), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "HoloFed: Environment-Adaptive Positioning via Multi-Band Reconfigurable Holographic Surfaces and Federated Learning",
+      "authors": "J. Hu, Z. Chen, T. Zheng, R. Schober, und J. Luo",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Explores “HoloFed: Environment-Adaptive Positioning via Multi-Band Reconfigurable Holographic Surfaces and Federated Learning”. Focus: data-driven prediction, control, optimization or adaptation in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "26",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=HoloFed%3A+Environment-Adaptive+Positioning+via+Multi-Band+Reconfigurable+Holographic+Surfaces+and+Federated+Learning"
+      }
+    },
+    {
+      "title": "Channel Charting for Beam Management in Sub-THz Systems",
+      "authors": "P. Agostini, Z. Utkovski, und S. Stańczak",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Presents “Channel Charting for Beam Management in Sub-THz Systems”. Focus: architecture, implementation choices and engineering trade-offs in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Learning Privacy-Preserving Channel Charts",
+      "authors": "P. Agostini, Z. Utkovski, I. Bjelakovic, und S. Stańczak",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Learning Privacy-Preserving Channel Charts”. Focus: the core mechanism, system behavior and engineering implications in High-Precision Positioning, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Uncertainty-based Fingerprinting Model Selection for Radio Localization",
+      "authors": "M. Stahlke, T. Feigl, S. Kram, B. M. Eskofier, und C. Mutschler",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Uncertainty-based Fingerprinting Model Selection for Radio Localization”. Focus: the core mechanism, system behavior and engineering implications in High-Precision Positioning, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Neurally Augmented State Space Model for Simultaneous Communication and Tracking with Low Complexity Receivers",
+      "authors": "F. Pedraza und G. Caire",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Explores “Neurally Augmented State Space Model for Simultaneous Communication and Tracking with Low Complexity Receivers”. Focus: data-driven prediction, control, optimization or adaptation in High-Precision Positioning, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Codebook-Based User Tracking in IRS-Assisted mmWave Communication Networks",
+      "authors": "M. Garkisch, V. Jamali, und R. Schober",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Codebook-Based User Tracking in IRS-Assisted mmWave Communication Networks”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Indoor Localization With Robust Global Channel Charting: A Time-Distance-Based Approach",
+      "authors": "M. Stahlke, G. Yammine, T. Feigl, B. M. Eskofier, und C. Mutschler",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Investigates “Indoor Localization With Robust Global Channel Charting: A Time-Distance-Based Approach”. Focus: the core mechanism, system behavior and engineering implications in High-Precision Positioning, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "63",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Indoor+Localization+With+Robust+Global+Channel+Charting%3A+A+Time-Distance-Based+Approach"
+      }
+    },
+    {
+      "title": "Federated Learning for Multipoint Channel Charting",
+      "authors": "P. Agostini, Z. Utkovski, und S. Stanczak",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Explores “Federated Learning for Multipoint Channel Charting”. Focus: data-driven prediction, control, optimization or adaptation in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Position Tracking using Likelihood Modeling of Channel Features with Gaussian Processes",
+      "authors": "S. Kram, C. Kraus, T. Feigl, M. Stahlke, J. Robert, und C. Mutschler",
+      "year": "2022",
+      "isConference": false,
+      "summary": "Investigates “Position Tracking using Likelihood Modeling of Channel Features with Gaussian Processes”. Focus: the core mechanism, system behavior and engineering implications in High-Precision Positioning, giving a quick view of the problem and its role in future wireless and network systems."
+    }
+  ]
+}

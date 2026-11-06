@@ -1,0 +1,162 @@
+{
+  "description": "Advanced beamforming controls the amplitude, phase, or delay of many antenna elements to focus radio energy spatially. It includes analog, digital, and hybrid methods as well as beam tracking, training, and near-field beam management.",
+  "featured": {
+    "title": "Sensing-Assisted Beam Tracking for mmWave V2I Communications With Analog, Hybrid, and Digital Antenna Architectures",
+    "authors": "F. Pedraza und G. Caire",
+    "venue": "IEEE Trans. Wireless Commun",
+    "year": "2025",
+    "summary": "Presents “Sensing-Assisted Beam Tracking for mmWave V2I Communications With Analog, Hybrid, and Digital Antenna Architectures”. Focus: architecture, implementation choices and engineering trade-offs in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems.",
+    "citations": {
+      "count": "7",
+      "source": "ResearchGate",
+      "checkedOn": "2026-08-27",
+      "url": "https://www.researchgate.net/search/publication?q=Sensing-Assisted+Beam+Tracking+for+mmWave+V2I+Communications+With+Analog%2C+Hybrid%2C+and+Digital+Antenna+Architectures"
+    }
+  },
+  "publications": [
+    {
+      "title": "Two-timescale joint power control and beamforming design with applications to cell-free massive MIMO",
+      "authors": "L. Miretti, R. L. G. Cavalcante, und S. Stańczak",
+      "year": "2025",
+      "isConference": false,
+      "summary": "Optimizes “Two-timescale joint power control and beamforming design with applications to cell-free massive MIMO”. Focus: resource decisions, constraints and performance trade-offs in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "11",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Two-timescale+joint+power+control+and+beamforming+design+with+applications+to+cell-free+massive+MIMO"
+      }
+    },
+    {
+      "title": "Beampattern Synthesis with a Computationally Efficient Matrix Nearness Approach",
+      "authors": "B. Kilic, K. Turbic, M. Kasparick, und S. Stanczak",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Beampattern Synthesis with a Computationally Efficient Matrix Nearness Approach”. Focus: the core mechanism, system behavior and engineering implications in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Linear Phase Beampattern Design with Set-theoretic Methods",
+      "authors": "Town, South Africa, Dez. 2024. J. Fink, R. L. G. Cavalcante, und S. Stanczak",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Presents “Linear Phase Beampattern Design with Set-theoretic Methods”. Focus: architecture, implementation choices and engineering trade-offs in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Towards Virtual to Real-world Transfer Learning for Mobile mmWave Beam Tracking",
+      "authors": "C. Laskos, S. Dimce, A. Zubow, und F. Dressler",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Towards Virtual to Real-world Transfer Learning for Mobile mmWave Beam Tracking”. Focus: the core mechanism, system behavior and engineering implications in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Mobilizing the Terahertz Beam: D-Band Analog-Beamforming Front-End Prototyping and Long-Range 6G Trials",
+      "authors": "R. Askar, J. Chung, L. John, T. Merkle, S. Wittig, M. Schmieder, Y. Suh, J. Lee, B. Baumann, M. Peter, T. Haustein, W. Keusgen, und S. Stańczak",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Demonstrates “Mobilizing the Terahertz Beam: D-Band Analog-Beamforming Front-End Prototyping and Long-Range 6G Trials”. Focus: implementation choices, experimental behavior and practical feasibility in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "13",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Mobilizing+the+Terahertz+Beam%3A+D-Band+Analog-Beamforming+Front-End+Prototyping+and+Long-Range+6G+Trials"
+      }
+    },
+    {
+      "title": "Beam Training Optimization by Exploiting Sensing Information at MAC Layer",
+      "authors": "Y. Jian, L. Lopacinski, N. Maletic, und E. Grass",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Optimizes “Beam Training Optimization by Exploiting Sensing Information at MAC Layer”. Focus: resource decisions, constraints and performance trade-offs in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "On the Capacity of Gaussian “Beam-Pointing” Channels with Block Memory and Feedback",
+      "authors": "Italy, Juli 2024, S. 1–4. doi: 10.1109/ICTON62926.2024.10647449. S. Li, F. Pedraza, und G. Caire",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “On the Capacity of Gaussian “Beam-Pointing” Channels with Block Memory and Feedback”. Focus: the core mechanism, system behavior and engineering implications in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "W-Band Beamforming Front-End Implementation and Outdoor Trials for Mobile Backhaul and Access",
+      "authors": "M. Schmieder, R. Askar, A. Schultze, M. M. Sarmadi, M. Peter, D. Schwantuschke, und W. Keusgen",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Demonstrates “W-Band Beamforming Front-End Implementation and Outdoor Trials for Mobile Backhaul and Access”. Focus: implementation choices, experimental behavior and practical feasibility in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Optimized Detection with Analog Beamforming for Monostatic Integrated Sensing and Communication",
+      "authors": "Singapore, Juni 2024. R. Hernangómez, J. Fink, R. L. G. Cavalcante, Z. Utkovski, und S. Stańczak",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Optimized Detection with Analog Beamforming for Monostatic Integrated Sensing and Communication”. Focus: the core mechanism, system behavior and engineering implications in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Sub-THz D-Band Integrated Analog Beamforming Front-End Prototyping and 6G Outdoor Trials",
+      "authors": "R. Askar, M. Schmieder, J. Chung, L. John, T. Merkle, S. Wittig, Y. Suh, J. Lee, M. Peter, T. Haustein, W. Keusgen, und S. Stañczak",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Demonstrates “Sub-THz D-Band Integrated Analog Beamforming Front-End Prototyping and 6G Outdoor Trials”. Focus: implementation choices, experimental behavior and practical feasibility in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Channel Charting for Beam Management in Sub-THz Systems",
+      "authors": "P. Agostini, Z. Utkovski, und S. Stańczak",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Presents “Channel Charting for Beam Management in Sub-THz Systems”. Focus: architecture, implementation choices and engineering trade-offs in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Beam Alignment with an Intelligent Reflecting Surface for Integrated Sensing and Communication",
+      "authors": "F. Muhr, L. Zaniboni, S. K. Dehkordi, F. Pedraza, und G. Caire",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Beam Alignment with an Intelligent Reflecting Surface for Integrated Sensing and Communication”. Focus: the core mechanism, system behavior and engineering implications in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Efficient Beam Search for Initial Access Using Collaborative Filtering",
+      "authors": "G. Yammine, G. Kontes, N. Franke, A. Plinge, und C. Mutschler",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Efficient Beam Search for Initial Access Using Collaborative Filtering”. Focus: the core mechanism, system behavior and engineering implications in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Towards Hybrid Electronic-Mechanical Beamforming for IEEE 802.11ad",
+      "authors": "A. Zubow, A. Memedi, und F. Dressler",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Towards Hybrid Electronic-Mechanical Beamforming for IEEE 802.11ad”. Focus: the core mechanism, system behavior and engineering implications in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Joint optimal beamforming and power control in cell-free massive MIMO",
+      "authors": "L. Miretti, R. L. G. Cavalcante, und S. Stanczak",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Optimizes “Joint optimal beamforming and power control in cell-free massive MIMO”. Focus: resource decisions, constraints and performance trade-offs in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Deep Unfolded Multi-Group Multicast Beamforming",
+      "authors": "J. J. Brune, J. Fink, und S. Stańczak",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Investigates “Deep Unfolded Multi-Group Multicast Beamforming”. Focus: the core mechanism, system behavior and engineering implications in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Joint Analog Beamforming and Trajectory Planning for Energy-Efficient UAV-Enabled Nonlinear Wireless Power Transfer",
+      "authors": "X. Yuan, H. Jiang, Y. Hu, und A. Schmeink",
+      "year": "2022",
+      "isConference": false,
+      "summary": "Investigates “Joint Analog Beamforming and Trajectory Planning for Energy-Efficient UAV-Enabled Nonlinear Wireless Power Transfer”. Focus: the core mechanism, system behavior and engineering implications in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "44",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Joint+Analog+Beamforming+and+Trajectory+Planning+for+Energy-Efficient+UAV-Enabled+Nonlinear+Wireless+Power+Transfer"
+      }
+    },
+    {
+      "title": "Near-Field Hierarchical Beam Management for RIS-Enabled Millimeter Wave Multi-Antenna Systems",
+      "authors": "Norway, Juni 2022, S. 445–449. doi: 10.1109/SAM53842.2022.9827890. G. C. Alexandropoulos, V. Jamali, R. Schober, und H. V. Poor",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Presents “Near-Field Hierarchical Beam Management for RIS-Enabled Millimeter Wave Multi-Antenna Systems”. Focus: architecture, implementation choices and engineering trade-offs in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems."
+    }
+  ]
+}

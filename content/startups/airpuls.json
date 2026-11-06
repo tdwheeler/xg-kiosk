@@ -1,0 +1,54 @@
+{
+  "location": "Berlin, Germany",
+  "positioning": "Software-Defined 5G Private Networks",
+  "turnover": {
+    "value": "€17M",
+    "label": "Expected turnover four years from now"
+  },
+  "valueProp": "airpuls provides a fully open, O-RAN-compatible 5G stack that research labs and industrial operators can configure end-to-end without depending on a single vendor's roadmap.",
+  "backSections": [
+    {
+      "heading": "Our Mission",
+      "body": "We make advanced 5G technology accessible, open, and tailored to the industries that need it most. We incorporate the latest 5G innovations and open source frameworks for wireless networks to meet our customers' requirements."
+    },
+    {
+      "heading": "Open RAN and Open Source",
+      "body": "We develop O-RAN-compatible 5G components—from all-in-one small cells to cloud-native deployments. Our open source approach ensures full access, trust, and transparency across the entire system."
+    },
+    {
+      "heading": "Planning and Design",
+      "body": "We support customers from requirements analysis to network design using our own planning tools based on the latest wireless network research."
+    },
+    {
+      "heading": "Individually Customizable Solutions",
+      "body": "Our 5G systems are tailored to your application needs, with support for integration into your systems, processes, and applications."
+    },
+    {
+      "heading": "Support and Training",
+      "body": "We offer continuous support and regular updates to provide you with the latest features of the 5G and O-RAN standards, along with training from 5G basics to system customization."
+    }
+  ],
+  "founders": [
+    {
+      "name": "Günther Bräutigam",
+      "role": "Co-Founder & CEO",
+      "bio": "40+ years in electronics and communications. Günther guides airpuls's vision, strategy, and partnerships. Before airpuls, he co-founded KT-Elektronik and managed it before and after its acquisition by Samson AG.",
+      "photo": "founders/guenther-braeutigam.jpg"
+    },
+    {
+      "name": "Dr.-Ing. Martin Kasparick",
+      "role": "Co-Founder & CTO",
+      "bio": "Research background in 5G verticals and O-RAN at Fraunhofer FOKUS. Martin leads airpuls's technical direction and has presented the company's work at the 6G Berlin Conference and the Fraunhofer FOKUS FUSECO Forum.",
+      "photo": "founders/martin-kasparick.jpg"
+    }
+  ],
+  "technologies": [
+    "Software-based O-RAN DU/CU and RIC",
+    "Private 5G Network Planning, Deployment and Management",
+    "Real-time Positioning and Sensing"
+  ],
+  "quote": "Born out of the research on 5G verticals and open 5G testbeds, airpuls was founded to bridge the gap between cost-efficient, customizable network technology and the real deployment needs of industrial use cases — from testbeds to factory floors, construction sites, logistics operations and many more.",
+  "imageConfig": {
+    "logoScale": 1.2
+  }
+}

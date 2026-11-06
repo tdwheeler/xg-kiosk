@@ -1,0 +1,93 @@
+{
+  "description": "Content Delivery & Media Transport optimizes the distribution of video, data, and multicast traffic across networks. Caching, CDN planning, QUIC, multicast, and edge delivery reduce latency and backbone load while improving scalability and user experience.",
+  "featured": {
+    "title": "Mobility-Aware Routing and Caching in Small Cell Networks Using Federated Learning",
+    "authors": "Y. Cao, S. Maghsudi, T. Ohtsuki, und T. Q. S. Quek",
+    "venue": "IEEE Transactions on Communications",
+    "year": "2024",
+    "summary": "Explores “Mobility-Aware Routing and Caching in Small Cell Networks Using Federated Learning”. Focus: data-driven prediction, control, optimization or adaptation in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems.",
+    "citations": {
+      "count": "15",
+      "source": "ResearchGate",
+      "checkedOn": "2026-08-27",
+      "url": "https://www.researchgate.net/search/publication?q=Mobility-Aware+Routing+and+Caching+in+Small+Cell+Networks+Using+Federated+Learning"
+    }
+  },
+  "publications": [
+    {
+      "title": "Demand-Aware Multi-Source IP-Multicast: Minimal Congestion via Link Weight Optimization",
+      "authors": "M. Bentert, M. Franke, D. Melnyk, A. Pourdamghani, und S. Schmid",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Optimizes “Demand-Aware Multi-Source IP-Multicast: Minimal Congestion via Link Weight Optimization”. Focus: resource decisions, constraints and performance trade-offs in Content Delivery & Media Transport, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Baiji: Domain Planning for CDNs under the 95th Percentile Billing Model",
+      "authors": "J. Vanerio, H. Liu, Q. Zhang, und S. Schmid",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Baiji: Domain Planning for CDNs under the 95th Percentile Billing Model”. Focus: the core mechanism, system behavior and engineering implications in Content Delivery & Media Transport, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Age-Based Federated Learning Approach to In-Network Caching: An Online Scheduling Policy",
+      "authors": "Y. Cao, S. Maghsudi, und T. Ohtsuki",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Explores “Age-Based Federated Learning Approach to In-Network Caching: An Online Scheduling Policy”. Focus: data-driven prediction, control, optimization or adaptation in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "MCQUIC — A Multicast Extension for QUIC",
+      "authors": "M. Franke, J. Holland, und S. Schmid",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “MCQUIC — A Multicast Extension for QUIC”. Focus: the core mechanism, system behavior and engineering implications in Content Delivery & Media Transport, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Cache Placement Optimization for Layered Video Content",
+      "authors": "E. Recayte",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Optimizes “Cache Placement Optimization for Layered Video Content”. Focus: resource decisions, constraints and performance trade-offs in Content Delivery & Media Transport, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Edge Caching: On the Performance of Placement and Delivery Coding Schemes",
+      "authors": "E. Recayte",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Analyzes “Edge Caching: On the Performance of Placement and Delivery Coding Schemes”. Focus: system behavior, performance limits and design trade-offs in Content Delivery & Media Transport, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "4",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Edge+Caching%3A+On+the+Performance+of+Placement+and+Delivery+Coding+Schemes"
+      }
+    },
+    {
+      "title": "Rate-Splitting for Intelligent Reflecting Surface-Aided Multiuser VR Streaming",
+      "authors": "R. Huang, V. W. S. Wong, und R. Schober",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Investigates “Rate-Splitting for Intelligent Reflecting Surface-Aided Multiuser VR Streaming”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "33",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Rate-Splitting+for+Intelligent+Reflecting+Surface-Aided+Multiuser+VR+Streaming"
+      }
+    },
+    {
+      "title": "Data Sharing in Virtual Edge Computing using Coded Caching",
+      "authors": "G. S. Pannu, S. Ucar, T. Higuchi, O. Altintas, und F. Dressler",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Data Sharing in Virtual Edge Computing using Coded Caching”. Focus: the core mechanism, system behavior and engineering implications in Content Delivery & Media Transport, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Coded Caching at the Edge of Satellite Networks",
+      "authors": "Networks, San Antonio TX USA, Mai 2022, S. 157–168. doi: 10.1145/3507657.3528540. E. Recayte",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Investigates “Coded Caching at the Edge of Satellite Networks”. Focus: the core mechanism, system behavior and engineering implications in Non-Terrestrial Networks, giving a quick view of the problem and its role in future wireless and network systems."
+    }
+  ]
+}

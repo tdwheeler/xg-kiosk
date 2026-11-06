@@ -1,0 +1,122 @@
+{
+  "description": "AI-RAN orchestration uses AI for RAN control, resource allocation, and automation. Models and agents can optimize RIC/xApps, handovers, load balancing, policies, and intent-based workflows, enabling a more adaptive radio network.",
+  "featured": {
+    "title": "Towards efficient conflict mitigation in the converged 6G Open RAN control plane",
+    "authors": "M. Corici, R. Modroiu, F. Eichhorn, E. Troudt, und T. Magedanz",
+    "venue": "Ann. Telecommun",
+    "year": "2024",
+    "summary": "Investigates “Towards efficient conflict mitigation in the converged 6G Open RAN control plane”. Focus: the core mechanism, system behavior and engineering implications in Open RAN, giving a quick view of the problem and its role in future wireless and network systems.",
+    "citations": {
+      "count": "5",
+      "source": "ResearchGate",
+      "checkedOn": "2026-08-27",
+      "url": "https://www.researchgate.net/search/publication?q=Towards+efficient+conflict+mitigation+in+the+converged+6G+Open+RAN+control+plane"
+    }
+  },
+  "publications": [
+    {
+      "title": "Interface on demand: Towards AI native Control interfaces for 6G",
+      "authors": "A. Dandekar, P. D. Thapa, A. Rahman, und J. Schulz-Zander",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Explores “Interface on demand: Towards AI native Control interfaces for 6G”. Focus: data-driven prediction, control, optimization or adaptation in O-RAN Services & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "O-RAN SMO Extension for enhanced RIC Use-Cases",
+      "authors": "S. Sultana, F. Schreiner, O. T. Basaran, A. Dandekar, V. Gowtham, M. Corici, J. Schulz-Zander, F. Dressler, S. Stanczak, T. Magedanz, und T. Bauschert",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Investigates “O-RAN SMO Extension for enhanced RIC Use-Cases”. Focus: the core mechanism, system behavior and engineering implications in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "GraphGPT: An Intent-based Management System for Next Generation Networks“",
+      "authors": "V. Gowtham, F. Schreiner, A. Rao, S. Shivaprasad, M. Corici, und T. Magedanz",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Presents “GraphGPT: An Intent-based Management System for Next Generation Networks“”. Focus: architecture, implementation choices and engineering trade-offs in O-RAN Services & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Next-Gen AI-on-RAN: AI-native, Interoperable, and GPU-Accelerated Testbed Towards 6G Open-RAN",
+      "authors": "O. T. Basaran, Z. Hammad, M. Kasparick, F. Dressler, und S. Stanczak",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Explores “Next-Gen AI-on-RAN: AI-native, Interoperable, and GPU-Accelerated Testbed Towards 6G Open-RAN”. Focus: data-driven prediction, control, optimization or adaptation in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Conflict Mitigation Approach for O-RAN xApps",
+      "authors": "H. Zafar, E. Tohidi, M. Kasparick, und S. Stanczak",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Investigates “Conflict Mitigation Approach for O-RAN xApps”. Focus: the core mechanism, system behavior and engineering implications in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "O-RAN RIC-based Handover Optimization for enhanced QoS Assurance",
+      "authors": "B. Karimkhani, F. Schreiner, V. Gowtham, M. Corici, und T. Magedanz",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Optimizes “O-RAN RIC-based Handover Optimization for enhanced QoS Assurance”. Focus: resource decisions, constraints and performance trade-offs in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "XAInomaly: Explainable, Interpretable and Trustworthy AI for xURLLC in 6G Open-RAN",
+      "authors": "O. T. Basaran und F. Dressler",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Explores “XAInomaly: Explainable, Interpretable and Trustworthy AI for xURLLC in 6G Open-RAN”. Focus: data-driven prediction, control, optimization or adaptation in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Security Testing The O-RAN Near-Real Time RIC & A1 Interface",
+      "authors": "K. Thimmaraju, A. Shaik, S. Flück, P. J. F. Mora, C. Werling, und J.-P. Seifert",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Examines “Security Testing The O-RAN Near-Real Time RIC & A1 Interface”. Focus: threats, protection mechanisms and security-performance trade-offs in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "AI-RAN in 6G Networks: State-of-the-Art and Challenges",
+      "authors": "N. A. Khan und S. Schmid",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Surveys “AI-RAN in 6G Networks: State-of-the-Art and Challenges”. Focus: main approaches, design choices and open questions in AI-RAN Orchestration, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "119",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=AI-RAN+in+6G+Networks%3A+State-of-the-Art+and+Challenges"
+      }
+    },
+    {
+      "title": "Intent-based Networking for QoS-aware Cloud and Transport Network Management based on Graph Neural Networks",
+      "authors": "V. Gowtham, F. Schreiner, M.-I. Corici, T. Magedanz, I. Zacarias, A. Drummond, und A. Jukan",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Explores “Intent-based Networking for QoS-aware Cloud and Transport Network Management based on Graph Neural Networks”. Focus: data-driven prediction, control, optimization or adaptation in O-RAN Services & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Optimizing Network Utility Through Dynamic User Management at Near-Real-Time RIC: Load Balancing for Enhanced Performance",
+      "authors": "M. Corici, N. Zunker, W. Scheit, V. Gowtham, F. Schreiner, M. Cronin, und T. Magedanz",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Analyzes “Optimizing Network Utility Through Dynamic User Management at Near-Real-Time RIC: Load Balancing for Enhanced Performance”. Focus: system behavior, performance limits and design trade-offs in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "NEMI: A Standardized Approach to Intent Based Networking",
+      "authors": "V. Gowtham, F. Schreiner, M.-I. Corici, und T. Magedanz",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “NEMI: A Standardized Approach to Intent Based Networking”. Focus: the core mechanism, system behavior and engineering implications in O-RAN Services & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "A Deep Reinforcement Learning Approach for Load Balancing in Open Radio Access Networks",
+      "authors": "H. Zafar, M. Kasparick, S. Maghsudi, und S. Stańczak",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Explores “A Deep Reinforcement Learning Approach for Load Balancing in Open Radio Access Networks”. Focus: data-driven prediction, control, optimization or adaptation in AI-RAN Orchestration, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "NEMI: A 6G-ready) AI-enabled Autonomic Network Management System for Open Campus Networks",
+      "authors": "M.-I. Corici, V. Gowtham, T. Magedanz, A. Prakash, und F. Schreiner",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Explores “NEMI: A 6G-ready) AI-enabled Autonomic Network Management System for Open Campus Networks”. Focus: data-driven prediction, control, optimization or adaptation in Private / Campus Networks, giving a quick view of the problem and its role in future wireless and network systems."
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "description": "Antenna-in-Package and phased-array technologies tightly integrate many antenna elements with RF and beamforming electronics. Electronic phase or time control enables fast beam steering, high integration density, and compact front ends for mmWave and sub-THz systems.",
+  "featured": {
+    "title": "Mobilizing the Terahertz Beam: D-Band Analog-Beamforming Front-End Prototyping and Long-Range 6G Trials",
+    "authors": "R. Askar, J. Chung, L. John, T. Merkle, S. Wittig, M. Schmieder, Y. Suh, J. Lee, B. Baumann, M. Peter, T. Haustein, W. Keusgen, und S. Stańczak",
+    "venue": "IEEE Wireless Communications",
+    "year": "2024",
+    "summary": "Demonstrates “Mobilizing the Terahertz Beam: D-Band Analog-Beamforming Front-End Prototyping and Long-Range 6G Trials”. Focus: implementation choices, experimental behavior and practical feasibility in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems.",
+    "citations": {
+      "count": "13",
+      "source": "ResearchGate",
+      "checkedOn": "2026-08-27",
+      "url": "https://www.researchgate.net/search/publication?q=Mobilizing+the+Terahertz+Beam%3A+D-Band+Analog-Beamforming+Front-End+Prototyping+and+Long-Range+6G+Trials"
+    }
+  },
+  "publications": [
+    {
+      "title": "A Fully-Integrated Four-Channel Phased Array D-Band Transceiver Achieving 10 GBit/s at 10 m",
+      "authors": "Dubai, United Arab Emirates, Feb. 2025. C. Herold und et al.",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Investigates “A Fully-Integrated Four-Channel Phased Array D-Band Transceiver Achieving 10 GBit/s at 10 m”. Focus: the core mechanism, system behavior and engineering implications in Antenna-in-Package / Phased Arrays, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "A Modular Pragmatic Architecture for Multiuser MIMO with Array-Fed RIS",
+      "authors": "K. K. Tiwari und G. Caire",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Presents “A Modular Pragmatic Architecture for Multiuser MIMO with Array-Fed RIS”. Focus: architecture, implementation choices and engineering trade-offs in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "W-Band Beamforming Front-End Implementation and Outdoor Trials for Mobile Backhaul and Access",
+      "authors": "M. Schmieder, R. Askar, A. Schultze, M. M. Sarmadi, M. Peter, D. Schwantuschke, und W. Keusgen",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Demonstrates “W-Band Beamforming Front-End Implementation and Outdoor Trials for Mobile Backhaul and Access”. Focus: implementation choices, experimental behavior and practical feasibility in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "An 11-Bit 12 GS/s Beam-Forming Receiver ADC for a 2×2 Antenna Array utilizing True Time-Delay with 68 dBc SFDR and 55 dB SNDR",
+      "authors": "E. Wittenhagen, D. Wilding, P. Kurth, S. Linnhoff, F. Buballa, U. Hecht, P. Artz, und F. Gerfers",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “An 11-Bit 12 GS/s Beam-Forming Receiver ADC for a 2×2 Antenna Array utilizing True Time-Delay with 68 dBc SFDR and 55 dB SNDR”. Focus: the core mechanism, system behavior and engineering implications in Antenna-in-Package / Phased Arrays, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Sub-THz D-Band Integrated Analog Beamforming Front-End Prototyping and 6G Outdoor Trials",
+      "authors": "R. Askar, M. Schmieder, J. Chung, L. John, T. Merkle, S. Wittig, Y. Suh, J. Lee, M. Peter, T. Haustein, W. Keusgen, und S. Stañczak",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Demonstrates “Sub-THz D-Band Integrated Analog Beamforming Front-End Prototyping and 6G Outdoor Trials”. Focus: implementation choices, experimental behavior and practical feasibility in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "D-Band Active Antenna Array with Lens Enabling Quasi-Optical and Analogue Beam Reconfiguration for 6G Applications",
+      "authors": "M. A. Campo, S. Bruni, W. Wischmann, A. Lauer, A. Friedrich, M. Wleklinski, C. Oikonomopoulos, O. Litschke, K. Krishnegowda, C. Herold, N. Moroni, und W. Keusgen",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “D-Band Active Antenna Array with Lens Enabling Quasi-Optical and Analogue Beam Reconfiguration for 6G Applications”. Focus: the core mechanism, system behavior and engineering implications in Antenna-in-Package / Phased Arrays, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Power Transfer between Two Antenna Arrays in the Near Field",
+      "authors": "K. K. Tiwari und G. Caire",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Power Transfer between Two Antenna Arrays in the Near Field”. Focus: the core mechanism, system behavior and engineering implications in Antenna-in-Package / Phased Arrays, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "A Four-Channel Bidirectional D-Band Phased-Array Transceiver for 200 Gb/s 6G Wireless Communications in a 130-nm BiCMOS Technology",
+      "authors": "A. Karakuzulu, W. A. Ahmad, D. Kissinger, und A. Malignaggi",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Investigates “A Four-Channel Bidirectional D-Band Phased-Array Transceiver for 200 Gb/s 6G Wireless Communications in a 130-nm BiCMOS Technology”. Focus: the core mechanism, system behavior and engineering implications in Antenna-in-Package / Phased Arrays, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "29",
+        "source": "SciSpace",
+        "checkedOn": "2026-08-27",
+        "url": "https://scispace.com/search?q=A+Four-Channel+Bidirectional+D-Band+Phased-Array+Transceiver+for+200+Gb%2Fs+6G+Wireless+Communications+in+a+130-nm+BiCMOS+Technology"
+      }
+    },
+    {
+      "title": "A TI 12 GS/s Sampled Beam-Forming Receiver for a $2\\times 2$ Antenna-Array with 69 dBc SFDR",
+      "authors": "E. Wittenhagen, P. Kurth, T. Kaiser, und F. Gerfers",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Investigates “A TI 12 GS/s Sampled Beam-Forming Receiver for a $2\\times 2$ Antenna-Array with 69 dBc SFDR”. Focus: the core mechanism, system behavior and engineering implications in Antenna-in-Package / Phased Arrays, giving a quick view of the problem and its role in future wireless and network systems."
+    }
+  ]
+}

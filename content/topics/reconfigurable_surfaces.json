@@ -1,0 +1,592 @@
+{
+  "description": "Reconfigurable Intelligent Surfaces are programmable electromagnetic surfaces that deliberately alter the reflection, phase, or amplitude of incident radio waves. They can improve coverage, localization, sensing, energy efficiency, and security without adding a full active base station.",
+  "featured": {
+    "title": "A Survey on Reconfigurable Intelligent Surface-Assisted Orthogonal Time Frequency Space Systems",
+    "authors": "Q. Tao, Z. Li, K. Zhi, S. Li, W. Yuan, L. Zaniboni, S. Stanczak, E. Viterbo, und X. Wang",
+    "venue": "IEEE Open Journal of Vehicular Technology",
+    "year": "2025",
+    "summary": "Surveys “A Survey on Reconfigurable Intelligent Surface-Assisted Orthogonal Time Frequency Space Systems”. Focus: main approaches, design choices and open questions in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems.",
+    "citations": {
+      "count": "12",
+      "source": "ResearchGate",
+      "checkedOn": "2026-08-27",
+      "url": "https://www.researchgate.net/search/publication?q=A+Survey+on+Reconfigurable+Intelligent+Surface-Assisted+Orthogonal+Time+Frequency+Space+Systems"
+    }
+  },
+  "publications": [
+    {
+      "title": "Random Access in IRS-assisted 802.11 Networks",
+      "authors": "J. J. Rühlow, J. Angjo, S. Rösler, F. Dressler, und A. Zubow",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Investigates “Random Access in IRS-assisted 802.11 Networks”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Reconfigurable Intelligent Surface-Assisted Physical Layer Security",
+      "authors": "X. Li, M. Frey, E. Tohidi, I. Bjelakovic, und S. Stanczak",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Examines “Reconfigurable Intelligent Surface-Assisted Physical Layer Security”. Focus: threats, protection mechanisms and security-performance trade-offs in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Reconfigurable Intelligent Surface Placement for Enhanced User Equipment Coverage",
+      "authors": "S. Haesloop, E. Tohidi, und S. Stanczak",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Investigates “Reconfigurable Intelligent Surface Placement for Enhanced User Equipment Coverage”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "O-RIS-ing: Evaluating RIS-Assisted NextG Open RAN",
+      "authors": "M. Tsampazi, M. Polese, F. Dressler, und T. Melodia",
+      "year": "2025",
+      "isConference": false,
+      "summary": "Investigates “O-RIS-ing: Evaluating RIS-Assisted NextG Open RAN”. Focus: the core mechanism, system behavior and engineering implications in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Measurement and Modeling of sub-THz Channels in the Presence of Emulated RIS",
+      "authors": "M. Schmieder, A. Schultze, N. Kullig, M. Peter, R. Askar, und W. Keusgen",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Characterizes “Measurement and Modeling of sub-THz Channels in the Presence of Emulated RIS”. Focus: measured behavior, propagation effects and practical implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Outage Probability Analysis of Wireless Paths with Faulty Reconfigurable Intelligent Surfaces",
+      "authors": "M. Bensalem und A. Jukan",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Analyzes “Outage Probability Analysis of Wireless Paths with Faulty Reconfigurable Intelligent Surfaces”. Focus: system behavior, performance limits and design trade-offs in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "RIS as a Network Resource: User Multiplexing and Pricing Algorithms",
+      "authors": "A. Papadopoulos, A. Lalas, K. Votis, S. Schmid, K. Katsalis, und C. Liaskos",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “RIS as a Network Resource: User Multiplexing and Pricing Algorithms”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "A Modular Pragmatic Architecture for Multiuser MIMO with Array-Fed RIS",
+      "authors": "K. K. Tiwari und G. Caire",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Presents “A Modular Pragmatic Architecture for Multiuser MIMO with Array-Fed RIS”. Focus: architecture, implementation choices and engineering trade-offs in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Energy Efficiency Comparison of RIS Architectures in MISO Broadcast Channels",
+      "authors": "M. Soleymani, I. Santamaria, E. Jorswieck, M. Di Renzo, und J. Gutiérrez",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Presents “Energy Efficiency Comparison of RIS Architectures in MISO Broadcast Channels”. Focus: architecture, implementation choices and engineering trade-offs in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Assessing the Interplay between Localization Accuracy and Interference in IRS-assisted Links",
+      "authors": "J. T. Gomez und F. Dressler",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Investigates “Assessing the Interplay between Localization Accuracy and Interference in IRS-assisted Links”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Benign and Malicious Reconfigurable Intelligent Surfaces in MISO Wiretap Channels",
+      "authors": "Y. Gao, S. Rezvani, P.-H. Lin, und E. A. Jorswieck",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Examines “Benign and Malicious Reconfigurable Intelligent Surfaces in MISO Wiretap Channels”. Focus: threats, protection mechanisms and security-performance trade-offs in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Improving Multi-Operator Coexistence in Distributed-IRS Assisted Networks",
+      "authors": "J. Angjo, A. Zubow, und F. Dressler",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Investigates “Improving Multi-Operator Coexistence in Distributed-IRS Assisted Networks”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "IRS Deployment in Wireless Powered Communication Network with Nonlinear Energy Harvesting",
+      "authors": "N. Guo, X. Yuan, B. Li, Q. He, und A. Schmeink",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “IRS Deployment in Wireless Powered Communication Network with Nonlinear Energy Harvesting”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "AI-Based Radio Resource Management and Trajectory Design for IRS-UAV-Assisted PD-NOMA Communication",
+      "authors": "H. M. Hariz, S. S. Z. Mosaddegh, N. Mokari, M. R. Javan, B. A. Arand, und E. A. Jorswieck",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Explores “AI-Based Radio Resource Management and Trajectory Design for IRS-UAV-Assisted PD-NOMA Communication”. Focus: data-driven prediction, control, optimization or adaptation in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "32",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=AI-Based+Radio+Resource+Management+and+Trajectory+Design+for+IRS-UAV-Assisted+PD-NOMA+Communication"
+      }
+    },
+    {
+      "title": "Multi-User Fairness in Reconfigurable Intelligent Surface Assisted mmWave MIMO-NOMA System",
+      "authors": "N. Arafat, E. A. Maher, A. El-Mahdy, und F. Dressler",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Presents “Multi-User Fairness in Reconfigurable Intelligent Surface Assisted mmWave MIMO-NOMA System”. Focus: architecture, implementation choices and engineering trade-offs in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Maximizing Throughput with Routing Interference Avoidance in RIS-Assisted Relay Mesh Networks",
+      "authors": "S. 779–784. doi: 10.1109/MIPRO60963.2024.10569307. C. V. Phung, A. Drummond, und A. Jukan",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Maximizing Throughput with Routing Interference Avoidance in RIS-Assisted Relay Mesh Networks”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Selective Multi-User Cooperative Rate Splitting Assisted by Reconfigurable Intelligent Surface",
+      "authors": "S. Wahb, A. El-Mahdy, und F. Dressler",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Selective Multi-User Cooperative Rate Splitting Assisted by Reconfigurable Intelligent Surface”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Optimization of Rate-Splitting Multiple Access in Beyond Diagonal RIS-Assisted URLLC Systems",
+      "authors": "M. Soleymani, I. Santamaria, E. A. Jorswieck, und B. Clerckx",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Optimizes “Optimization of Rate-Splitting Multiple Access in Beyond Diagonal RIS-Assisted URLLC Systems”. Focus: resource decisions, constraints and performance trade-offs in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "74",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Optimization+of+Rate-Splitting+Multiple+Access+in+Beyond+Diagonal+RIS-Assisted+URLLC+Systems"
+      }
+    },
+    {
+      "title": "User-Centric Monostatic Sensing Aided by Reconfigurable Intelligent Surfaces",
+      "authors": "A. Fazli, E. Tohidi, Z. Utkovski, und S. Stańczak",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “User-Centric Monostatic Sensing Aided by Reconfigurable Intelligent Surfaces”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "User Tracking and Direction Estimation Codebook Design for IRS-Assisted mmWave Communication",
+      "authors": "M. Garkisch, S. Lotter, G. Zhou, V. Jamali, und R. Schober",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Presents “User Tracking and Direction Estimation Codebook Design for IRS-Assisted mmWave Communication”. Focus: architecture, implementation choices and engineering trade-offs in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Optimization of the Downlink Spectral- and Energy-Efficiency of RIS-aided Multi-user URLLC MIMO Systems",
+      "authors": "M. Soleymani, I. Santamaria, E. Jorswieck, R. Schober, und L. Hanzo",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Optimizes “Optimization of the Downlink Spectral- and Energy-Efficiency of RIS-aided Multi-user URLLC MIMO Systems”. Focus: resource decisions, constraints and performance trade-offs in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Maximizing Spectral and Energy Efficiency in Multi-user MIMO OFDM Systems with RIS and Hardware Impairment",
+      "authors": "M. Soleymani, I. Santamaria, A. Sezgin, und E. Jorswieck",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Presents “Maximizing Spectral and Energy Efficiency in Multi-user MIMO OFDM Systems with RIS and Hardware Impairment”. Focus: architecture, implementation choices and engineering trade-offs in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "A Framework for Transmission Design for Active RIS-Aided Communication With Partial CSI",
+      "authors": "G. Zhou, C. Pan, H. Ren, D. Xu, Z. Zhang, J. Wang, und R. Schober",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Presents “A Framework for Transmission Design for Active RIS-Aided Communication With Partial CSI”. Focus: architecture, implementation choices and engineering trade-offs in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "80",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=A+Framework+for+Transmission+Design+for+Active+RIS-Aided+Communication+With+Partial+CSI"
+      }
+    },
+    {
+      "title": "Exploit High-Dimensional RIS Information to Localization: What Is the Impact of Faulty Element?",
+      "authors": "T. Wu, C. Pan, K. Zhi, H. Ren, M. Elkashlan, C.-X. Wang, R. Schober, und X. You",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Analyzes “Exploit High-Dimensional RIS Information to Localization: What Is the Impact of Faulty Element?”. Focus: system behavior, performance limits and design trade-offs in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "9",
+        "source": "SciSpace",
+        "checkedOn": "2026-08-27",
+        "url": "https://scispace.com/search?q=Exploit+High-Dimensional+RIS+Information+to+Localization%3A+What+Is+the+Impact+of+Faulty+Element%3F"
+      }
+    },
+    {
+      "title": "Reliability Assurance in RIS-Assisted 6G Campus Networks",
+      "authors": "E. Tohidi, M. Franke, C. V. Phung, N. Khan, A. Drummond, S. Schmid, A. Jukan, und S. Stańczak",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Reliability Assurance in RIS-Assisted 6G Campus Networks”. Focus: the core mechanism, system behavior and engineering implications in Private / Campus Networks, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "RISnet: A Domain-Knowledge Driven Neural Network Architecture for RIS Optimization with Mutual Coupling and Partial CSI",
+      "authors": "B. Peng, K.-L. Besser, S. Shen, F. Siegismund-Poschmann, R. Raghunath, D. Mittleman, V. Jamali, und E. A. Jorswieck",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Explores “RISnet: A Domain-Knowledge Driven Neural Network Architecture for RIS Optimization with Mutual Coupling and Partial CSI”. Focus: data-driven prediction, control, optimization or adaptation in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "12",
+        "source": "Scopus",
+        "checkedOn": "2026-08-27",
+        "url": "https://researchportal.hkust.edu.hk/en/publications/risnet-a-domain-knowledge-driven-neural-network-architecture-for-/"
+      }
+    },
+    {
+      "title": "Reconfigurable Intelligent Surfaces for 6G: Emerging Hardware Architectures, Applications, and Open Challenges",
+      "authors": "E. Basar, G. C. Alexandropoulos, Y. Liu, Q. Wu, S. Jin, C. Yuen, O. A. Dobre, und R. Schober",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Presents “Reconfigurable Intelligent Surfaces for 6G: Emerging Hardware Architectures, Applications, and Open Challenges”. Focus: architecture, implementation choices and engineering trade-offs in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "365",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Reconfigurable+Intelligent+Surfaces+for+6G%3A+Emerging+Hardware+Architectures%2C+Applications%2C+and+Open+Challenges"
+      }
+    },
+    {
+      "title": "Full-Duplex Operation of ISAC: Self-Interference Reduction from the Lens of IRS",
+      "authors": "E. Tohidi, R. Askar, Z. Utkovski, und S. Stańczak",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Full-Duplex Operation of ISAC: Self-Interference Reduction from the Lens of IRS”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "RISnet: A Scalable Approach for Reconfigurable Intelligent Surface Optimization with Partial CSI",
+      "authors": "B. Peng, K.-L. Besser, R. Raghunath, V. Jamali, und E. A. Jorswieck",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Optimizes “RISnet: A Scalable Approach for Reconfigurable Intelligent Surface Optimization with Partial CSI”. Focus: resource decisions, constraints and performance trade-offs in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Side Effects of IRS: On the Need for Coordination in 6G Multi-Operator IRS-Assisted Networks",
+      "authors": "J. Angjo, A. Zubow, und F. Dressler",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Side Effects of IRS: On the Need for Coordination in 6G Multi-Operator IRS-Assisted Networks”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "RIS-Assisted Device Activity Detection With Statistical Channel State Information",
+      "authors": "F. Laue, V. Jamali, und R. Schober",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Investigates “RIS-Assisted Device Activity Detection With Statistical Channel State Information”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "12",
+        "source": "Semantic Scholar",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.semanticscholar.org/search?q=RIS-Assisted+Device+Activity+Detection+With+Statistical+Channel+State+Information&sort=relevance"
+      }
+    },
+    {
+      "title": "Varactor Controlled X-Band Passive RIS Optimization",
+      "authors": "H. Zadorozhnyi, F.-N. Stapelfeldt, D. Vasylenko, und V. Issakov",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Optimizes “Varactor Controlled X-Band Passive RIS Optimization”. Focus: resource decisions, constraints and performance trade-offs in FR3 Spectrum (7-24 GHz), giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "0",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Varactor+Controlled+X-Band+Passive+RIS+Optimization"
+      }
+    },
+    {
+      "title": "Joint Active Precoding for RIS-Aided Cell-Free MIMO Networks",
+      "authors": "G. Dogim, E. A. Maher, A. El-Mahdy, und F. Dressler",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Joint Active Precoding for RIS-Aided Cell-Free MIMO Networks”. Focus: the core mechanism, system behavior and engineering implications in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "A Concept for the Efficient Integration of Reconfigurable Intelligent Surfaces into a Ray Tracing Framework",
+      "authors": "C. Herold und T. Kürner",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Presents “A Concept for the Efficient Integration of Reconfigurable Intelligent Surfaces into a Ray Tracing Framework”. Focus: architecture, implementation choices and engineering trade-offs in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Non-Orthogonal Multiple Access Assisted by Reconfigurable Intelligent Surface Using Unsupervised Machine Learning",
+      "authors": "F. Siegismund-Poschmann, B. Peng, und E. A. Jorswieck",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Explores “Non-Orthogonal Multiple Access Assisted by Reconfigurable Intelligent Surface Using Unsupervised Machine Learning”. Focus: data-driven prediction, control, optimization or adaptation in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Coexistence challenges in IRS-assisted multi-operator networks",
+      "authors": "J. Angjo",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Coexistence challenges in IRS-assisted multi-operator networks”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "D-Band RIS as a Reflect Array: Characterization and Hardware Impairments Study",
+      "authors": "E. Tohidi, R. Stöcker, J.-M. Köszegi, und S. Stańczak",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “D-Band RIS as a Reflect Array: Characterization and Hardware Impairments Study”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Codebook-Based User Tracking in IRS-Assisted mmWave Communication Networks",
+      "authors": "M. Garkisch, V. Jamali, und R. Schober",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Codebook-Based User Tracking in IRS-Assisted mmWave Communication Networks”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Near-Optimal LOS and Orientation Aware Intelligent Reflecting Surface Placement",
+      "authors": "E. Tohidi, S. Haesloop, L. Thiele, und S. Stańczak",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Near-Optimal LOS and Orientation Aware Intelligent Reflecting Surface Placement”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Beam Alignment with an Intelligent Reflecting Surface for Integrated Sensing and Communication",
+      "authors": "F. Muhr, L. Zaniboni, S. K. Dehkordi, F. Pedraza, und G. Caire",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Beam Alignment with an Intelligent Reflecting Surface for Integrated Sensing and Communication”. Focus: the core mechanism, system behavior and engineering implications in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Two-Timescale Design for Reconfigurable Intelligent Surface-Aided Massive MIMO Systems With Imperfect CSI",
+      "authors": "K. Zhi, C. Pan, H. Ren, K. Wang, M. Elkashlan, M. D. Renzo, R. Schober, H. V. Poor, J. Wang, und L. Hanzo",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Presents “Two-Timescale Design for Reconfigurable Intelligent Surface-Aided Massive MIMO Systems With Imperfect CSI”. Focus: architecture, implementation choices and engineering trade-offs in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "97",
+        "source": "Emergent Mind / Semantic Scholar",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.emergentmind.com/search?q=Two-Timescale+Design+for+Reconfigurable+Intelligent+Surface-Aided+Massive+MIMO+Systems+With+Imperfect+CSI"
+      }
+    },
+    {
+      "title": "Rate-Splitting for Intelligent Reflecting Surface-Aided Multiuser VR Streaming",
+      "authors": "R. Huang, V. W. S. Wong, und R. Schober",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Investigates “Rate-Splitting for Intelligent Reflecting Surface-Aided Multiuser VR Streaming”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "33",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Rate-Splitting+for+Intelligent+Reflecting+Surface-Aided+Multiuser+VR+Streaming"
+      }
+    },
+    {
+      "title": "Sum Rate Maximization of Uplink Active RIS and UAV-assisted THz Mobile Communications",
+      "authors": "S. Farrag, E. A. Maher, A. El-Mahdy, und F. Dressler",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Optimizes “Sum Rate Maximization of Uplink Active RIS and UAV-assisted THz Mobile Communications”. Focus: resource decisions, constraints and performance trade-offs in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Towards Optimal Path Allocation for Unreliable Reconfigurable Intelligent Surfaces",
+      "authors": "M. Bensalem, A. Engelmann, und A. Jukan",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Towards Optimal Path Allocation for Unreliable Reconfigurable Intelligent Surfaces”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Rate Splitting in MIMO RIS-Assisted Systems With Hardware Impairments and Improper Signaling",
+      "authors": "M. Soleymani, I. Santamaria, und E. A. Jorswieck",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Presents “Rate Splitting in MIMO RIS-Assisted Systems With Hardware Impairments and Improper Signaling”. Focus: architecture, implementation choices and engineering trade-offs in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "59",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Rate+Splitting+in+MIMO+RIS-Assisted+Systems+With+Hardware+Impairments+and+Improper+Signaling"
+      }
+    },
+    {
+      "title": "Impact of Channel Models on Performance Characterization of RIS-Assisted Wireless Systems",
+      "authors": "V. Jamali, W. Ghanem, R. Schober, und H. V. Poor",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Presents “Impact of Channel Models on Performance Characterization of RIS-Assisted Wireless Systems”. Focus: architecture, implementation choices and engineering trade-offs in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Active RIS vs. Passive RIS: Which Will Prevail in 6G?",
+      "authors": "Z. Zhang, L. Dai, X. Chen, C. Liu, F. Yang, R. Schober, und H. V. Poor",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Investigates “Active RIS vs. Passive RIS: Which Will Prevail in 6G?”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "1027",
+        "source": "Semantic Scholar",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.semanticscholar.org/search?q=Active+RIS+vs.+Passive+RIS%3A+Which+Will+Prevail+in+6G%3F&sort=relevance"
+      }
+    },
+    {
+      "title": "Federated Learning with Integrated Over-the-Air Computation and Sensing in IRS-assisted Networks",
+      "authors": "P. Zheng, Y. Zhu, M. Bouchaala, Y. Hu, S. Stanczak, und A. Schmeink",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Explores “Federated Learning with Integrated Over-the-Air Computation and Sensing in IRS-assisted Networks”. Focus: data-driven prediction, control, optimization or adaptation in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "RISnet: a dedicated scalable neural network architecture for optimization of reconfigurable intelligent surfaces",
+      "authors": "B. Peng, F. Siegismund-Poschmann, und E. Jorswieck",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Explores “RISnet: a dedicated scalable neural network architecture for optimization of reconfigurable intelligent surfaces”. Focus: data-driven prediction, control, optimization or adaptation in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Hardware Implementation of Reflective Intelligent Surfaces for 6G communication networks",
+      "authors": "R. Stöcker, J.-M. Koeszegi, M. Kaiser, und I. Ndip",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Demonstrates “Hardware Implementation of Reflective Intelligent Surfaces for 6G communication networks”. Focus: implementation choices, experimental behavior and practical feasibility in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Spectral and Energy Efficiency Maximization of MISO STAR-RIS-Assisted URLLC Systems",
+      "authors": "M. Soleymani, I. Santamaria, und E. A. Jorswieck",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Optimizes “Spectral and Energy Efficiency Maximization of MISO STAR-RIS-Assisted URLLC Systems”. Focus: resource decisions, constraints and performance trade-offs in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "27",
+        "source": "Mendeley",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.mendeley.com/search/?query=Spectral+and+Energy+Efficiency+Maximization+of+MISO+STAR-RIS-Assisted+URLLC+Systems"
+      }
+    },
+    {
+      "title": "NOMA-Based Improper Signaling for Multicell MISO RIS-Assisted Broadcast Channels",
+      "authors": "M. Soleymani, I. Santamaria, E. Jorswieck, und S. Rezvani",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Investigates “NOMA-Based Improper Signaling for Multicell MISO RIS-Assisted Broadcast Channels”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "43",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=NOMA-Based+Improper+Signaling+for+Multicell+MISO+RIS-Assisted+Broadcast+Channels"
+      }
+    },
+    {
+      "title": "SNR Maximization in Beyond Diagonal RIS-Assisted Single and Multiple Antenna Links",
+      "authors": "I. Santamaria, M. Soleymani, E. Jorswieck, und J. Gutiérrez",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Optimizes “SNR Maximization in Beyond Diagonal RIS-Assisted Single and Multiple Antenna Links”. Focus: resource decisions, constraints and performance trade-offs in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "71",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=SNR+Maximization+in+Beyond+Diagonal+RIS-Assisted+Single+and+Multiple+Antenna+Links"
+      }
+    },
+    {
+      "title": "On the Requirements on Reflective Intelligent Surfaces in THz NLOS Backhaul Links",
+      "authors": "T. Kuerner, B. K. Jung, und C. Herold",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “On the Requirements on Reflective Intelligent Surfaces in THz NLOS Backhaul Links”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Performance of Large Intelligent Surfaces in Multiuser Millimeter Wave MIMO-NOMA Systems",
+      "authors": "N. Arafat, E. A. Maher, A. El-Mahdy, und F. Dressler",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Presents “Performance of Large Intelligent Surfaces in Multiuser Millimeter Wave MIMO-NOMA Systems”. Focus: architecture, implementation choices and engineering trade-offs in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "9",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Performance+of+Large+Intelligent+Surfaces+in+Multiuser+Millimeter+Wave+MIMO-NOMA+Systems"
+      }
+    },
+    {
+      "title": "Intelligent Reflecting Surface Enabled Multi-Target Sensing",
+      "authors": "K. Meng, Q. Wu, R. Schober, und W. Chen",
+      "year": "2022",
+      "isConference": false,
+      "summary": "Investigates “Intelligent Reflecting Surface Enabled Multi-Target Sensing”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "44",
+        "source": "Rankless",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.rankless.org/"
+      }
+    },
+    {
+      "title": "Reconfigurable Intelligent Surface Phase Hopping for Ultra-Reliable Communications",
+      "authors": "K.-L. Besser und E. A. Jorswieck",
+      "year": "2022",
+      "isConference": false,
+      "summary": "Investigates “Reconfigurable Intelligent Surface Phase Hopping for Ultra-Reliable Communications”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "18",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Reconfigurable+Intelligent+Surface+Phase+Hopping+for+Ultra-Reliable+Communications"
+      }
+    },
+    {
+      "title": "XR-RF Imaging Enabled by Software-Defined Metasurfaces and Machine Learning: Foundational Vision, Technologies and Challenges",
+      "authors": "C. Liaskos, A. Tsioliaridou, K. Georgopoulos, G. Morianos, S. Ioannidis, I. Salem, D. Manessis, S. S. D. Tyrovolas, S. A. Tegos, P.-V. Mekikis, P. D. Diamantoulakis, A. Pitilakis, N. Kantartzis, G. K. K. A. Tasolamprou, O. Tsilipakos, M. Kafesaki, I. F. Akyildiz, A. Pitsillides, M. Pateraki, M. Vakalellis, und I. Spais",
+      "year": "2022",
+      "isConference": false,
+      "summary": "Explores “XR-RF Imaging Enabled by Software-Defined Metasurfaces and Machine Learning: Foundational Vision, Technologies and Challenges”. Focus: data-driven prediction, control, optimization or adaptation in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Software-Defined Reconfigurable Intelligent Surfaces: From Theory to End-to-End Implementation",
+      "authors": "C. Liaskos, L. Mamatas, A. Pourdamghani, A. Tsioliaridou, S. Ioannidis, A. Pitsillides, S. Schmid, und I. F. Akyildiz",
+      "year": "2022",
+      "isConference": false,
+      "summary": "Demonstrates “Software-Defined Reconfigurable Intelligent Surfaces: From Theory to End-to-End Implementation”. Focus: implementation choices, experimental behavior and practical feasibility in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "58",
+        "source": "Scopus",
+        "checkedOn": "2026-08-27",
+        "url": "https://pure.uj.ac.za/en/publications/software-defined-reconfigurable-intelligent-surfaces-from-theory-/"
+      }
+    },
+    {
+      "title": "Reconfigurable Intelligent Surface and UAV– Assisted THz Mobile Communications",
+      "authors": "S. Farrag, E. A. Maher, A. El-Mahdy, und F. Dressler",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Investigates “Reconfigurable Intelligent Surface and UAV– Assisted THz Mobile Communications”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "A State-of-the-Art Survey on Reconfigurable Intelligent Surface-Assisted Non-Orthogonal Multiple Access Networks",
+      "authors": "Z. Ding, L. Lv, F. Fang, O. A. Dobre, G. K. Karagiannidis, N. Al-Dhahir, R. Schober, und H. V. Poor",
+      "year": "2022",
+      "isConference": false,
+      "summary": "Surveys “A State-of-the-Art Survey on Reconfigurable Intelligent Surface-Assisted Non-Orthogonal Multiple Access Networks”. Focus: main approaches, design choices and open questions in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "109",
+        "source": "SciSpace",
+        "checkedOn": "2026-08-27",
+        "url": "https://scispace.com/search?q=A+State-of-the-Art+Survey+on+Reconfigurable+Intelligent+Surface-Assisted+Non-Orthogonal+Multiple+Access+Networks"
+      }
+    },
+    {
+      "title": "Reconfigurable Intelligent Surface Deployment in 5G and Beyond 5G Cellular Networks",
+      "authors": "T. Haustein, J. McMenamy, L. Thiele, und P. S. H. Leather",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Investigates “Reconfigurable Intelligent Surface Deployment in 5G and Beyond 5G Cellular Networks”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Near-Field Hierarchical Beam Management for RIS-Enabled Millimeter Wave Multi-Antenna Systems",
+      "authors": "Norway, Juni 2022, S. 445–449. doi: 10.1109/SAM53842.2022.9827890. G. C. Alexandropoulos, V. Jamali, R. Schober, und H. V. Poor",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Presents “Near-Field Hierarchical Beam Management for RIS-Enabled Millimeter Wave Multi-Antenna Systems”. Focus: architecture, implementation choices and engineering trade-offs in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Low-to-Zero-Overhead IRS Reconfiguration: Decoupling Illumination and Channel Estimation",
+      "authors": "V. Jamali, G. C. Alexandropoulos, R. Schober, und H. V. Poor",
+      "year": "2022",
+      "isConference": false,
+      "summary": "Investigates “Low-to-Zero-Overhead IRS Reconfiguration: Decoupling Illumination and Channel Estimation”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "105",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Low-to-Zero-Overhead+IRS+Reconfiguration%3A+Decoupling+Illumination+and+Channel+Estimation"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "description": "Network slicing divides a shared network platform into logically separated, end-to-end optimized networks. Each slice can be tailored to specific requirements for latency, reliability, bandwidth, security, and resource allocation.",
+  "featured": {
+    "title": "Smart Dynamic Pricing and Cooperative Resource Management for Mobility-Aware and Multi-Tier Slice-Enabled 5G and Beyond Networks",
+    "authors": "A. Nouruzi, N. Mokari, P. Azmi, E. A. Jorswieck, und M. Erol-Kantarci",
+    "venue": "IEEE Transactions on Network and Service Management",
+    "year": "2024",
+    "summary": "Investigates “Smart Dynamic Pricing and Cooperative Resource Management for Mobility-Aware and Multi-Tier Slice-Enabled 5G and Beyond Networks”. Focus: the core mechanism, system behavior and engineering implications in Network Slicing, giving a quick view of the problem and its role in future wireless and network systems.",
+    "citations": {
+      "count": "9",
+      "source": "ResearchGate",
+      "checkedOn": "2026-08-27",
+      "url": "https://www.researchgate.net/search/publication?q=Smart+Dynamic+Pricing+and+Cooperative+Resource+Management+for+Mobility-Aware+and+Multi-Tier+Slice-Enabled+5G+and+Beyond+Networks"
+    }
+  },
+  "publications": [
+    {
+      "title": "AI-Based Resource Allocation in End-to-End Network Slicing Under Demand and CSI Uncertainties",
+      "authors": "A. Gharehgoli, A. Nouruzi, N. Mokari, P. Azmi, M. R. Javan, und E. A. Jorswieck",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Explores “AI-Based Resource Allocation in End-to-End Network Slicing Under Demand and CSI Uncertainties”. Focus: data-driven prediction, control, optimization or adaptation in Network Slicing, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "65",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=AI-Based+Resource+Allocation+in+End-to-End+Network+Slicing+Under+Demand+and+CSI+Uncertainties"
+      }
+    },
+    {
+      "title": "Optimum Network Slicing for Ultra-reliable Low Latency Communication (URLLC) Services in Campus Networks",
+      "authors": "I. Zacarias, F. Carpio, A. C. Drummond, und A. Jukan",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Optimum Network Slicing for Ultra-reliable Low Latency Communication (URLLC) Services in Campus Networks”. Focus: the core mechanism, system behavior and engineering implications in Private / Campus Networks, giving a quick view of the problem and its role in future wireless and network systems."
+    }
+  ]
+}

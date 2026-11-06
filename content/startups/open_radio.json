@@ -1,0 +1,71 @@
+{
+  "positioning": "Software-defined 5G & 6G radio access networks (RANs)",
+  "technologies": [
+    "Software-based O-RAN networks",
+    "Platform for AI RAN Processing",
+    "FPGA-based vRAN acceleration",
+    "Hardware-software co-design",
+    "Deep PHY interference"
+  ],
+  "valueProp": "As a technology partner we enable system integrators & operators to replace proprietary hardware with programmable, carrier-grade radio infrastructure to return technological sovereignty.",
+  "turnover": {
+    "value": "€100M",
+    "label": "Expected turnover four years from now"
+  },
+  "founders": [
+    {
+      "name": "Stefan Valentin",
+      "role": "Founder, CTO",
+      "bio": "Leading SDR expert, 20+ years R&D in academia, at Huawei & Bell Labs, 100+ peer-reviewed research papers, 30+ patents, 9 awards, Professor for Mobile Networks and Head of 6GLab at Darmstadt University of Applied Sciences.",
+      "photo": "founders/stefan-valentin.jpg"
+    },
+    {
+      "name": "Christian Beilborn",
+      "role": "Co-Founder, CEO",
+      "bio": "Serial Entrepreneur, 15+ years experience as founder and CEO in B2B software & tech startups, at cognita & viewflip. Founded and scaled media intelligence company cognita from zero to profitability, served more than 10.000 top executives and government leaders.",
+      "photo": "founders/christian-beilborn.jpg"
+    },
+    {
+      "name": "Martin Kumm",
+      "role": "Founder, Embedded systems Lead",
+      "bio": "Leading FPGA expert, 1 book, 20+ years R&D in academia & at GSI Helmholtz Centre, Professor for Embedded Systems, Programme Director Applied Computer Science (M.Sc.) at Fulda University of Applied Sciences.",
+      "photo": "founders/martin-kumm.jpg"
+    },
+    {
+      "name": "Stefano Tomasin",
+      "role": "Founder, Security & IP Lead",
+      "bio": "Leading PHY expert, 1 book, 20+ years R&D in academia, at IBM, Huawei & Qualcom, World's Top 2% Scientist since 2020, Professor for Information & Communication Technologies, Networking & Telecommunications at University of Padova, Italy.",
+      "photo": "founders/stefano-tomasin.jpg"
+    },
+    {
+      "name": "Konrad Möller",
+      "role": "Co-Founder, Development Lead",
+      "bio": "PhD in Electrical Engineering, 7+ years R&D in academia and 7+ of years industry experience in electronics Successful industry projects with Volkswagen, Intel & JUMO.",
+      "photo": "founders/konrad-moeller.jpg"
+    }
+  ],
+  "backSections": [
+    {
+      "heading": "Our Mission",
+      "body": "We believe that 6G base stations will run almost entirely in software. We are driving this transformation by developing hardware accelerators that boost physical layer processing on standard CPUs. This provides just the right efficiency to turn 5G and 6G radio access networks (RANs) into an App. Optimized for open-source RANs and free of CPU vendor lock-in, our accelerators return technological sovereignty to the community."
+    },
+    {
+      "heading": "Open RAN and Open Source",
+      "body": "We develop O-RAN-compatible 5G & 6G networks. Drawing on our unique expertise in the deep integration of hardware and software, we cover the entire value chain in the development of radio units."
+    },
+    {
+      "heading": "Platform for AI RAN Processing",
+      "body": "Our RPU offers API to AI RAN developers: AI RAN Apps can run deep in the RAN and exchange data directly with radio access functions."
+    },
+    {
+      "heading": "Large-scale networks",
+      "body": "ORS acts as a technology partner for system integrators in the construction of large-scale 5G and 6G networks."
+    },
+    {
+      "heading": "Engineering & Consulting",
+      "body": "ORS offers engineering and consulting services in the field of software-defined radio (SDR), hardware acceleration and O-RAN networks  flexible solutions to protect against jamming and spoofing attempts in wireless communications.."
+    }
+  ],
+  "quote": "ORS is built on deep technical expertise in mobile communications, hardware-software co-design and system design. As software-defined radio (SDR) and digital signal processing (DSP) enthusiasts, we are revolutionizing the infrastructure of mobile networks. We believe that 6G radio access networks (RANs) will run almost entirely in software - on the ground and direct-to-cell from orbit.\nWe are driving this transformation by developing software-defined radio units (RUs) with minimal fixed hardware that boost physical layer processing on standard CPUs. This provides just the right efficiency to turn 5G and 6G radio access networks (RANs) into an App.",
+  "location": "Darmstadt, Germany"
+}

@@ -1,0 +1,216 @@
+{
+  "description": "Integrated Sensing and Communication uses shared radio hardware, spectrum, and waveforms for both communication and sensing. The same signal can carry data while estimating position, range, motion, or objects, allowing infrastructure and spectrum to be reused.",
+  "featured": {
+    "title": "From OTFS to DD-ISAC: Integrating Sensing and Communications in the Delay Doppler Domain",
+    "authors": "W. Yuan, L. Zhou, S. K. Dehkordi, S. Li, P. Fan, G. Caire, und H. V. Poor",
+    "venue": "IEEE Wireless Commun",
+    "year": "2024",
+    "summary": "Investigates “From OTFS to DD-ISAC: Integrating Sensing and Communications in the Delay Doppler Domain”. Focus: the core mechanism, system behavior and engineering implications in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems.",
+    "citations": {
+      "count": "86",
+      "source": "ResearchGate",
+      "checkedOn": "2026-08-27",
+      "url": "https://www.researchgate.net/search/publication?q=From+OTFS+to+DD-ISAC%3A+Integrating+Sensing+and+Communications+in+the+Delay+Doppler+Domain"
+    }
+  },
+  "publications": [
+    {
+      "title": "On the Impact of OFDM Waveform in ISAC Systems",
+      "authors": "A. Fazli, E. Tohidi, Z. Utkovski, P. Agostini, und S. Stanczak",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Presents “On the Impact of OFDM Waveform in ISAC Systems”. Focus: architecture, implementation choices and engineering trade-offs in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Demonstration of a Real-Time Testbed for D-Band Integrated Sensing and Communication",
+      "authors": "S. Wittig, R. Hernangomez, K. Vardanyan, R. Askar, A. Haj-Omar, M. Peter, und S. Stanczak",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Demonstrates “Demonstration of a Real-Time Testbed for D-Band Integrated Sensing and Communication”. Focus: implementation choices, experimental behavior and practical feasibility in Integrated Sensing & Comm (ISAC), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Joint Waveform Design for Communication and Sensing with Adjustable PAPR",
+      "authors": "Kong, Hong Kong, Okt. 2024. B. Kilic, K. Turbic, M. Kasparick, und S. Stanczak",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Presents “Joint Waveform Design for Communication and Sensing with Adjustable PAPR”. Focus: architecture, implementation choices and engineering trade-offs in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Advanced ISAC Design: Movable Antennas and Accounting for Dynamic RCS",
+      "authors": "A. Khalili und R. Schober",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Presents “Advanced ISAC Design: Movable Antennas and Accounting for Dynamic RCS”. Focus: architecture, implementation choices and engineering trade-offs in Integrated Sensing & Comm (ISAC), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Over-the-Air Federated Learning Client Selection in Integrated Sensing, Computing and Communication",
+      "authors": "P. Zheng, Y. Zhu, H. Yulin, und A. Schmeink",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Explores “Over-the-Air Federated Learning Client Selection in Integrated Sensing, Computing and Communication”. Focus: data-driven prediction, control, optimization or adaptation in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Compressed Sensing Inspired User Acquisition for Downlink Integrated Sensing and Communication Transmissions",
+      "authors": "Y. Song, F. Pedraza, S. Li, S. Li, H. Yu, und G. Caire",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Compressed Sensing Inspired User Acquisition for Downlink Integrated Sensing and Communication Transmissions”. Focus: the core mechanism, system behavior and engineering implications in Integrated Sensing & Comm (ISAC), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Short-Length Code Designs for Integrated Sensing and Communications Using Deep Learning",
+      "authors": "M. Kim, T. Jahani-Nezhad, S. Lit, R. F. Schaefer, und G. Caire",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Explores “Short-Length Code Designs for Integrated Sensing and Communications Using Deep Learning”. Focus: data-driven prediction, control, optimization or adaptation in Integrated Sensing & Comm (ISAC), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Probing the time-evolution of the sub-THz radio channel at 160 GHz for communication and sensing",
+      "authors": "W. Keusgen und T. Eichler",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Probing the time-evolution of the sub-THz radio channel at 160 GHz for communication and sensing”. Focus: the core mechanism, system behavior and engineering implications in Integrated Sensing & Comm (ISAC), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Optimized Detection with Analog Beamforming for Monostatic Integrated Sensing and Communication",
+      "authors": "Singapore, Juni 2024. R. Hernangómez, J. Fink, R. L. G. Cavalcante, Z. Utkovski, und S. Stańczak",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Optimized Detection with Analog Beamforming for Monostatic Integrated Sensing and Communication”. Focus: the core mechanism, system behavior and engineering implications in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Efficient UAV Hovering, Resource Allocation, and Trajectory Design for ISAC with Limited Backhaul Capacity",
+      "authors": "A. Khalili, A. Rezaei, D. Xu, F. Dressler, und R. Schober",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Optimizes “Efficient UAV Hovering, Resource Allocation, and Trajectory Design for ISAC with Limited Backhaul Capacity”. Focus: resource decisions, constraints and performance trade-offs in Integrated Sensing & Comm (ISAC), giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "76",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Efficient+UAV+Hovering%2C+Resource+Allocation%2C+and+Trajectory+Design+for+ISAC+with+Limited+Backhaul+Capacity"
+      }
+    },
+    {
+      "title": "Measurements of the Time-Variant Indoor Radio Channel in the D-Band at 160 GHz for Communication and Sensing",
+      "authors": "S. 1–1, 2024. doi: 10.1109/TWC.2024.3455370. W. Keusgen und T. Eichler",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Characterizes “Measurements of the Time-Variant Indoor Radio Channel in the D-Band at 160 GHz for Communication and Sensing”. Focus: measured behavior, propagation effects and practical implications in Integrated Sensing & Comm (ISAC), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Mobile Terahertz Communication and Sensing systems: A Future Look",
+      "authors": "J. M. Jornet, H. Elayan, T. Nagatsuma, M. Juntti, E. T. R. Pinto, T. Kürner, H. Guerboukha, D. M. Mittleman, und E. Knightly",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Presents “Mobile Terahertz Communication and Sensing systems: A Future Look”. Focus: architecture, implementation choices and engineering trade-offs in Integrated Sensing & Comm (ISAC), giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "27",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Mobile+Terahertz+Communication+and+Sensing+systems%3A+A+Future+Look"
+      }
+    },
+    {
+      "title": "Semantic Reliability Maximization: A Cooperative Perspective in Integrated Sensing, Communication and Computation Networks",
+      "authors": "Y. Zhu, X. Yuan, Y. Hu, und A. Schmeink",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Optimizes “Semantic Reliability Maximization: A Cooperative Perspective in Integrated Sensing, Communication and Computation Networks”. Focus: resource decisions, constraints and performance trade-offs in Integrated Sensing & Comm (ISAC), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Full-Duplex Operation of ISAC: Self-Interference Reduction from the Lens of IRS",
+      "authors": "E. Tohidi, R. Askar, Z. Utkovski, und S. Stańczak",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Full-Duplex Operation of ISAC: Self-Interference Reduction from the Lens of IRS”. Focus: the core mechanism, system behavior and engineering implications in Reconfigurable Intelligent Surfaces (RIS), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Extended Target Parameter Estimation and Tracking with an HDA Setup for ISAC Applications",
+      "authors": "F. Pedraza, S. K. Dehkordi, J. C. Hauffen, S. Li, P. Jung, und G. Caire",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Extended Target Parameter Estimation and Tracking with an HDA Setup for ISAC Applications”. Focus: the core mechanism, system behavior and engineering implications in Integrated Sensing & Comm (ISAC), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Energy-Aware Resource Allocation and Trajectory Design for UAV-Enabled ISAC",
+      "authors": "A. Khalili, A. Rezaei, D. Xu, und R. Schober",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Optimizes “Energy-Aware Resource Allocation and Trajectory Design for UAV-Enabled ISAC”. Focus: resource decisions, constraints and performance trade-offs in Integrated Sensing & Comm (ISAC), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Beam-Space MIMO Radar for Joint Communication and Sensing With OTFS Modulation",
+      "authors": "S. K. Dehkordi, L. Gaudio, M. Kobayashi, G. Caire, und G. Colavolpe",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Investigates “Beam-Space MIMO Radar for Joint Communication and Sensing With OTFS Modulation”. Focus: the core mechanism, system behavior and engineering implications in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "93",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Beam-Space+MIMO+Radar+for+Joint+Communication+and+Sensing+With+OTFS+Modulation"
+      }
+    },
+    {
+      "title": "Multi-static Parameter Estimation in the Near/Far Field Beam Space for Integrated Sensing and Communication Applications",
+      "authors": "S. K. Dehkordi, L. Pucci, P. Jung, A. Giorgetti, E. Paolini, und G. Caire",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Investigates “Multi-static Parameter Estimation in the Near/Far Field Beam Space for Integrated Sensing and Communication Applications”. Focus: the core mechanism, system behavior and engineering implications in Integrated Sensing & Comm (ISAC), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Beam Alignment with an Intelligent Reflecting Surface for Integrated Sensing and Communication",
+      "authors": "F. Muhr, L. Zaniboni, S. K. Dehkordi, F. Pedraza, und G. Caire",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Beam Alignment with an Intelligent Reflecting Surface for Integrated Sensing and Communication”. Focus: the core mechanism, system behavior and engineering implications in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Hierarchical Soft-Thresholding for Parameter Estimation in Beam-Space OTFS Integrated Sensing and Communication",
+      "authors": "S. K. Dehkordi, J. C. Hauffen, P. Jung, und G. Caire",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Hierarchical Soft-Thresholding for Parameter Estimation in Beam-Space OTFS Integrated Sensing and Communication”. Focus: the core mechanism, system behavior and engineering implications in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Adaptive Energy-Efficient Waveform Design For Joint Communication and Sensing using Multiobjective Multiarmed Bandits",
+      "authors": "A. R. Balef, S. Maghsudi, und S. Stanczak",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Presents “Adaptive Energy-Efficient Waveform Design For Joint Communication and Sensing using Multiobjective Multiarmed Bandits”. Focus: architecture, implementation choices and engineering trade-offs in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Orthogonal Time Frequency Space Modulation— Part III: ISAC and Potential Applications",
+      "authors": "W. Yuan, Z. Wei, S. Li, R. Schober, und G. Caire",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Investigates “Orthogonal Time Frequency Space Modulation— Part III: ISAC and Potential Applications”. Focus: the core mechanism, system behavior and engineering implications in Integrated Sensing & Comm (ISAC), giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "108",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Orthogonal+Time+Frequency+Space+Modulation%E2%80%94+Part+III%3A+ISAC+and+Potential+Applications"
+      }
+    },
+    {
+      "title": "Integrated Sensing and Communication: Beam-Space Approaches for Detection and Parameter Estimation",
+      "authors": "S. K. Dehkordi",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Investigates “Integrated Sensing and Communication: Beam-Space Approaches for Detection and Parameter Estimation”. Focus: the core mechanism, system behavior and engineering implications in Integrated Sensing & Comm (ISAC), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Robust and Secure Resource Allocation for ISAC Systems: A Novel Optimization Framework for Variable-Length Snapshots",
+      "authors": "D. Xu, X. Yu, D. W. K. Ng, A. Schmeink, und R. Schober",
+      "year": "2022",
+      "isConference": false,
+      "summary": "Examines “Robust and Secure Resource Allocation for ISAC Systems: A Novel Optimization Framework for Variable-Length Snapshots”. Focus: threats, protection mechanisms and security-performance trade-offs in Integrated Sensing & Comm (ISAC), giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "194",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Robust+and+Secure+Resource+Allocation+for+ISAC+Systems%3A+A+Novel+Optimization+Framework+for+Variable-Length+Snapshots"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "valueProp": "Thanks to cutting-edge RX-TX interlacing technology, Augusta Space deliver high performance antennas whilst taking up minimal space.",
+  "imageConfig": {
+    "snapshotRatio": "1.6"
+  },
+  "positioning": "Electronically steered Antennas for Satellite Communications",
+  "turnover": {
+    "value": "€5M",
+    "label": "Expected turnover four years from now"
+  },
+  "technologies": [
+    "Radio Frequencies and Microwaves",
+    "Phased Arrays, Analog Beamforming",
+    "CAD-assisted design of antennas and feeding networks"
+  ],
+  "founders": [
+    {
+      "name": "Dr. Matteo Berioli",
+      "role": "Founder",
+      "bio": "Over 20 years of experience in satellite communications R&D at the German Aerospace Center (DLR). Published over 100 papers and patents before founding Augusta Space.",
+      "photo": "founders/matteo-berioli.jpg"
+    }
+  ],
+  "backSections": [
+    {
+      "heading": "Background",
+      "body": "Electronically-Steered Antennas (ESAs) have appeared on the market a few years ago. Everyone probably knows the slick antennas from Starlink. They have a very low profile, and good flexibility: They do not change drastically the aerodynamics, and can track fast-moving satellites. Anyway their footprint on the fuselage is still large, because they must implement Receive and Transmit electronics on two different panels."
+    },
+    {
+      "heading": "Our Mission",
+      "body": "The main innovation of Augusta Space is to interlace the RX and the TX panels on the same area. This cuts the antenna footprint roughly to half and almost linearly reduces the installation costs (also to 50%). But the biggest advantage is that it would open the use of ESAs and satellite communications to airplanes and drones of intermediate sizes, e.g. 100-600 Kg of Max Take-Off Weight, and enable long-range, beyond line-of-sight flights for UAVs of intermediate sizes. The combination of RX and TX on the same surface becomes also the enabler for more features: it allowed us to develop a modular concept, with which we can design antenna of different sizes (e.g. for LEO or GEO satellites), in different frequencies (Ka or Ku-Band), or with 1 or 2 full-duplex beams (to communicate in parallel with two satellites and increase throughput). Same Power and costs as state of the art, but slightly improved performance, flexibility, and big gains in size."
+    },
+    {
+      "heading": "Conclusions",
+      "body": "Since with Antennas physics cannot be cheated, the best thing we could do was to interlace RX and TX, and this gave us the possibility to develop a compact, modular concept to meet different requirements, but always in a space 50% smaller than the competition. Technology is patented by Augusta Space GmbH, we are building the first prototype to test performance over satellite."
+    }
+  ],
+  "quote": "Matteo Berioli comes from the aviation industry. Most of the antennas in service today are still mechanical, quite bulky and their installation is costly.\nThe main idea behind Augusta Space was an electronically steered antenna where the RX and the TX panels are interlaced on the same area. This cuts the antenna footprint roughly to half and almost linearly reduces the installation costs (also to 50%).",
+  "location": "Munich, Germany"
+}

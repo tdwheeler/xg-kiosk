@@ -1,0 +1,57 @@
+{
+  "valueProp": "We provide operators, private networks and innovators with European-made radio infrastructure, enabling open, scalable and high-performance 5G/6G deployments.",
+  "positioning": "European 5G/6G Radio Infrastructure",
+  "turnover": {
+    "value": "€15M",
+    "label": "Expected turnover four years from now"
+  },
+  "technologies": [
+    "Modular O-RAN radio units for 5G and 6G experimentation",
+    "SDR-capable radio platforms for flexible waveform and system testing",
+    "Multi-channel RF front-end and transceiver hardware",
+    "FR3, beamforming and RIS-based radio architectures",
+    "Integration with open 5G/6G software stacks and testbeds"
+  ],
+  "backSections": [
+    {
+      "heading": "Our Mission",
+      "body": "Massive Beams is building European radio infrastructure for the next generation of mobile networks. Our long-term ambition is to become a trusted supplier of 6G radio hardware for operators, private networks and advanced communication systems — bringing critical mobile network technology back to Germany and Europe."
+    },
+    {
+      "heading": "From Research to Infrastructure",
+      "body": "The company started from deep technical research in wireless communications, RF systems, microwave technology and Open RAN experimentation. Our first platforms, including modular O-RAN radios and SDR-capable systems, give researchers and innovators the flexibility to test new radio concepts. But they are also the foundation for a broader product path toward scalable, deployable 6G radio infrastructure."
+    },
+    {
+      "heading": "What Makes Us Distinct",
+      "body": "Massive Beams combines academic depth with practical hardware development. We do not only study future radio systems — we build them. Our approach connects RF design, digital signal processing, FPGA-based implementation, Open RAN compatibility and advanced antenna technologies. This allows us to support today’s research and testbed needs while preparing for tomorrow’s operator-grade and private-network deployments."
+    }
+  ],
+  "quote": "Massive Beams was born from research in wireless communications, RF systems, microwave technology, signal processing and Open RAN experimentation at TU Berlin. The founding team saw a strategic gap: Europe has world-class communications research, but much of the mobile network hardware market is dominated by non-European infrastructure vendors.\n\nMassive Beams was founded to turn this research foundation into practical, scalable radio infrastructure. Starting with modular SDR and O-RAN radio platforms, the company is building the hardware base for future 6G deployments, private networks, dual-use applications and European technological sovereignty in mobile communications.",
+  "founders": [
+    {
+      "name": "Dr.-Ing. Andreas Benzin",
+      "role": "Co-Founder & CEO",
+      "bio": "Wireless systems engineer with deep expertise in signal processing, communications, RF and embedded systems. Worked on practical wireless system design at TU Berlin from baseband theory to RF implementation. Leads strategy and execution.",
+      "photo": "founders/andreas-benzin.jpg"
+    },
+    {
+      "name": "Dennis Osterland, M.Sc.",
+      "role": "Co-Founder & CTO",
+      "bio": "Electrical engineer and wireless communications researcher at TU Berlin, completing his Dr.-Ing. Focuses on RF systems, SDR platforms, O-RAN radio architectures and experimental 5G/6G hardware. Drives technology roadmap from prototype to deployable radio infrastructure.",
+      "photo": "founders/dennis-osterland.jpg"
+    },
+    {
+      "name": "Prof. Giuseppe Caire, Ph.D.",
+      "role": "Co-Founder & Advisor",
+      "bio": "Professor and Head of the Communications and Information Theory Chair at TU Berlin. Leading researcher in wireless communications and information theory. Advises on 5G/6G system concepts, signal processing and network-level innovation.",
+      "photo": "founders/giuseppe-caire.jpg"
+    },
+    {
+      "name": "Prof. Dr.-Ing. Wilhelm Keusgen",
+      "role": "Co-Founder & Advisor",
+      "bio": "Professor for Microwave Systems at TU Berlin, previously led millimeter-wave and advanced transceiver research at Fraunhofer HHI. Work spans multiple-antenna systems, mmWave and THz communications. Advises on RF architecture, microwave systems and long-term technology direction.",
+      "photo": "founders/wilhelm-keusgen.jpg"
+    }
+  ],
+  "location": "Berlin, Germany"
+}

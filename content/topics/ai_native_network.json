@@ -1,0 +1,60 @@
+{
+  "description": "AI-native networks integrate AI into the architecture, interfaces, and control logic rather than treating it as an add-on. Intents, learning models, and autonomous control loops become fundamental building blocks for planning and operating future networks.",
+  "featured": {
+    "title": "AI-RAN in 6G Networks: State-of-the-Art and Challenges",
+    "authors": "N. A. Khan und S. Schmid",
+    "venue": "IEEE Open J. Commun. Soc",
+    "year": "2024",
+    "summary": "Surveys “AI-RAN in 6G Networks: State-of-the-Art and Challenges”. Focus: main approaches, design choices and open questions in AI-RAN Orchestration, giving a quick view of the problem and its role in future wireless and network systems.",
+    "citations": {
+      "count": "119",
+      "source": "ResearchGate",
+      "checkedOn": "2026-08-27",
+      "url": "https://www.researchgate.net/search/publication?q=AI-RAN+in+6G+Networks%3A+State-of-the-Art+and+Challenges"
+    }
+  },
+  "publications": [
+    {
+      "title": "Interface on demand: Towards AI native Control interfaces for 6G",
+      "authors": "A. Dandekar, P. D. Thapa, A. Rahman, und J. Schulz-Zander",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Explores “Interface on demand: Towards AI native Control interfaces for 6G”. Focus: data-driven prediction, control, optimization or adaptation in O-RAN Services & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "GraphGPT: An Intent-based Management System for Next Generation Networks“",
+      "authors": "V. Gowtham, F. Schreiner, A. Rao, S. Shivaprasad, M. Corici, und T. Magedanz",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Presents “GraphGPT: An Intent-based Management System for Next Generation Networks“”. Focus: architecture, implementation choices and engineering trade-offs in O-RAN Services & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Next-Gen AI-on-RAN: AI-native, Interoperable, and GPU-Accelerated Testbed Towards 6G Open-RAN",
+      "authors": "O. T. Basaran, Z. Hammad, M. Kasparick, F. Dressler, und S. Stanczak",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Explores “Next-Gen AI-on-RAN: AI-native, Interoperable, and GPU-Accelerated Testbed Towards 6G Open-RAN”. Focus: data-driven prediction, control, optimization or adaptation in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Intent-based Networking for QoS-aware Cloud and Transport Network Management based on Graph Neural Networks",
+      "authors": "V. Gowtham, F. Schreiner, M.-I. Corici, T. Magedanz, I. Zacarias, A. Drummond, und A. Jukan",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Explores “Intent-based Networking for QoS-aware Cloud and Transport Network Management based on Graph Neural Networks”. Focus: data-driven prediction, control, optimization or adaptation in O-RAN Services & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "NEMI: A Standardized Approach to Intent Based Networking",
+      "authors": "V. Gowtham, F. Schreiner, M.-I. Corici, und T. Magedanz",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “NEMI: A Standardized Approach to Intent Based Networking”. Focus: the core mechanism, system behavior and engineering implications in O-RAN Services & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "NEMI: A 6G-ready) AI-enabled Autonomic Network Management System for Open Campus Networks",
+      "authors": "M.-I. Corici, V. Gowtham, T. Magedanz, A. Prakash, und F. Schreiner",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Explores “NEMI: A 6G-ready) AI-enabled Autonomic Network Management System for Open Campus Networks”. Focus: data-driven prediction, control, optimization or adaptation in Private / Campus Networks, giving a quick view of the problem and its role in future wireless and network systems."
+    }
+  ]
+}

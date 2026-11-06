@@ -1,0 +1,68 @@
+{
+  "description": "Private and campus networks are locally operated mobile networks for enterprises, research institutions, or industry. They provide controlled coverage, dedicated QoS and security policies, and application-specific optimization.",
+  "featured": {
+    "title": "Empowering Smart Factories with O-RAN",
+    "authors": "A. C. Drummond, O. T. Başaran, A. Dandekar, M. Franke, M. Balanici, I. Zacarias, Í. Brasileiro, C. V. Phung, E. Tohidi, N. K. Khani, S. Kouhini, L. Miretti, Z. Utkovski, E. Durmaz, J. Schulz-Zander, S. Maghsudi, S. Schmid, F. Dressler, B. Shariati, J. K. Fischer, R. Freund, S. Stańczak, und A. Jukan",
+    "venue": "TechRxiv, preprint, 172470176.60818214",
+    "year": "2024",
+    "summary": "Investigates “Empowering Smart Factories with O-RAN”. Focus: the core mechanism, system behavior and engineering implications in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+  },
+  "publications": [
+    {
+      "title": "Enabling 6G Smart Factories with O-RAN",
+      "authors": "A. C. Drummond, O. T. Başaran, A. Dandekar, M. Franke, M. Balanici, I. Zacarias, Í. Brasileiro, C. V. Phung, E. Tohidi, N. K. Khani, S. Kouhini, L. Miretti, Z. Utkovski, E. Durmaz, J. Schulz-Zander, S. Maghsudi, S. Schmid, F. Dressler, B. Shariati, J. K. Fischer, R. Freund, S. Stańczak, und A. Jukan",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Investigates “Enabling 6G Smart Factories with O-RAN”. Focus: the core mechanism, system behavior and engineering implications in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "On the Adaptive THz System for Mobile VR Users in Smart Factories",
+      "authors": "Networks, Seoul Republic of Korea, Mai 2024, S. 277–287. doi: 10.1145/3643833.3656118. C. V. Phung, Z. Ennaceur, A. Drummond, und A. Jukan",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Presents “On the Adaptive THz System for Mobile VR Users in Smart Factories”. Focus: architecture, implementation choices and engineering trade-offs in Private / Campus Networks, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Enabling 6G Campus Networks Intelligent Control with Digital Twin: A case study",
+      "authors": "Z. Ennaceur, M. Bensalem, C. V. Phung, A. C. Drummond, und A. Jukan",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Enabling 6G Campus Networks Intelligent Control with Digital Twin: A case study”. Focus: the core mechanism, system behavior and engineering implications in Private / Campus Networks, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Reliability Assurance in RIS-Assisted 6G Campus Networks",
+      "authors": "E. Tohidi, M. Franke, C. V. Phung, N. Khan, A. Drummond, S. Schmid, A. Jukan, und S. Stańczak",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Reliability Assurance in RIS-Assisted 6G Campus Networks”. Focus: the core mechanism, system behavior and engineering implications in Private / Campus Networks, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "LADEA: A Near Real-Time Transmission Power Adaptation Algorithm for Increased Energy Efficiency in Dense Indoor Campus Networks",
+      "authors": "A. Gopikrishnan, M. Corici, V. Gowtham, und T. Magedanz",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “LADEA: A Near Real-Time Transmission Power Adaptation Algorithm for Increased Energy Efficiency in Dense Indoor Campus Networks”. Focus: the core mechanism, system behavior and engineering implications in Private / Campus Networks, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Optimum Network Slicing for Ultra-reliable Low Latency Communication (URLLC) Services in Campus Networks",
+      "authors": "I. Zacarias, F. Carpio, A. C. Drummond, und A. Jukan",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Optimum Network Slicing for Ultra-reliable Low Latency Communication (URLLC) Services in Campus Networks”. Focus: the core mechanism, system behavior and engineering implications in Private / Campus Networks, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Increasing Fault Tolerance and Throughput with Adaptive Control Plane in Smart Factories",
+      "authors": "C. V. Phung und A. Jukan",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Investigates “Increasing Fault Tolerance and Throughput with Adaptive Control Plane in Smart Factories”. Focus: the core mechanism, system behavior and engineering implications in Private / Campus Networks, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "NEMI: A 6G-ready) AI-enabled Autonomic Network Management System for Open Campus Networks",
+      "authors": "M.-I. Corici, V. Gowtham, T. Magedanz, A. Prakash, und F. Schreiner",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Explores “NEMI: A 6G-ready) AI-enabled Autonomic Network Management System for Open Campus Networks”. Focus: data-driven prediction, control, optimization or adaptation in Private / Campus Networks, giving a quick view of the problem and its role in future wireless and network systems."
+    }
+  ]
+}

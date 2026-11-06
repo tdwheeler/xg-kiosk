@@ -1,0 +1,142 @@
+{
+  "description": "Photonic systems transmit and process information using light. Integrating lasers, modulators, fibers, transponders, and photonic circuits enables high data rates, energy-efficient transport networks, and tight integration between optical and electronic subsystems.",
+  "featured": {
+    "title": "Cascaded Micro-Ring Resonator based Reservoir Computing for Optical Equalization of PAM-4 Short Reach Signals",
+    "authors": "S. Kühl, M. S. Laleh, A. Mataji-Kojouri, S. Oettinghaus, K. Jamshidi, und S. Pachnicke",
+    "venue": "J. Lightwave Technol",
+    "year": "2025",
+    "summary": "Investigates “Cascaded Micro-Ring Resonator based Reservoir Computing for Optical Equalization of PAM-4 Short Reach Signals”. Focus: the core mechanism, system behavior and engineering implications in Photonic Systems & Integration, giving a quick view of the problem and its role in future wireless and network systems.",
+    "citations": {
+      "count": "4",
+      "source": "ResearchGate",
+      "checkedOn": "2026-08-27",
+      "url": "https://www.researchgate.net/search/publication?q=Cascaded+Micro-Ring+Resonator+based+Reservoir+Computing+for+Optical+Equalization+of+PAM-4+Short+Reach+Signals"
+    }
+  },
+  "publications": [
+    {
+      "title": "A DAC-based Transmitter with VCSEL Bias-Current Generation enabling 180 Gbit/s PAM-8 Electrical and 100 Gbit/s PAM-4 VCSEL-based Transmission in 22nm SOI",
+      "authors": "U. Hecht, H. Ordouei, P. Scholz, P. Kurth, und F. Gerfers",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Investigates “A DAC-based Transmitter with VCSEL Bias-Current Generation enabling 180 Gbit/s PAM-8 Electrical and 100 Gbit/s PAM-4 VCSEL-based…”. Focus: the core mechanism, system behavior and engineering implications in Photonic Systems & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Benchmarking the Performance of Mobile Mid-haul Networks with Multi-flow Optical Transponders",
+      "authors": "I. Brasileiro, I. Zacarias, A. Drummond, A. Napoli, und A. Jukan",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Analyzes “Benchmarking the Performance of Mobile Mid-haul Networks with Multi-flow Optical Transponders”. Focus: system behavior, performance limits and design trade-offs in Photonic Systems & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Parallel Micro-Ring Resonator based Reservoir Computing for Optical Equalization of 112 Gbaud PAM-4 Signals",
+      "authors": "S. Kühl, M. S. Laleh, und S. Pachnicke",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Parallel Micro-Ring Resonator based Reservoir Computing for Optical Equalization of 112 Gbaud PAM-4 Signals”. Focus: the core mechanism, system behavior and engineering implications in Photonic Systems & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Ring-Cascaded Sequential Micro-Ring Resonators Array as a Photonic Reservoir for Signal Equalization in Intra-Data Center Networks",
+      "authors": "M. S. Laleh, S. Kühl, S. Oettinghaus, A. Dochhan, und S. Pachnicke",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Ring-Cascaded Sequential Micro-Ring Resonators Array as a Photonic Reservoir for Signal Equalization in Intra-Data Center Networks”. Focus: the core mechanism, system behavior and engineering implications in Photonic Systems & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Secret Key Generation in Multi-Mode Fiber Channels: Channel Measurements and Achievable Rates",
+      "authors": "P.-H. Lin, P. Nowitzki, E. A. Jorswieck, D. Pohle, und J. Czarske",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Characterizes “Secret Key Generation in Multi-Mode Fiber Channels: Channel Measurements and Achievable Rates”. Focus: measured behavior, propagation effects and practical implications in Photonic Systems & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Autonomous Capacity Adjustment with Dynamic Margin Allocation for Optical Enterprise Links",
+      "authors": "M. Balanici, B. Shariati, P. Safari, G. Bergk, und J. K. Fischer",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Autonomous Capacity Adjustment with Dynamic Margin Allocation for Optical Enterprise Links”. Focus: the core mechanism, system behavior and engineering implications in Photonic Systems & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Live Demonstration of Autonomous Link-Capacity Adjustment in Optical Metro-Aggregation Networks",
+      "authors": "M. Balanici, P. Safari, B. Shariati, A. Jafari, J. K. Fischer, und R. Freund",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Demonstrates “Live Demonstration of Autonomous Link-Capacity Adjustment in Optical Metro-Aggregation Networks”. Focus: implementation choices, experimental behavior and practical feasibility in Photonic Systems & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Performance Analysis of Crosstalk-Aware Sparse Core-Switching Optical Networks",
+      "authors": "Í. B. Brasileiro, A. C. Drummond, und A. Jukan",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Analyzes “Performance Analysis of Crosstalk-Aware Sparse Core-Switching Optical Networks”. Focus: system behavior, performance limits and design trade-offs in Photonic Systems & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Demonstration of a Real-Time 100G Ethernet Space Division Multiplexing PON Using a Weakly Coupled Multicore Fiber",
+      "authors": "S. Cwalina, S. K. Mohammadi, K. Habel, V. Jungnickel, und R. Freund",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Demonstrates “Demonstration of a Real-Time 100G Ethernet Space Division Multiplexing PON Using a Weakly Coupled Multicore Fiber”. Focus: implementation choices, experimental behavior and practical feasibility in Photonic Systems & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Performance Assessment of Joint Optical-Digital Nonlinearity Mitigation Schemes in Long-Haul Systems",
+      "authors": "V. Dsilva, I. Sackey, G. Ronniger, G. von Hünefeld, B. Chacko, C. Schubert, und R. Freund",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Presents “Performance Assessment of Joint Optical-Digital Nonlinearity Mitigation Schemes in Long-Haul Systems”. Focus: architecture, implementation choices and engineering trade-offs in Photonic Systems & Integration, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "1",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Performance+Assessment+of+Joint+Optical-Digital+Nonlinearity+Mitigation+Schemes+in+Long-Haul+Systems"
+      }
+    },
+    {
+      "title": "Metropolitan optical networks: A survey on single-layer architectures",
+      "authors": "L. S. de Sousa und A. C. Drummond",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Surveys “Metropolitan optical networks: A survey on single-layer architectures”. Focus: main approaches, design choices and open questions in Photonic Systems & Integration, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "27",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Metropolitan+optical+networks%3A+A+survey+on+single-layer+architectures"
+      }
+    },
+    {
+      "title": "Comparison of Passive Photonic Reservoir Computing Architectures for Signal Equalization of Future Generation Intra-DCN and Mobile Fronthaul Systems",
+      "authors": "S. Kühl, L. E. Kruse, und S. Pachnicke",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Presents “Comparison of Passive Photonic Reservoir Computing Architectures for Signal Equalization of Future Generation Intra-DCN and Mobile…”. Focus: architecture, implementation choices and engineering trade-offs in Photonic Systems & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "A 0.4 pJ/bit NRZ Voltage Mode VCSEL Driver for up to 224 Gbit/s SWDM Links",
+      "authors": "U. Hecht, H. Ordouei, N. Ledentsov, P. Scholz, P. Kurth, I. E. Titkov, N. N. Ledentsov, und F. Gerfers",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “A 0.4 pJ/bit NRZ Voltage Mode VCSEL Driver for up to 224 Gbit/s SWDM Links”. Focus: the core mechanism, system behavior and engineering implications in Photonic Systems & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "56 Gbaud PAM-4 Transmission Equalization using Implicitly Masked Parallel Micro-Ring Resonator Reservoir Computing",
+      "authors": "S. Kühl, L. E. Kruse, und S. Pachnicke",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Investigates “56 Gbaud PAM-4 Transmission Equalization using Implicitly Masked Parallel Micro-Ring Resonator Reservoir Computing”. Focus: the core mechanism, system behavior and engineering implications in Photonic Systems & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Enabling Optical Modulation Format Identification Using an Integrated Photonic Reservoir and a Digital Multiclass Classifier",
+      "authors": "G. von Hünefeld, G. Ronniger, P. Safari, I. Sackey, R. Thomas, E. Seker, P. Cegielski, S. Suckow, M. Lemme, D. Stahl, S. Masaad, E. Gooskens, P. Bienstman, C. Schubert, J. K. Fischer, und R. Freund",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Investigates “Enabling Optical Modulation Format Identification Using an Integrated Photonic Reservoir and a Digital Multiclass Classifier”. Focus: the core mechanism, system behavior and engineering implications in Photonic Systems & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Investigating the Performance and Suitability of Neural Network Architectures for Nonlinearity Mitigation of Optical Signals",
+      "authors": "V. Dsilva, I. Sackey, G. Ronniger, G. von Hünefeld, B. Chacko, C. Schubert, und R. Freund",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Explores “Investigating the Performance and Suitability of Neural Network Architectures for Nonlinearity Mitigation of Optical Signals”. Focus: data-driven prediction, control, optimization or adaptation in Photonic Systems & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    }
+  ]
+}

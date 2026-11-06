@@ -1,0 +1,147 @@
+{
+  "description": "Autonomous mobility includes connected and automated vehicles, V2X communication, and cooperative transport systems. Wireless communication, sensing, and edge computing must jointly provide fresh environmental data, low latency, and high reliability.",
+  "featured": {
+    "title": "Sensing-Assisted Beam Tracking for mmWave V2I Communications With Analog, Hybrid, and Digital Antenna Architectures",
+    "authors": "F. Pedraza und G. Caire",
+    "venue": "IEEE Trans. Wireless Commun",
+    "year": "2025",
+    "summary": "Presents “Sensing-Assisted Beam Tracking for mmWave V2I Communications With Analog, Hybrid, and Digital Antenna Architectures”. Focus: architecture, implementation choices and engineering trade-offs in Advanced Beamforming, giving a quick view of the problem and its role in future wireless and network systems.",
+    "citations": {
+      "count": "7",
+      "source": "ResearchGate",
+      "checkedOn": "2026-08-27",
+      "url": "https://www.researchgate.net/search/publication?q=Sensing-Assisted+Beam+Tracking+for+mmWave+V2I+Communications+With+Analog%2C+Hybrid%2C+and+Digital+Antenna+Architectures"
+    }
+  },
+  "publications": [
+    {
+      "title": "An Age of Information Characterization of SPS for V2X Applications",
+      "authors": "M. Bezmenov, M. Frey, Z. Utkovski, und S. Stanczak",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Investigates “An Age of Information Characterization of SPS for V2X Applications”. Focus: the core mechanism, system behavior and engineering implications in Autonomous Mobility, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "0",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/publication/387264191_An_Age_of_Information_Characterization_of_SPS_for_V2X_Applications"
+      }
+    },
+    {
+      "title": "The Impact of Blind Retransmissions on the Age of Information in NR-V2X",
+      "authors": "Kong, Hong Kong, Okt. 2024. M. Bezmenov, Z. Utkovski, und S. Stanczak",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Analyzes “The Impact of Blind Retransmissions on the Age of Information in NR-V2X”. Focus: system behavior, performance limits and design trade-offs in Autonomous Mobility, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Age of Information for V2X: Irregular Repetition Slotted ALOHA and Semi-Persistent Scheduling",
+      "authors": "M. Bezmenov, A. Munari, Z. Utkovski, und S. Stanczak",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Optimizes “Age of Information for V2X: Irregular Repetition Slotted ALOHA and Semi-Persistent Scheduling”. Focus: resource decisions, constraints and performance trade-offs in Autonomous Mobility, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Safety-Aware Age of Information (S-AoI) for Collision Risk Minimization in Cell-Free mMIMO Platooning Networks",
+      "authors": "M. R. Abedi, N. Mokari, M. R. Javan, H. Saeedi, E. A. Jorswieck, und H. Yanikomeroglu",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Optimizes “Safety-Aware Age of Information (S-AoI) for Collision Risk Minimization in Cell-Free mMIMO Platooning Networks”. Focus: resource decisions, constraints and performance trade-offs in Ultra-Massive MIMO, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "21",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Safety-Aware+Age+of+Information+%28S-AoI%29+for+Collision+Risk+Minimization+in+Cell-Free+mMIMO+Platooning+Networks"
+      }
+    },
+    {
+      "title": "Ensuring Trustworthy Automated Road Vehicles: A Software Integrity Validation Approach",
+      "authors": "D. Püllen, F. Klement, A. Vinel, und S. Katzenbeisser",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Ensuring Trustworthy Automated Road Vehicles: A Software Integrity Validation Approach”. Focus: the core mechanism, system behavior and engineering implications in Autonomous Mobility, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "AoI-Aware Resource Allocation for Platoon-Based C-V2X Networks via Multi-Agent Multi-Task Reinforcement Learning",
+      "authors": "M. Parvini, M. R. Javan, N. Mokari, B. Abbasi, und E. A. Jorswieck",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Explores “AoI-Aware Resource Allocation for Platoon-Based C-V2X Networks via Multi-Agent Multi-Task Reinforcement Learning”. Focus: data-driven prediction, control, optimization or adaptation in Autonomous Mobility, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "146",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/publication/369403742_AoI-Aware_Resource_Allocation_for_Platoon-Based_C-V2X_Networks_via_Multi-Agent_Multi-Task_Reinforcement_Learning"
+      }
+    },
+    {
+      "title": "TSOA: Two-State Offloading Algorithm from Users to Co-Located Vehicular Microclouds",
+      "authors": "B.-J. Qiu, J.-C. Chen, und F. Dressler",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “TSOA: Two-State Offloading Algorithm from Users to Co-Located Vehicular Microclouds”. Focus: the core mechanism, system behavior and engineering implications in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Human-Centered Traffic Management Supporting Smart Cities and the Metaverse",
+      "authors": "D. C. Selvaraj, F. Dressler, und C. F. Chiasserini",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Human-Centered Traffic Management Supporting Smart Cities and the Metaverse”. Focus: the core mechanism, system behavior and engineering implications in Autonomous Mobility, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Multi-Scatter-Point Target Estimation for Sensing-Assisted OTFS Automotive Communication",
+      "authors": "S. K. Dehkordi, J. C. Hauffen, P. Jung, R. Hernangomez, G. Caire, und S. Stanczak",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Multi-Scatter-Point Target Estimation for Sensing-Assisted OTFS Automotive Communication”. Focus: the core mechanism, system behavior and engineering implications in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "TCOA: Triple-Check Offloading Algorithm for Roadside Units and Vehicular Microclouds in 5G Networks and Beyond",
+      "authors": "B.-J. Qiu, C.-Y. Hsieh, J.-C. Chen, und F. Dressler",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Investigates “TCOA: Triple-Check Offloading Algorithm for Roadside Units and Vehicular Microclouds in 5G Networks and Beyond”. Focus: the core mechanism, system behavior and engineering implications in Edge AI Processing, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "6",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=TCOA%3A+Triple-Check+Offloading+Algorithm+for+Roadside+Units+and+Vehicular+Microclouds+in+5G+Networks+and+Beyond"
+      }
+    },
+    {
+      "title": "Change Your Car’s Filters: Efficient Concurrent and Multi-Stage Firewall for OBD-II Network Traffic",
+      "authors": "F. Klement, H. C. Pöhls, und S. Katzenbeisser",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Investigates “Change Your Car’s Filters: Efficient Concurrent and Multi-Stage Firewall for OBD-II Network Traffic”. Focus: the core mechanism, system behavior and engineering implications in Autonomous Mobility, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "A Spatial Model for Using the Age of Information in Cooperative Driving Applications",
+      "authors": "Electronics, Circuits and Systems (ICECS), Glasgow, United Kingdom, Okt. 2022, S. 1–4. doi: 10.1109/ICECS202256217.2022.9970789. J. Heinovski, J. Torres Gómez, und F. Dressler",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Investigates “A Spatial Model for Using the Age of Information in Cooperative Driving Applications”. Focus: the core mechanism, system behavior and engineering implications in Autonomous Mobility, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Man-in-the-OBD: A Modular, Protocol Agnostic Firewall for Automotive Dongles to Enhance Privacy and Security",
+      "authors": "F. Klement, H. C. Pöhls, und S. Katzenbeisser",
+      "year": "2022",
+      "isConference": false,
+      "summary": "Examines “Man-in-the-OBD: A Modular, Protocol Agnostic Firewall for Automotive Dongles to Enhance Privacy and Security”. Focus: threats, protection mechanisms and security-performance trade-offs in Autonomous Mobility, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Power Optimization of THz Band Heterogeneous Vehicular Networks",
+      "authors": "S. H. A. Samy, E. A. Maher, A. El-Mahdy, und F. Dressler",
+      "year": "2021",
+      "isConference": true,
+      "summary": "Optimizes “Power Optimization of THz Band Heterogeneous Vehicular Networks”. Focus: resource decisions, constraints and performance trade-offs in Autonomous Mobility, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Semantic Security Based Secrecy Maps for Vehicular Communications",
+      "authors": "Z. Utkovski, M. Frey, P. Agostini, I. Bjelakovic, und S. Stanczak",
+      "year": "2021",
+      "isConference": true,
+      "summary": "Examines “Semantic Security Based Secrecy Maps for Vehicular Communications”. Focus: threats, protection mechanisms and security-performance trade-offs in Autonomous Mobility, giving a quick view of the problem and its role in future wireless and network systems."
+    }
+  ]
+}

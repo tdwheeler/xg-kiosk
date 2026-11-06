@@ -1,0 +1,3 @@
+{
+  "description": "Quantum Key Distribution distributes cryptographic keys using quantum states. Eavesdropping disturbs the transmission in a detectable way, enabling physically protected key establishment when combined with classical authentication."
+}

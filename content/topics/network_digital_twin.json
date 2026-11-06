@@ -1,0 +1,73 @@
+{
+  "description": "A Network Digital Twin is a continuously updated digital representation of a communication network. It combines measurements, models, and simulation to predict states, test changes safely, and optimize operations, planning, and troubleshooting.",
+  "featured": {
+    "title": "Jamming-Resilient Physical-to-Virtual Communications in Digital Twin Edge Networks",
+    "authors": "L. Yang, Y. Zou, Z. Zhang, P. Wang, D. Yu, A. Zubow, F. Dressler, und X. Cheng",
+    "venue": "IEEE Transactions on Networking",
+    "year": "2025",
+    "summary": "Examines “Jamming-Resilient Physical-to-Virtual Communications in Digital Twin Edge Networks”. Focus: threats, protection mechanisms and security-performance trade-offs in Network Digital Twin, giving a quick view of the problem and its role in future wireless and network systems.",
+    "citations": {
+      "count": "2",
+      "source": "ResearchGate",
+      "checkedOn": "2026-08-27",
+      "url": "https://www.researchgate.net/search/publication?q=Jamming-Resilient+Physical-to-Virtual+Communications+in+Digital+Twin+Edge+Networks"
+    }
+  },
+  "publications": [
+    {
+      "title": "An Open Source Digital Twin Framework for O-RAN",
+      "authors": "Z. Hammad, E. Tohidi, M. Kasparick, und S. Stanczak",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Presents “An Open Source Digital Twin Framework for O-RAN”. Focus: architecture, implementation choices and engineering trade-offs in Open RAN, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Gen-TWIN: Generative-AI-Enabled Digital Twin for Open Radio Access Networks",
+      "authors": "O. T. Basaran, D. Villa, P. Johari, M. Polese, C. Fiandrino, F. Dressler, und T. Melodia",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Explores “Gen-TWIN: Generative-AI-Enabled Digital Twin for Open Radio Access Networks”. Focus: data-driven prediction, control, optimization or adaptation in Network Digital Twin, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "A flexible and fast digital twin for RRAM systems applied for training resilient neural networks",
+      "authors": "M. Fritscher, S. Singh, T. Rizzi, A. Baroni, D. Reiser, M. Mallah, D. Hartmann, A. Bende, T. Kempen, M. Uhlmann, G. Kahmen, D. Fey, V. Rana, S. Menzel, M. Reichenbach, M. Krstic, F. Merchant, und C. Wenger",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Explores “A flexible and fast digital twin for RRAM systems applied for training resilient neural networks”. Focus: data-driven prediction, control, optimization or adaptation in Network Digital Twin, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "4",
+        "source": "Nature",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.nature.com/articles/s41598-024-73439-z"
+      }
+    },
+    {
+      "title": "An Intelligent Digital Twin Model for Attack Detection in Zero-Touch 6G Networks",
+      "authors": "Communications, Juni 2024, S. 1437–1442. doi: 10.1109/ICC51166.2024.10622503. B. Bolat-Akça, E. Bozkaya-Aras, B. Canberk, B. Buchanan, und S. Schmid",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Examines “An Intelligent Digital Twin Model for Attack Detection in Zero-Touch 6G Networks”. Focus: threats, protection mechanisms and security-performance trade-offs in Network Digital Twin, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Enabling 6G Campus Networks Intelligent Control with Digital Twin: A case study",
+      "authors": "Z. Ennaceur, M. Bensalem, C. V. Phung, A. C. Drummond, und A. Jukan",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “Enabling 6G Campus Networks Intelligent Control with Digital Twin: A case study”. Focus: the core mechanism, system behavior and engineering implications in Private / Campus Networks, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Digital Twin-Empowered Resource Allocation for 6G-Enabled Massive IoT",
+      "authors": "E. Bozkaya, B. Canberk, und S. Schmidt",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Optimizes “Digital Twin-Empowered Resource Allocation for 6G-Enabled Massive IoT”. Focus: resource decisions, constraints and performance trade-offs in Network Digital Twin, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Prototyping Reconfigurable RRAM-Based AI Accelerators Using the RISC-V Ecosystem and Digital Twins",
+      "authors": "M. Fritscher, A. Veronesi, A. Baroni, J. Wen, T. Spätling, M. K. Mahadevaiah, N. Herfurth, E. Perez, M. Ulbricht, M. Reichenbach, A. Hagelauer, und M. Krstic",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Explores “Prototyping Reconfigurable RRAM-Based AI Accelerators Using the RISC-V Ecosystem and Digital Twins”. Focus: data-driven prediction, control, optimization or adaptation in Analog AI Accelerators, giving a quick view of the problem and its role in future wireless and network systems."
+    }
+  ]
+}

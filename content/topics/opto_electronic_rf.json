@@ -1,0 +1,26 @@
+{
+  "description": "Opto-electronic RF synthesis combines photonic and electronic circuits to generate, mix, or modulate high-frequency signals. It targets very wide bandwidths and high carrier frequencies for future wireless and transport systems.",
+  "featured": {
+    "title": "A DAC-based Transmitter with VCSEL Bias-Current Generation enabling 180 Gbit/s PAM-8 Electrical and 100 Gbit/s PAM-4 VCSEL-based Transmission in 22nm SOI",
+    "authors": "U. Hecht, H. Ordouei, P. Scholz, P. Kurth, und F. Gerfers",
+    "venue": "2025 IEEE Custom Integrated Circuits Conference (CICC)",
+    "year": "2025",
+    "summary": "Investigates “A DAC-based Transmitter with VCSEL Bias-Current Generation enabling 180 Gbit/s PAM-8 Electrical and 100 Gbit/s PAM-4 VCSEL-based…”. Focus: the core mechanism, system behavior and engineering implications in Photonic Systems & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+  },
+  "publications": [
+    {
+      "title": "A W-band Down Conversion Mixer in EPIC 250 nm BiCMOS Technology for Monolithic Optoelectronic Radio Applications",
+      "authors": "A. Tuero, A. Malignaggi, F. Gerfers, und C. Carta",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Investigates “A W-band Down Conversion Mixer in EPIC 250 nm BiCMOS Technology for Monolithic Optoelectronic Radio Applications”. Focus: the core mechanism, system behavior and engineering implications in Opto-Electronic RF Synthesis, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "A 0.4 pJ/bit NRZ Voltage Mode VCSEL Driver for up to 224 Gbit/s SWDM Links",
+      "authors": "U. Hecht, H. Ordouei, N. Ledentsov, P. Scholz, P. Kurth, I. E. Titkov, N. N. Ledentsov, und F. Gerfers",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “A 0.4 pJ/bit NRZ Voltage Mode VCSEL Driver for up to 224 Gbit/s SWDM Links”. Focus: the core mechanism, system behavior and engineering implications in Photonic Systems & Integration, giving a quick view of the problem and its role in future wireless and network systems."
+    }
+  ]
+}

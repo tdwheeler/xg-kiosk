@@ -1,0 +1,87 @@
+{
+  "description": "Non-Terrestrial Networks extend mobile connectivity through satellites, HAPS, and other non-terrestrial platforms. They improve coverage and resilience but introduce specific challenges in propagation delay, Doppler, resource management, and access procedures.",
+  "featured": {
+    "title": "AI-Based Radio and Computing Resource Allocation and Path Planning in NOMA NTNs: AoI Minimization Under CSI Uncertainty",
+    "authors": "M. Ansarifard, N. Mokari, M. R. Javan, H. Saeedi, und E. A. Jorswieck",
+    "venue": "IEEE Transactions on Vehicular Technology",
+    "year": "2024",
+    "summary": "Explores “AI-Based Radio and Computing Resource Allocation and Path Planning in NOMA NTNs: AoI Minimization Under CSI Uncertainty”. Focus: data-driven prediction, control, optimization or adaptation in Non-Terrestrial Networks, giving a quick view of the problem and its role in future wireless and network systems.",
+    "citations": {
+      "count": "18",
+      "source": "ResearchGate",
+      "checkedOn": "2026-08-27",
+      "url": "https://www.researchgate.net/search/publication?q=AI-Based+Radio+and+Computing+Resource+Allocation+and+Path+Planning+in+NOMA+NTNs%3A+AoI+Minimization+Under+CSI+Uncertainty"
+    }
+  },
+  "publications": [
+    {
+      "title": "Multi-Satellite NOMA-Irregular Repetition Slotted ALOHA for IoT Networks",
+      "authors": "E. Recayte und C. Amatetti",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Investigates “Multi-Satellite NOMA-Irregular Repetition Slotted ALOHA for IoT Networks”. Focus: the core mechanism, system behavior and engineering implications in Non-Terrestrial Networks, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Satellite Intermittent Connectivity and Its Impact on Age of Information for Finite Horizon Scheduling",
+      "authors": "L. Badia und A. Munari",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Optimizes “Satellite Intermittent Connectivity and Its Impact on Age of Information for Finite Horizon Scheduling”. Focus: resource decisions, constraints and performance trade-offs in Non-Terrestrial Networks, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Starlink Performance through the Edge Router Lens",
+      "authors": "S.-M. Hammer, V. Addanki, M. Franke, und S. Schmid",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Analyzes “Starlink Performance through the Edge Router Lens”. Focus: system behavior, performance limits and design trade-offs in Non-Terrestrial Networks, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Energy-Efficient Irregular Repetition Slotted ALOHA for IoT Satellite Systems",
+      "authors": "E. Recayte, T. Devaja, und D. Vukobratovic",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Presents “Energy-Efficient Irregular Repetition Slotted ALOHA for IoT Satellite Systems”. Focus: architecture, implementation choices and engineering trade-offs in Non-Terrestrial Networks, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Resilient Disaster Relief in Industrial IoT: UAV Trajectory Design and Resource Allocation in 6G Non-Terrestrial Networks",
+      "authors": "A. Mohammadisarab, A. Nouruzi, A. Khalili, N. Mokari, B. A. Arand, und E. A. Jorswieck",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Optimizes “Resilient Disaster Relief in Industrial IoT: UAV Trajectory Design and Resource Allocation in 6G Non-Terrestrial Networks”. Focus: resource decisions, constraints and performance trade-offs in Non-Terrestrial Networks, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "22",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Resilient+Disaster+Relief+in+Industrial+IoT%3A+UAV+Trajectory+Design+and+Resource+Allocation+in+6G+Non-Terrestrial+Networks"
+      }
+    },
+    {
+      "title": "Internet of Things via Satellite: A Multiple-Access Performance Study of LoRa and its Enhancements",
+      "authors": "T. Petermann, F. Clazzer, A. Munari, und M. Gardill",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Analyzes “Internet of Things via Satellite: A Multiple-Access Performance Study of LoRa and its Enhancements”. Focus: system behavior, performance limits and design trade-offs in Non-Terrestrial Networks, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Power and Bandwidth Allocation based on Age of Information metrics in Satellite Uplink Channels",
+      "authors": "J. T. Gomez, M. Morales-Cespedes, M. Shaat, A. I. P. Neira, und A. G. Armada",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Investigates “Power and Bandwidth Allocation based on Age of Information metrics in Satellite Uplink Channels”. Focus: the core mechanism, system behavior and engineering implications in Non-Terrestrial Networks, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Coded Caching at the Edge of Satellite Networks",
+      "authors": "Networks, San Antonio TX USA, Mai 2022, S. 157–168. doi: 10.1145/3507657.3528540. E. Recayte",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Investigates “Coded Caching at the Edge of Satellite Networks”. Focus: the core mechanism, system behavior and engineering implications in Non-Terrestrial Networks, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "5G New Radio in Nonlinear Satellite Downlink: A Physical Layer Comparison with DVB-S2X",
+      "authors": "G. George, S. Roy, S. Raghunandan, C. Rohde, und T. Heyn",
+      "year": "2021",
+      "isConference": true,
+      "summary": "Analyzes “5G New Radio in Nonlinear Satellite Downlink: A Physical Layer Comparison with DVB-S2X”. Focus: system behavior, performance limits and design trade-offs in Non-Terrestrial Networks, giving a quick view of the problem and its role in future wireless and network systems."
+    }
+  ]
+}

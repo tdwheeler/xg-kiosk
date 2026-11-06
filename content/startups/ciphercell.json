@@ -1,0 +1,47 @@
+{
+  "valueProp": "We help companies ship secure, compliant software faster by turning vulnerability noise into one evidence-backed queue, fully on-prem, without growing their security team.",
+  "imageConfig": {
+    "logoScale": 1.2
+  },
+  "positioning": "Next Generation Security Solutions",
+  "turnover": {
+    "value": "€3M",
+    "label": "Expected turnover four years from now"
+  },
+  "technologies": [
+    "Scanner-agnostic finding ingestion (SAST, SCA, DAST, and specialized analysis tools)",
+    "Rule-based deterministic security triage engine",
+    "Automated audit-trail and evidence generation",
+    "Context-aware correlation and prioritization"
+  ],
+  "backSections": [
+    {
+      "heading": "Our Mission",
+      "body": "We make secure software shippable at a time when legal liability has moved onto the manufacturers who build it. NIS2, the Cyber Resilience Act, and the EU AI Act keep getting stricter. At the same time, vulnerability counts are rising. Agentic coding makes this worse, because AI now generates code faster than any team can review it. Security and compliance have become the chief obstacles to getting software out the door. Our purpose is to clear that obstacle. We let sovereign telco operators, equipment vendors, and regulated industries ship secure, compliant software quickly, without inflating their security teams or giving up control of their data."
+    },
+    {
+      "heading": "What We Do",
+      "body": "CipherCell is a security orchestration layer that sits on top of vulnerability scanners and SBOMs. We capture findings from SAST, SCA, DAST, and specialized analysis tools, correlate them with your codebase and deployment context, and produce a single relevance-sorted, evidence-backed queue. The hard part today isn't detection. It's orchestration, signal, and proof. Every decision arrives with the audit trail regulators now expect, generated as a byproduct rather than reconstructed after the fact."
+    },
+    {
+      "heading": "What Makes Us Distinct",
+      "body": "Vertical depth: built by security researchers who know first-hand how poorly generic security tooling maps to specialized stacks, and other domain-specific targets. Transparency by default: a rules-first pipeline with local AI used only where it earns its place; every decision is deterministic, logged, and inspectable. Air-gapped by design: fully on-premises, no data leaves your infrastructure, no sovereignty caveats. Zero-touch onboarding: triage real findings on day one, not after a quarter of configuration wiring."
+    }
+  ],
+  "quote": "CipherCell grew out of research at the University of Passau, where the founders built security solutions for specialized software and hardware. They kept hitting the same wall: generic tooling fits these targets poorly, and as regulations shifted liability onto manufacturers, the real bottleneck moved from finding vulnerabilities to prioritizing and proving what to fix. CipherCell closes that gap, providing a security orchestration layer that lets regulated companies ship secure, compliant software at speed.",
+  "founders": [
+    {
+      "name": "Dr. Felix Klement",
+      "role": "Co-Founder & CEO",
+      "bio": "Deep expertise in software security and next-generation telecommunications systems. Leads the company vision, strategy, and partnerships. Driven to help enterprises ship secure software at speed, turning security from a blocker into something built in.",
+      "photo": "founders/felix-klement.jpg"
+    },
+    {
+      "name": "Dr. Florian Frank",
+      "role": "Co-Founder & CTO",
+      "bio": "Expert in hardware security, low-level programming, and FPGA-based system design. Oversees technical development and the product roadmap. Set on replacing the endless triage queue with a single, relevance-sorted view where every finding is backed by evidence.",
+      "photo": "founders/florian-frank.jpg"
+    }
+  ],
+  "location": "Passau, Germany"
+}

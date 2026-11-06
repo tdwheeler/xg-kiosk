@@ -1,0 +1,55 @@
+{
+  "imageConfig": {
+    "logoScale": 1.2
+  },
+  "positioning": "Ruggedized ISAC Radios for Critical Infrastructure",
+  "technologies": [
+    "Integrated Sensing and Communication (ISAC) in One Radio",
+    "Real-time 3D Positioning without GPS/GNSS or infrastructure",
+    "Self-forming Mesh — No Cables, No Network Infrastructure",
+    "Frequency Agnostic - Proprietary PHY solution via SDR technology"
+  ],
+  "valueProp": "We build customized ISAC radios that transmit data and sense their environment at once – reliable connectivity and precise positioning in one device, no infrastructure required.",
+  "turnover": {
+    "value": "€10M",
+    "label": "Expected turnover four years from now"
+  },
+  "backSections": [
+    {
+      "heading": "Our Mission:",
+      "body": "We develop ultra-reliable wireless technology that enables communication even where conventional systems fail. With our own waveform, MOXZ delivers real-time control, robust connectivity and precise positioning in a single radio."
+    },
+    {
+      "heading": "Our Core Competences",
+      "body": "Waveform Research and Signal Design: Our technology is based on a waveform developed over nearly two decades of research on multipath communication. We design signals that stay reliable where reflection, motion and interference break conventional systems. Integrated Sensing and Communication: We combine data transmission and environment sensing in one radio, on the same band at the same time. Customers get communication and real-time positioning without adding a second system. Ruggedized Hardware and Software: We build radios for conditions that rule out standard equipment — underground, in motion, at high temperatures. Our software turns research results into systems that hold up in daily operation. Customized Solutions: Every site differs in frequency, range and integration requirements. We customize our radios to your frequency bands, your fleet size and your existing systems."
+    }
+  ],
+  "quote": "It started with one question: What is the most reliable wireless communication and sensing protocol for multipath channels (highly reflective indoor scenarios)? Nearly two decades of research later, MOXZ turns the answer into a new radio-architecture that works where conventional wireless fails — tunnels, mines, warehouses, factory floors and rail networks.",
+  "location": "Berlin, Germany",
+  "founders": [
+    {
+      "name": "Philipp Walk",
+      "role": "Co-Founder & CEO",
+      "bio": "Our four founders bring more than 40 years of combined experience in wireless research at TU Berlin, DLR and Fraunhofer HHI. After nearly two decades of collaboration, they founded MOXZ in 2023 to bring their invention out of the lab.",
+      "photo": "founders/philipp-walk.jpg"
+    },
+    {
+      "name": "Dennis Wieruch",
+      "role": "Co-Founder & CTO",
+      "bio": "Our four founders bring more than 40 years of combined experience in wireless research at TU Berlin, DLR and Fraunhofer HHI. After nearly two decades of collaboration, they founded MOXZ in 2023 to bring their invention out of the lab.",
+      "photo": "founders/dennis-wieruch.jpg"
+    },
+    {
+      "name": "Kai Heuermann",
+      "role": "Co-Founder & Head of Software Engineering",
+      "bio": "Our four founders bring more than 40 years of combined experience in wireless research at TU Berlin, DLR and Fraunhofer HHI. After nearly two decades of collaboration, they founded MOXZ in 2023 to bring their invention out of the lab.",
+      "photo": "founders/kai-heuermann.jpg"
+    },
+    {
+      "name": "Peter Jung",
+      "role": "Co-Founder & CSO",
+      "bio": "Our four founders bring more than 40 years of combined experience in wireless research at TU Berlin, DLR and Fraunhofer HHI. After nearly two decades of collaboration, they founded MOXZ in 2023 to bring their invention out of the lab.",
+      "photo": "founders/peter-jung.jpg"
+    }
+  ]
+}

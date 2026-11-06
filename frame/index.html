@@ -1,0 +1,239 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>xG Kiosk — frame test</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; }
+  html, body { margin:0; padding:0; width:100%; height:100%; overflow:hidden; background:#000; }
+
+  /* The letterbox. Everything outside the iframe is the black frame. */
+  #stage { position:fixed; inset:0; display:flex; align-items:center; justify-content:center; }
+  #stage iframe { border:none; display:block; background:#fff; }
+
+  /* ── Controls: live in the black area, never inside the iframe ── */
+  #ui {
+    position:fixed; z-index:10; left:0; right:0; bottom:0;
+    display:flex; flex-wrap:wrap; align-items:center; gap:8px;
+    padding:10px 14px; background:rgba(0,0,0,0.82);
+    font:500 13px/1 ui-monospace, SFMono-Regular, Menlo, monospace; color:#8a8a8a;
+  }
+  #ui.hidden { display:none; }
+  button {
+    font:inherit; color:#ddd; background:#1c1c1c; border:1px solid #333;
+    padding:11px 13px; border-radius:6px; cursor:pointer; touch-action:manipulation;
+  }
+  button:hover { background:#282828; }
+  button.on { background:#021f7f; border-color:#345; color:#fff; }
+  .sep { width:1px; height:26px; background:#333; margin:0 4px; }
+  .grow { flex:1 1 auto; }
+
+  /* ── Readout ── */
+  #readout { color:#6a6a6a; white-space:nowrap; }
+  #readout b { color:#0f0; font-weight:600; }
+  #readout i { color:#e8b; font-style:normal; }
+  #warn { color:#f66; }
+
+  /* ── Slider: continuous sweep between the discrete presets ── */
+  #slider-wrap { display:inline-flex; align-items:center; gap:8px; }
+  #slider-wrap b { color:#0f0; font-weight:600; min-width:44px; text-align:right; }
+  #slider {
+    -webkit-appearance:none; appearance:none; width:170px; height:26px;
+    background:transparent; cursor:pointer; touch-action:manipulation;
+  }
+  #slider::-webkit-slider-runnable-track { height:4px; background:#333; border-radius:2px; }
+  #slider::-moz-range-track { height:4px; background:#333; border-radius:2px; }
+  #slider::-webkit-slider-thumb {
+    -webkit-appearance:none; appearance:none; width:22px; height:22px; margin-top:-9px;
+    background:#021f7f; border:1px solid #4a6; border-radius:50%;
+  }
+  #slider::-moz-range-thumb {
+    width:22px; height:22px; background:#021f7f; border:1px solid #4a6; border-radius:50%;
+  }
+</style>
+</head>
+<body>
+
+<div id="stage"></div>
+
+<div id="ui">
+  <span class="grow" id="readout">measuring…</span>
+  <span class="sep"></span>
+  <span id="fracs"></span>
+  <span class="sep"></span>
+  <span id="slider-wrap">
+    <button id="dec" title="-1%">&minus;</button>
+    <input id="slider" type="range" min="10" max="100" step="1" value="50" />
+    <button id="inc" title="+1%">+</button>
+    <b id="pct">50%</b>
+  </span>
+  <span class="sep"></span>
+  <span id="abs"></span>
+  <span class="sep"></span>
+  <button id="hide" title="hide this bar (h)">hide</button>
+</div>
+
+<script>
+// ══════════ FRAME TEST HARNESS ══════════
+// Loads the real app in an iframe at a chosen size, centred on black, so the
+// app *believes* it is running on a smaller screen. Nothing here touches
+// main.js — the app reads window.innerWidth/innerHeight, and inside an iframe
+// those are the iframe's dimensions.
+//
+//   /frame/?f=0.5              → half the host viewport, host aspect kept
+//   /frame/?w=1920&h=1080      → an explicit CSS-pixel size
+//   /frame/?format=kiosk65     → format passed through to the app (default)
+//
+// Sizes are CSS pixels, which is what the app actually lays out in. Read the
+// host numbers in the readout first — if innerWidth is not what you expect,
+// every absolute preset below is off by the devicePixelRatio.
+
+const qs = new URLSearchParams(location.search);
+const APP_FORMAT = qs.get("format") ?? "kiosk65";
+
+const FRACTIONS = [1, 0.9, 0.8, 0.7, 0.6, 0.5, 0.4, 0.3, 0.25, 0.2, 0.15];
+const ABSOLUTES = [
+  [1920, 1080], [1600, 900], [1366, 768], [1280, 720], [1024, 768],
+];
+
+const stage = document.getElementById("stage");
+const ui = document.getElementById("ui");
+
+let current = null; // {w,h} in CSS px
+
+// Rebuilds the iframe from scratch. This is deliberate, not lazy:
+// main.js computes state.PANEL_WIDTH only inside init(), and its resize
+// handler never recomputes it. Resizing an existing iframe would leave the
+// sidebar at its old width and misreport the result as a design flaw.
+function mount(w, h) {
+  const availW = window.innerWidth;
+  const availH = window.innerHeight - (ui.classList.contains("hidden") ? 0 : ui.offsetHeight);
+  const clipped = w > availW || h > availH;
+
+  current = { w, h, clipped };
+  stage.innerHTML = "";
+
+  const f = document.createElement("iframe");
+  f.width = w; f.height = h;
+  f.style.width = w + "px";
+  f.style.height = h + "px";
+  // Relative, not "/": from file:// a leading slash is the filesystem root.
+  f.src = "../index.html" + (APP_FORMAT ? "?format=" + encodeURIComponent(APP_FORMAT) : "");
+  f.addEventListener("load", () => setTimeout(report, 60));
+  stage.appendChild(f);
+
+  syncButtons();
+  report();
+}
+
+function hostAspectSize(fraction) {
+  const availH = window.innerHeight - (ui.classList.contains("hidden") ? 0 : ui.offsetHeight);
+  return [Math.round(window.innerWidth * fraction), Math.round(availH * fraction)];
+}
+
+// ── Readout ──────────────────────────────────────────────────────────────────
+// The host numbers are the point of the first run: if innerWidth is 1920 with
+// dpr 2 rather than 3840, the panel serves a half-size CSS viewport and every
+// absolute preset means something different than it appears to.
+function report() {
+  const dpr = window.devicePixelRatio || 1;
+  let inner = "—";
+  try {
+    const cw = stage.querySelector("iframe")?.contentWindow;
+    if (cw) inner = cw.innerWidth + "×" + cw.innerHeight;
+  } catch (e) { inner = "(cross-origin)"; }
+
+  document.getElementById("readout").innerHTML =
+    `host <b>${window.innerWidth}×${window.innerHeight}</b> css` +
+    ` · dpr ${dpr} · physical ${window.innerWidth * dpr}×${window.innerHeight * dpr}` +
+    ` &nbsp;|&nbsp; screen ${screen.width}×${screen.height}` +
+    ` &nbsp;|&nbsp; frame <i>${current ? current.w + "×" + current.h : "—"}</i>` +
+    ` · app sees <i>${inner}</i>` +
+    (current?.clipped ? ` <span id="warn">— larger than the host viewport, clipped</span>` : "");
+}
+
+// ── Buttons ──────────────────────────────────────────────────────────────────
+const fracsEl = document.getElementById("fracs");
+const absEl = document.getElementById("abs");
+
+FRACTIONS.forEach((fr) => {
+  const b = document.createElement("button");
+  b.textContent = fr === 1 ? "full" : Math.round(fr * 100) + "%";
+  b.dataset.frac = fr;
+  b.onclick = () => mount(...hostAspectSize(fr));
+  fracsEl.appendChild(b);
+});
+
+ABSOLUTES.forEach(([w, h]) => {
+  const b = document.createElement("button");
+  b.textContent = w + "×" + h;
+  b.dataset.w = w; b.dataset.h = h;
+  b.onclick = () => mount(w, h);
+  absEl.appendChild(b);
+});
+
+function syncButtons() {
+  // Reflect the active size back onto the slider, so preset taps and drags
+  // stay in agreement rather than each telling a different story.
+  if (current && window.innerWidth) {
+    const p = Math.round((current.w / window.innerWidth) * 100);
+    if (p >= 10 && p <= 100) { slider.value = p; pct.textContent = p + "%"; }
+    else { pct.textContent = p + "%"; }
+  }
+
+  document.querySelectorAll("#ui button[data-frac], #ui button[data-w]").forEach((b) => {
+    const isAbs = b.dataset.w !== undefined;
+    const match = isAbs
+      ? current && +b.dataset.w === current.w && +b.dataset.h === current.h
+      : current && JSON.stringify(hostAspectSize(+b.dataset.frac)) === JSON.stringify([current.w, current.h]);
+    b.classList.toggle("on", !!match);
+  });
+}
+
+// ── Slider ───────────────────────────────────────────────────────────────────
+// Label tracks the drag; the iframe is only rebuilt on release. Remounting on
+// every input event would fire a full app reload per pixel dragged.
+const slider = document.getElementById("slider");
+const pct = document.getElementById("pct");
+
+slider.addEventListener("input", () => { pct.textContent = slider.value + "%"; });
+slider.addEventListener("change", () => mount(...hostAspectSize(slider.value / 100)));
+
+const nudge = (d) => {
+  slider.value = Math.min(100, Math.max(10, +slider.value + d));
+  pct.textContent = slider.value + "%";
+  mount(...hostAspectSize(slider.value / 100));
+};
+document.getElementById("dec").onclick = () => nudge(-1);
+document.getElementById("inc").onclick = () => nudge(+1);
+
+document.getElementById("hide").onclick = toggleUi;
+function toggleUi() {
+  ui.classList.toggle("hidden");
+  if (current) mount(current.w, current.h);
+}
+
+// Keyboard: 1–9 walk the presets, h toggles the bar. Convenience on desktop;
+// the kiosk has no keyboard, which is why every control is also a tap target.
+addEventListener("keydown", (e) => {
+  if (e.key === "h") return toggleUi();
+  const all = [...document.querySelectorAll("#ui button[data-frac], #ui button[data-w]")];
+  const i = parseInt(e.key, 10) - 1;
+  if (i >= 0 && i < all.length) all[i].click();
+});
+
+addEventListener("resize", () => { report(); syncButtons(); });
+
+// ── Boot ─────────────────────────────────────────────────────────────────────
+// Explicit w/h wins; otherwise a fraction; otherwise half-size, which makes it
+// immediately obvious the harness is doing something.
+const w0 = parseInt(qs.get("w"), 10);
+const h0 = parseInt(qs.get("h"), 10);
+const f0 = parseFloat(qs.get("f"));
+if (w0 > 0 && h0 > 0) mount(w0, h0);
+else if (f0 > 0) mount(...hostAspectSize(f0));
+else mount(...hostAspectSize(0.5));
+</script>
+</body>
+</html>

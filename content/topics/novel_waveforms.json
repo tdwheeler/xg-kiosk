@@ -1,0 +1,248 @@
+{
+  "description": "Novel waveforms and modulation schemes aim to combine high data rates, robustness, low latency, and efficient use of time, frequency, and delay-Doppler resources. Examples include OTFS, advanced OFDM, and emerging multiple-access techniques.",
+  "featured": {
+    "title": "From OTFS to DD-ISAC: Integrating Sensing and Communications in the Delay Doppler Domain",
+    "authors": "W. Yuan, L. Zhou, S. K. Dehkordi, S. Li, P. Fan, G. Caire, und H. V. Poor",
+    "venue": "IEEE Wireless Commun",
+    "year": "2024",
+    "summary": "Investigates “From OTFS to DD-ISAC: Integrating Sensing and Communications in the Delay Doppler Domain”. Focus: the core mechanism, system behavior and engineering implications in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems.",
+    "citations": {
+      "count": "86",
+      "source": "ResearchGate",
+      "checkedOn": "2026-08-27",
+      "url": "https://www.researchgate.net/search/publication?q=From+OTFS+to+DD-ISAC%3A+Integrating+Sensing+and+Communications+in+the+Delay+Doppler+Domain"
+    }
+  },
+  "publications": [
+    {
+      "title": "A low-PAPR Pilot Design and Optimization for OTFS Modulation",
+      "authors": "D. Bergamasco, F. Clazzer, A. Munari, und P. Casari",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Optimizes “A low-PAPR Pilot Design and Optimization for OTFS Modulation”. Focus: resource decisions, constraints and performance trade-offs in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "A Comparison among Single Carrier, OFDM, and OTFS in mmWave Multi-Connectivity Downlink Transmissions",
+      "authors": "F. Göttsch, S. Li, L. Miretti, G. Caire, und S. Stanczak",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Analyzes “A Comparison among Single Carrier, OFDM, and OTFS in mmWave Multi-Connectivity Downlink Transmissions”. Focus: system behavior, performance limits and design trade-offs in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "A Highly-Integrated 64-QAM Ku-Band Transceiver in SiGe BiCMOS for 6G Cell-Free MIMO",
+      "authors": "A. Engelhardt, F. Stapelfeldt, M. Kadam, P. Oliveira, H.-D. Wohlmuth, und V. Issakov",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Investigates “A Highly-Integrated 64-QAM Ku-Band Transceiver in SiGe BiCMOS for 6G Cell-Free MIMO”. Focus: the core mechanism, system behavior and engineering implications in FR3 Spectrum (7-24 GHz), giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "On the Impact of OFDM Waveform in ISAC Systems",
+      "authors": "A. Fazli, E. Tohidi, Z. Utkovski, P. Agostini, und S. Stanczak",
+      "year": "2025",
+      "isConference": true,
+      "summary": "Presents “On the Impact of OFDM Waveform in ISAC Systems”. Focus: architecture, implementation choices and engineering trade-offs in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Joint Waveform Design for Communication and Sensing with Adjustable PAPR",
+      "authors": "Kong, Hong Kong, Okt. 2024. B. Kilic, K. Turbic, M. Kasparick, und S. Stanczak",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Presents “Joint Waveform Design for Communication and Sensing with Adjustable PAPR”. Focus: architecture, implementation choices and engineering trade-offs in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Localization in Dynamic Indoor MIMO-OFDM Wireless Systems using Domain Adaptation",
+      "authors": "R. Ismayilov, R. L. G. Cavalcante, und S. Stanczak",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Presents “Localization in Dynamic Indoor MIMO-OFDM Wireless Systems using Domain Adaptation”. Focus: architecture, implementation choices and engineering trade-offs in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Design and Performance of Enhanced Spread Spectrum Aloha for Unsourced Multiple Access",
+      "authors": "R. Schiavone, G. Liva, und R. Garello",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Presents “Design and Performance of Enhanced Spread Spectrum Aloha for Unsourced Multiple Access”. Focus: architecture, implementation choices and engineering trade-offs in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "10",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Design+and+Performance+of+Enhanced+Spread+Spectrum+Aloha+for+Unsourced+Multiple+Access"
+      }
+    },
+    {
+      "title": "Optimization of Rate-Splitting Multiple Access in Beyond Diagonal RIS-Assisted URLLC Systems",
+      "authors": "M. Soleymani, I. Santamaria, E. A. Jorswieck, und B. Clerckx",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Optimizes “Optimization of Rate-Splitting Multiple Access in Beyond Diagonal RIS-Assisted URLLC Systems”. Focus: resource decisions, constraints and performance trade-offs in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "74",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Optimization+of+Rate-Splitting+Multiple+Access+in+Beyond+Diagonal+RIS-Assisted+URLLC+Systems"
+      }
+    },
+    {
+      "title": "A Wide Band High Linearity CT-∑Δ Converter for Receivers Reaching 1.75 Gb/s Using 16384 QAM",
+      "authors": "J. Edler, P. J. Artz, E. Wittenhagen, und F. Gerfers",
+      "year": "2024",
+      "isConference": true,
+      "summary": "Investigates “A Wide Band High Linearity CT-∑Δ Converter for Receivers Reaching 1.75 Gb/s Using 16384 QAM”. Focus: the core mechanism, system behavior and engineering implications in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Maximizing Spectral and Energy Efficiency in Multi-user MIMO OFDM Systems with RIS and Hardware Impairment",
+      "authors": "M. Soleymani, I. Santamaria, A. Sezgin, und E. Jorswieck",
+      "year": "2024",
+      "isConference": false,
+      "summary": "Presents “Maximizing Spectral and Energy Efficiency in Multi-user MIMO OFDM Systems with RIS and Hardware Impairment”. Focus: architecture, implementation choices and engineering trade-offs in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Bit Error Rate Performance of Real-Valued Spreading Sequences in DSSS-CSK Based Wireless Communications",
+      "authors": "L. Lopacinski, N. Maletic, A. Hasani, M. Nauman, J. Gutiérrez, und E. Grass",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Analyzes “Bit Error Rate Performance of Real-Valued Spreading Sequences in DSSS-CSK Based Wireless Communications”. Focus: system behavior, performance limits and design trade-offs in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "One-Shot Messaging at Any Load Through Random Sub-Channeling in OFDM",
+      "authors": "G. Wunder, A. Flinth, und B. Groß",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Investigates “One-Shot Messaging at Any Load Through Random Sub-Channeling in OFDM”. Focus: the core mechanism, system behavior and engineering implications in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "0",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=One-Shot+Messaging+at+Any+Load+Through+Random+Sub-Channeling+in+OFDM"
+      }
+    },
+    {
+      "title": "Beam-Space MIMO Radar for Joint Communication and Sensing With OTFS Modulation",
+      "authors": "S. K. Dehkordi, L. Gaudio, M. Kobayashi, G. Caire, und G. Colavolpe",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Investigates “Beam-Space MIMO Radar for Joint Communication and Sensing With OTFS Modulation”. Focus: the core mechanism, system behavior and engineering implications in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "93",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Beam-Space+MIMO+Radar+for+Joint+Communication+and+Sensing+With+OTFS+Modulation"
+      }
+    },
+    {
+      "title": "Reduced-Complexity Cross-Domain Iterative Detection for OTFS Modulation via Delay-Doppler Decoupling",
+      "authors": "M. Liu, S. Li, B. Bai, und G. Caire",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Reduced-Complexity Cross-Domain Iterative Detection for OTFS Modulation via Delay-Doppler Decoupling”. Focus: the core mechanism, system behavior and engineering implications in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Non-Orthogonal Multiple Access Assisted by Reconfigurable Intelligent Surface Using Unsupervised Machine Learning",
+      "authors": "F. Siegismund-Poschmann, B. Peng, und E. A. Jorswieck",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Explores “Non-Orthogonal Multiple Access Assisted by Reconfigurable Intelligent Surface Using Unsupervised Machine Learning”. Focus: data-driven prediction, control, optimization or adaptation in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Amplitude- and phase-modulated PSSS for wide bandwidth mixed analog-digital baseband processors in THz communication",
+      "authors": "L. Lopacinski, N. Maletic, R. Kraemer, A. Hasani, J. Gutiérrez, M. Krstic, und E. Grass",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Amplitude- and phase-modulated PSSS for wide bandwidth mixed analog-digital baseband processors in THz communication”. Focus: the core mechanism, system behavior and engineering implications in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Hierarchical Soft-Thresholding for Parameter Estimation in Beam-Space OTFS Integrated Sensing and Communication",
+      "authors": "S. K. Dehkordi, J. C. Hauffen, P. Jung, und G. Caire",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Hierarchical Soft-Thresholding for Parameter Estimation in Beam-Space OTFS Integrated Sensing and Communication”. Focus: the core mechanism, system behavior and engineering implications in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Delay-Doppler Domain Tomlinson-Harashima Precoding for OTFS-Based Downlink MU-MIMO Transmissions: Linear Complexity Implementation and Scaling Law Analysis",
+      "authors": "S. Li, J. Yuan, P. Fitzpatrick, T. Sakurai, und G. Caire",
+      "year": "2023",
+      "isConference": false,
+      "summary": "Demonstrates “Delay-Doppler Domain Tomlinson-Harashima Precoding for OTFS-Based Downlink MU-MIMO Transmissions: Linear Complexity Implementation and…”. Focus: implementation choices, experimental behavior and practical feasibility in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "59",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Delay-Doppler+Domain+Tomlinson-Harashima+Precoding+for+OTFS-Based+Downlink+MU-MIMO+Transmissions%3A+Linear+Complexity+Implementation+and+Scaling+Law+Analysis"
+      }
+    },
+    {
+      "title": "Multi-Scatter-Point Target Estimation for Sensing-Assisted OTFS Automotive Communication",
+      "authors": "S. K. Dehkordi, J. C. Hauffen, P. Jung, R. Hernangomez, G. Caire, und S. Stanczak",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Investigates “Multi-Scatter-Point Target Estimation for Sensing-Assisted OTFS Automotive Communication”. Focus: the core mechanism, system behavior and engineering implications in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Adaptive Energy-Efficient Waveform Design For Joint Communication and Sensing using Multiobjective Multiarmed Bandits",
+      "authors": "A. R. Balef, S. Maghsudi, und S. Stanczak",
+      "year": "2023",
+      "isConference": true,
+      "summary": "Presents “Adaptive Energy-Efficient Waveform Design For Joint Communication and Sensing using Multiobjective Multiarmed Bandits”. Focus: architecture, implementation choices and engineering trade-offs in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "A State-of-the-Art Survey on Reconfigurable Intelligent Surface-Assisted Non-Orthogonal Multiple Access Networks",
+      "authors": "Z. Ding, L. Lv, F. Fang, O. A. Dobre, G. K. Karagiannidis, N. Al-Dhahir, R. Schober, und H. V. Poor",
+      "year": "2022",
+      "isConference": false,
+      "summary": "Surveys “A State-of-the-Art Survey on Reconfigurable Intelligent Surface-Assisted Non-Orthogonal Multiple Access Networks”. Focus: main approaches, design choices and open questions in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "109",
+        "source": "SciSpace",
+        "checkedOn": "2026-08-27",
+        "url": "https://scispace.com/search?q=A+State-of-the-Art+Survey+on+Reconfigurable+Intelligent+Surface-Assisted+Non-Orthogonal+Multiple+Access+Networks"
+      }
+    },
+    {
+      "title": "Leakage Suppression in Pulse-Shaped OTFS Delay-Doppler-Pilot Channel Estimation",
+      "authors": "A. Pfadler, T. Szollmann, P. Jung, und S. Stanczak",
+      "year": "2022",
+      "isConference": false,
+      "summary": "Investigates “Leakage Suppression in Pulse-Shaped OTFS Delay-Doppler-Pilot Channel Estimation”. Focus: the core mechanism, system behavior and engineering implications in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "22",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Leakage+Suppression+in+Pulse-Shaped+OTFS+Delay-Doppler-Pilot+Channel+Estimation"
+      }
+    },
+    {
+      "title": "Short-Term Prediction of Doubly-Dispersive Channels for Pulse-Shaped OTFS using 2D-ConvLSTM",
+      "authors": "A. Pfadler, P. Jung, V. Shala, M. Kasparick, M. Adrat, und S. Stanczak",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Investigates “Short-Term Prediction of Doubly-Dispersive Channels for Pulse-Shaped OTFS using 2D-ConvLSTM”. Focus: the core mechanism, system behavior and engineering implications in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Precoding and Decoding Schemes for Downlink MIMO-RSMA with Simultaneous Diagonalization and User Exclusion",
+      "authors": "R. Diab, A. Krishnamoorthy, und R. Schober",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Investigates “Precoding and Decoding Schemes for Downlink MIMO-RSMA with Simultaneous Diagonalization and User Exclusion”. Focus: the core mechanism, system behavior and engineering implications in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "A novel OFDM-based Radar and Communication System Design using Digital IQ-Modulation and 52 GS/s Direct-RF Data Converter",
+      "authors": "S. Waldmann, H. Ordouei, und F. Gerfers",
+      "year": "2022",
+      "isConference": true,
+      "summary": "Presents “A novel OFDM-based Radar and Communication System Design using Digital IQ-Modulation and 52 GS/s Direct-RF Data Converter”. Focus: architecture, implementation choices and engineering trade-offs in Software-Defined Radio, giving a quick view of the problem and its role in future wireless and network systems."
+    },
+    {
+      "title": "Rate-Splitting Multiple Access: Fundamentals, Survey, and Future Research Trends",
+      "authors": "Y. Mao, O. Dizdar, B. Clerckx, R. Schober, P. Popovski, und H. V. Poor",
+      "year": "2022",
+      "isConference": false,
+      "summary": "Surveys “Rate-Splitting Multiple Access: Fundamentals, Survey, and Future Research Trends”. Focus: main approaches, design choices and open questions in Novel Waveforms & Modulation, giving a quick view of the problem and its role in future wireless and network systems.",
+      "citations": {
+        "count": "961",
+        "source": "ResearchGate",
+        "checkedOn": "2026-08-27",
+        "url": "https://www.researchgate.net/search/publication?q=Rate-Splitting+Multiple+Access%3A+Fundamentals%2C+Survey%2C+and+Future+Research+Trends"
+      }
+    }
+  ]
+}
